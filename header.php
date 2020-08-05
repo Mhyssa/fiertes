@@ -21,7 +21,11 @@
     <!-- icone de l'onglet -->
     <link rel="icon" href="assets/img/logo.ico" /> 
     <!-- polices '?' et '?' -->
-    <!-- polices '?' et '?' -->
+
+
+
+    
+    <!-- ------------------ -->
     <!-- Cookies -->
     <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.css" />
 
@@ -37,8 +41,31 @@
 
     <div class="row">
         <div class="col-sm-12 col-lg-12">
-<p>Hello world !</p>
+
+<!-- Marche des Fierté Amiens 2020
+Critère esthétiques 
+- les luttes représentées par des personnes : classisme, sexisme, LGBTQIphobie, racisme, validime, putophobie, xenophobie, serophobie, grossophobie, enbyphobie, âgisme, psychophobie, toxicophobie. 
+- intégration de la couleur rouge
+Élément iconographique 
+- seringue 
+- une série de poings levés (point BLM,point avec une attelle, point non genré pour représenté les luttes ) 
+- drapeau LGBTQI+ de Philadelphie 
+- parapluie rouge  
+- ruban rouge
+- 2eme Marche des Fiertés 
+- 2020 
+- 19 septembre 13h 
+- Place Léon Gonthier 
+- port du masque fortement recommandé -->
+
+<!-- ------------------------------------------------------------------------------------------------------------------------------
+Navbar 2eme marche des fiertes / Archives
+------------------------------------------------------------------------------------------------------------------------------ -->
+
+
+        <!-- Fin de <div class="row"> -->
         </div>
+    <!-- Fin de <div class="col-sm-12 col-lg-12"> -->
     </div>
 
 </header>
