@@ -24,7 +24,7 @@
 
 
 
-    
+
     <!-- ------------------ -->
     <!-- Cookies -->
     <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.css" />
@@ -62,7 +62,28 @@ Critère esthétiques
 Navbar 2eme marche des fiertes / Archives
 ------------------------------------------------------------------------------------------------------------------------------ -->
 
-
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+<a class="navbar-brand" href="index.php">
+    <img src="assets\img\logo.ico" width="30" height="30" class="d-inline-block align-top" alt="" loading="lazy">
+    fiertesAmiens.fr
+  </a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarNav">
+    <ul class="navbar-nav">
+      <li class="nav-item">
+        <a class="nav-link" href="index.php">À Propos</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="index.php">Partenaires</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="index.php">Retour sur 2019</a>
+      </li>
+    </ul>
+  </div>
+</nav>
         <!-- Fin de <div class="row"> -->
         </div>
     <!-- Fin de <div class="col-sm-12 col-lg-12"> -->
