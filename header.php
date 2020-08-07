@@ -20,12 +20,10 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css">    
     <!-- icone de l'onglet -->
     <link rel="icon" href="assets/img/logo.ico" /> 
-    <!-- polices '?' et '?' -->
-
-
-
-
-    <!-- ------------------ -->
+    <!-- Google fonts 'Roboto' Regular 400, Regular 400 italic, Bold 700, Bold 700 italic, Black 900 -->
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,700;0,900;1,400;1,700&display=swap" rel="stylesheet">
+    <!-- Google fonts 'Domine' Regular 400, Bold 700-->
+    <link href="https://fonts.googleapis.com/css2?family=Domine:wght@400;700&family=Roboto&display=swap" rel="stylesheet">
     <!-- Cookies -->
     <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.css" />
 
@@ -40,7 +38,7 @@
 <header>
 
     <div class="row">
-        <div class="col-sm-12 col-lg-12">
+        <div class="col-sm-12 col-lg-12 p-0">
 
 <!-- Marche des Fierté Amiens 2020
 Critère esthétiques 
@@ -62,9 +60,9 @@ Critère esthétiques
 Navbar 2eme marche des fiertes / Archives
 ------------------------------------------------------------------------------------------------------------------------------ -->
 
-<nav class="navbar navbar-expand-lg navbar-light bg-light">
+<nav class="navbar navbar-expand-lg navbar-light bg-danger">
 <a class="navbar-brand" href="index.php">
-    <img src="assets\img\logo.ico" width="30" height="30" class="d-inline-block align-top" alt="" loading="lazy">
+    <img src="assets\img\logo.ico" width="30" height="30" class="d-inline-block align-top mr-2" alt="" loading="lazy">
     fiertesAmiens.fr
   </a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
