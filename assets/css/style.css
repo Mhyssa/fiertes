@@ -15,3 +15,22 @@ nav {
     font-weight: 700;
     text-transform: uppercase;
 }
+
+.color { color: 
+    #ff1616, 
+    #ee3737, 
+    #fff3d5, 
+    #e1e8ed, 
+    #cfe0f4, 
+    #ccd6dd, 
+    #211d1d;
+}
+
+.lgbt { color : 
+    #e40303, 
+    #ff8c00,
+    #ffed00,
+    #008026,
+    #004dff,
+    #750787;
+}
