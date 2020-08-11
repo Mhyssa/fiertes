@@ -27,6 +27,8 @@
     <!-- Cookies -->
     <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.css" />
 
+    <script type="text/javascript" src="assets/js/script.js"></script>
+
     <!-- Titre de l'onglet -->
     <title>Pride Amiens</title>
 
@@ -60,7 +62,7 @@ Critère esthétiques
 Navbar 2eme marche des fiertes / Archives
 ------------------------------------------------------------------------------------------------------------------------------ -->
 
-<nav class="navbar navbar-expand-lg navbar-light bg-danger">
+<nav class="navbar navbar-expand-lg navbar-light">
 <a class="navbar-brand" href="index.php">
     <img src="assets\img\logo.ico" width="30" height="30" class="d-inline-block align-top mr-2" alt="" loading="lazy">
     fiertesAmiens.fr
@@ -77,7 +79,7 @@ Navbar 2eme marche des fiertes / Archives
         <a class="nav-link" href="index.php">Partenaires</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="index.php">Retour sur 2019</a>
+        <a class="nav-link" href="marche2019.php">Retour sur 2019</a>
       </li>
     </ul>
   </div>

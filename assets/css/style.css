@@ -6,31 +6,40 @@
     src: url("leaguespartan-bold.woff") format("woff");
 }
 
+:root {
+    --main-bg-color: #fff3d5;
+
+    --fly-red:#ff1616;
+    --fly-orange: #ee3737;
+    --fly-grey-light: #e1e8ed;
+    --fly-grey-medium: #cfe0f4;
+    --fly-grey: #ccd6dd;
+    --fly-black: #211d1d;
+
+    --cyan: #00FFFF;
+    --fushia: #ff00ff;
+
+    --flag-red: #e40303;
+    --flag-orange : #ff8c00;
+    --flag-yellow: #ffed00;
+    --flag-green: #008026;
+    --flag-blue: #004dff;
+    --flag-purple: #750787;
+  }
+
 body {
     font-family: "domine", "roboto", serif;
+    background-color: var(--main-bg-color);
+    color: var(--flag-red);
 }
 
 nav {
     font-family: "domine", serif;
     font-weight: 700;
     text-transform: uppercase;
+    background-color: var(--fly-grey-medium);
 }
 
-.color { color: 
-    #ff1616, 
-    #ee3737, 
-    #fff3d5, 
-    #e1e8ed, 
-    #cfe0f4, 
-    #ccd6dd, 
-    #211d1d;
-}
-
-.lgbt { color : 
-    #e40303, 
-    #ff8c00,
-    #ffed00,
-    #008026,
-    #004dff,
-    #750787;
+footer {
+    background-color: var(--fly-grey-medium);
 }
