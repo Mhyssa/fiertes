@@ -1,7 +1,7 @@
 <!-- ------------------------------------------------------------------------------------------------------------------------------
     Mentions légales --- CGU/Cookies --- ResO SociO Facebook https://fr-fr.facebook.com/festivalidahot/ --- Contact fiertes.amiens.plaidoyer@gmail.com
 ------------------------------------------------------------------------------------------------------------------------------ -->
-
+<div class="container-fluid">
 <footer class="pt-2 m-0">
 
   <div class="row m-0 pt-4">
@@ -39,6 +39,7 @@
 
   </div>
 </footer>
+</div>
 
 
 

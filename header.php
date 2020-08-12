@@ -73,10 +73,10 @@ Navbar 2eme marche des fiertes / Archives
   <div class="collapse navbar-collapse" id="navbarNav">
     <ul class="navbar-nav">
       <li class="nav-item">
-        <a class="nav-link" href="index.php">À Propos</a>
+        <a class="nav-link" href="index.php">Qui sommes nous ?</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="index.php">Partenaires</a>
+        <a class="nav-link" href="index.php">Partenariats</a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="marche2019.php">Retour sur 2019</a>
