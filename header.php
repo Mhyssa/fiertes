@@ -24,6 +24,8 @@
     <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,700;0,900;1,400;1,700&display=swap" rel="stylesheet">
     <!-- Google fonts 'Domine' Regular 400, Bold 700-->
     <link href="https://fonts.googleapis.com/css2?family=Domine:wght@400;700&family=Roboto&display=swap" rel="stylesheet">
+    <!-- Ekko -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/5.3.0/ekko-lightbox.css" />
     <!-- Cookies -->
     <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.css" />
 

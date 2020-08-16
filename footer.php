@@ -7,7 +7,7 @@
   <div class="row m-0 pt-4">
     <div class="col-lg-4 col-sm-12">
       <p class="text-center">Amiens Pride</p>
-      <a href="mailto:fiertesamiens@gmail.com" class="link">
+      <a href="mailto:fiertes.amiens@gmail.com" class="link">
         <p class="colorpolice link text-center">contact@fiertesamiens.fr</p>
       </a>
     </div>
@@ -51,7 +51,17 @@
   integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"
   integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
+ <!-- Ekko -->
+ <script src="https://cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/5.3.0/ekko-lightbox.min.js"></script>
 
+<script>
+
+    $(document).on('click', '[data-toggle="lightbox"]', function(event){
+        event.preventDefault();
+        $(this).ekkoLightbox();
+    })
+
+</script>
 
 <script src="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.js" data-cfasync="false"></script>
 <script>
