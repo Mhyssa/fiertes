@@ -91,17 +91,18 @@ https://www.komitid.fr/2019/06/21/nous-vivons-un-moment-historique-on-a-assiste-
     </div>
     <div class="col mb-4">
         <div class="card">
-            <img src="..." class="card-img-top" alt="...">
+            <img src="assets/img/a2.PNG" class="card-img-top" alt="Catherine, Timothée Kunde et Alexandra Carpentier font partie du collectif d'associations qui organisent cette première Marche des Fiertés amiénoise.">
             <div class="card-body">
                 <h5 class="card-title">
                     FRANCE BLEU - PREMIÈRE MARCHE DES FIERTÉS À AMIENS : UNE "SENSIBILISATION NÉCESSAIRE"
 
                 </h5>
-                <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional
-                    content. This content is a little bit longer.</p>
+                <p class="card-text">La première Marche des Fiertés d'Amiens aura lieu le 22 juin 2019. 
+                Organisée par un collectif de six associations, elle promet un moment fort pour les personnes homosexuelles et transidentitaires. [...]
+
+</p>
                 <button class="btn bg-danger"><a  target="_BLANK" href="
-https://france3-regions.francetvinfo.fr/hauts-de-france/somme/amiens/pres-2000-personnes-rassemblees-1e-marche-fiertes-amiens-1689316.html
-        
+                https://www.francebleu.fr/infos/societe/premiere-marche-des-fiertes-a-amiens-une-sensibilisation-necessaire-1557077042
         ">Lire la suite</a></button>
             </div>
         </div>
@@ -145,16 +146,15 @@ https://www.courrier-picard.fr/id20345/article/2019-06-22/franc-succes-pour-la-m
 <div class="row row-cols-1 row-cols-md-4">
     <div class="col mb-4">
         <div class="card">
-            <img src="..." class="card-img-top" alt="...">
+            <img src="assets/img/a4.PNG" class="card-img-top" alt="Première Pride d'Amiens.">
             <div class="card-body">
                 <h5 class="card-title">
 
                     COURRIER PICARD - À AMIENS, ILS SE DONNENT LA MAIN SANS CRAINDRE LES QUOLIBETS
                 </h5>
-                <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional
-                    content. This content is a little bit longer.</p>
+                <p class="card-text">Lesbiennes, homos, transgenres… ils veulent vivre sans crainte des insultes ou pire des coups. Le message était porté par un millier de personne pour la première marche des fiertés picarde...</p>
                 <button class="btn bg-danger"><a  target="_BLANK" href="
-https://premium.courrier-picard.fr/id20379/article/2019-06-22/amiens-ils-se-donnent-la-main-sans-craindre-les-quolibets?bot=1
+                https://abonne.lunion.fr/id74647/article/2019-06-22/amiens-ils-se-donnent-la-main-sans-craindre-les-quolibets
         
         ">Lire la suite</a></button>
             </div>
@@ -204,7 +204,7 @@ https://france3-regions.francetvinfo.fr/hauts-de-france/somme/embargo-au-14-mai-
                 <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional
                     content. This content is a little bit longer.</p>
                 <button class="btn bg-danger"><a  target="_BLANK" href="
-https://www.francebleu.fr/infos/societe/premiere-marche-des-fiertes-a-amiens-une-sensibilisation-necessaire-1557077042
+https://france3-regions.francetvinfo.fr/hauts-de-france/somme/amiens/pres-2000-personnes-rassemblees-1e-marche-fiertes-amiens-1689316.html
         
         ">Lire la suite</a></button>
 
