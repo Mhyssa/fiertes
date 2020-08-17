@@ -3,10 +3,10 @@ require("header.php");
 ?>
 
 <div class="col-lg-12 ombre pt-5 ">
-    <div class="container shadow">
+    <div class="container shadow mb-5 rgpd rounded">
         <div class="row">
-
-            <div class="col-md-12">
+<div class="col-12 col-md-12 rainbow mb-5"></div>
+            <div class="col-md-12 text-center">
 
   <h2>
 Responsables de publication :

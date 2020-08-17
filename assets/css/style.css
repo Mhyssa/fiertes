@@ -25,6 +25,9 @@
     --flag-green: #008026;
     --flag-blue: #004dff;
     --flag-purple: #750787;
+
+    --rainbow: linear-gradient(to right, #e40303, #ff8c00,#ffed00,
+    #008026, #004dff, #750787);
 }
 
 body {
@@ -54,4 +57,15 @@ nav {
 
 .footer {
     background-color: var(--main-bg-color);
+}
+
+.rgpd {
+    background: var(--main-bg-color);
+    border: 10px solid var(--main-bg-color);
+}
+
+.rainbow {
+    background: var(--rainbow);
+    height: 100px;
+    width: 100px;
 }

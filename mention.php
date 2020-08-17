@@ -5,11 +5,12 @@ require("header.php");
 
 <div class="col-lg-12 pt-5 ">
     <div class="container">
-        <div class="row shadow">
-            <div class="col-md-12">
+        <div class="row shadow mb-5 rgpd ">
+            <div class="col-12 col-md-12 rainbow mb-5"></div>
+            <div class="col-md-12 text-center">
 
                 <h2>
-                    Responsables de publication :<br><br>
+                    Responsables de publication :<br>
                 </h2>
                 <p>
                     Marion Joly.<br>
@@ -21,7 +22,7 @@ require("header.php");
                     Le Collectif Idahot Amiens<br>
                     Organisme à but non lucratif (association loi 1901, fondations, fonds de dotation)<br>
                 </p>
-                <h2>Hébergement : </h2><br><br>
+                <h2>Hébergement : </h2><br>
                 <p>
                     L’hébergement du site est assuré par OVH ayant ses locaux basés à l’adresse suivante :<br>
 
@@ -30,7 +31,7 @@ require("header.php");
                     Code APE 6202A
                     N° TVA : FR 22 424 761 419, représentée par son dirigeant légal Octave KLABA.<br>
 
-                <h2>  Propriété Intellectuelle : </h2><br><br>
+                <h2>  Propriété Intellectuelle : </h2><br>
 
                     Ce site demeure et reste une création de l’esprit protégé par la loi. Tout le contenu du site FiertesAmiens.fr est strictement privé et réservé au titre du droit d’auteur ainsi qu’au titre de la
                     propriété Intellectuelle.<br>
