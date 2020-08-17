@@ -8,10 +8,12 @@ require('header.php');
 Affiche 16:9 de Louiza
 ------------------------------------------------------------------------------------------------------------------------------ -->
 
-<div class="row">
+<div class="row mt-3">
     <div class="col-12 col-sm-12">
-        <img src="assets/img/banniere_pride_hd.png" alt="" width="100%">
-        <span><a href="">Télécharges l'affiche officiel ici </a></span>
+        <img src="assets/img/banniere_pride.png"
+            alt="2ème Marche des fiertés ( gaypride ) d'Amiens 19 SEPTEMBRE 2020 - 13H  PLACE LÉON GONTHIER 80000 AMIENS"
+            width="100%" class="shadow">
+        <span><a href="assets/img/affiche_pride_2_amiens.pdf"><i class="fas fa-download"></i>Télécharges l'affiche officiel ici</a></span>
     </div>
 </div>
 
@@ -23,27 +25,24 @@ Affiche 16:9 de Louiza
 ------------------------------------------------------------------------------------------------------------------------------ -->
 
 <div class="row">
-
-
-
     <div class="col-12 col-sm-6 text-center">
         <h1 class="">Début de la marche dans :</h1>
         <ul>
-            <li><span id="days"></span>Jours</li>
-            <li><span id="hours"></span>Heures</li>
-            <li><span id="minutes"></span>Minutes</li>
-            <li><span id="seconds"></span>Secondes</li>
+            <li class="count"><span id="days"></span>Jours</li>
+            <li class="count"><span id="hours"></span>Heures</li>
+            <li class="count"><span id="minutes"></span>Minutes</li>
+            <li class="count"><span id="seconds"></span>Secondes</li>
         </ul>
     </div>
     <div class="col-12 col-sm-6">
         <h2>
-            Déroulement de la journée du 19 septembre :
+            Déroulement de la journée du 19 septembre 
         </h2>
         <ul>
 
-            <li>13h prises de paroles</li>
-            <li>14h départ de la déambulation</li>
-            <li>18h fin de la déambulation</li>
+            <li><i class="fas fa-volume-up"></i>13h prises de paroles</li>
+            <li><i class="fas fa-hiking"></i>14h départ de la déambulation</li>
+            <li><i class="fas fa-map-pin"></i>18h fin de la déambulation</li>
         </ul>
     </div>
 </div>
@@ -64,21 +63,21 @@ Affiche 16:9 de Louiza
     <div class="col-12 col-sm-6 text-center">
         <h2 class="">Noms des rues</h2>
         <ol>
-            <li> Départ Place Léon Gontier</li>
-            <li>Rue de la 2eme division Blindée</li>
-            <li>Rue de Beauvais</li>
-            <li>Rue Dumeril</li>
-            <li>Rue des Jacobins</li>
-            <li>Rue des Otages</li>
-            <li>Boulevard de Belfort</li>
-            <li>Place Alphonse Fiquet</li>
-            <li>Rue de Noyon</li>
-            <li>Place René Goblet</li>
-            <li>Rue des Trois Cailloux</li>
-            <li>Place Gambetta</li>
-            <li>Rue Delambre</li>
-            <li>Rue Gresset</li>
-            <li>Place Léon Gontier.</li>
+            <li><i class="fas fa-map-marker-alt"></i>Départ Place Léon Gontier</li>
+            <li><i class="fas fa-map-marker-alt"></i>Rue de la 2eme division Blindée</li>
+            <li><i class="fas fa-map-marker-alt"></i>Rue de Beauvais</li>
+            <li><i class="fas fa-map-marker-alt"></i>Rue Dumeril</li>
+            <li><i class="fas fa-map-marker-alt"></i>Rue des Jacobins</li>
+            <li><i class="fas fa-map-marker-alt"></i>Rue des Otages</li>
+            <li><i class="fas fa-map-marker-alt"></i>Boulevard de Belfort</li>
+            <li><i class="fas fa-map-marker-alt"></i>Place Alphonse Fiquet</li>
+            <li><i class="fas fa-map-marker-alt"></i>Rue de Noyon</li>
+            <li><i class="fas fa-map-marker-alt"></i>Place René Goblet</li>
+            <li><i class="fas fa-map-marker-alt"></i>Rue des Trois Cailloux</li>
+            <li><i class="fas fa-map-marker-alt"></i>Place Gambetta</li>
+            <li><i class="fas fa-map-marker-alt"></i>Rue Delambre</li>
+            <li><i class="fas fa-map-marker-alt"></i>Rue Gresset</li>
+            <li><i class="fas fa-map-marker-alt"></i>Place Léon Gontier.</li>
         </ol>
     </div>
 </div>
@@ -88,26 +87,24 @@ Affiche 16:9 de Louiza
 ------------------------------------------------------------------------------------------------------------------------------ -->
 
 <div class="row">
-    <div class="col-12 col-sm-12">
-        <h2>Qui sommes nous ?</h2>
-        <p>Le collectif inter-associatif LGBTQI+ d'Amiens initialement collectif IDAHOT (International Day Against Homophobia and Transphobia) rassemble les 7 associations amiénoises de lutte contre toutes les formes de discriminations et pour la défense des droits des femmes et des personnes Lesbiennes, Gays, Bisexuel.les, Transidentitaires, Queer, Inteersexes et plus (LGBTQI+).
-Ces 6 associations sont : Flash Our True Colors, Les Bavardes, GAS Solidarité, Divergenre, Simili Queer, Sos homophobie et Aides.
-Le collectif IDAHOT organise chaque année depuis 2018 le festival IDAHOT, festival de lutte contre les LGBTQI+ phobies et depuis 2019, la marche des fiertés à Amiens. 
-Les associations membres du collectif :
-Aides : association de lutte contre le VIH/Sida et les Hépatites, qui agit depuis 30 ans avec et auprès des populations les plus vulnérables pour réduire les nouvelles contaminations et accompagner les personnes touchées vers le soin et dans la défense de leurs droits.
-Divergenre : association fonctionnant en autosupport, d'accueil, d'information, de soutien, d'accompagnement, pour les personnes trans ou en questionnement, ainsi que leurs proches 
-Groupe d’Appui et de Solidarité : association d’éducation populaire de lutte contre les inégalités et les discriminations pour l'inclusion sociale et l'émancipation des personnes vulnérables.
-Flash Our True Colors : association qui agit depuis 2011 pour faire reconnaître la dignité des personnes LGBTQI+, dans un cadre de convivialité, d'échange et de non jugement. 
-Les Bavardes : collectif féministe et lesbien engagé depuis 2017 pour la visibilité de toutes les femmes, au travers d’espaces et d’actions culturelles et artistiques, visant à encourager les débats et les échanges. 
-Simili Queer : Regroupement collectif à Amiens, se retrouvant dans les valeurs, les idées, les luttes du mouvement et des identités queer, et proposant de les transfigurer culturellement/artistiquement mais aussi de pouvoir respirer un peu face à la norme.
-Sos Homophobie : association de lutte contre les discriminations et les agressions à caractère homophobe et transphobe, en vue d’une meilleure acceptation de la diversité des orientations sexuelles et pour lutter pour la visibilité et l’égalité des droits des personnes LGBT. 
 
-</p>
-
-<div class="col-12 col-sm-6">
+    <div class="col-12 col-sm-4">
         <iframe width="100%" height="315" src="https://www.youtube.com/embed/akLfSOXkd1Y" frameborder="0"
             allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
+    <div class="col-12 col-sm-8">
+        <h2>Qui sommes nous ?</h2>
+        <p>Le collectif inter-associatif LGBTQI+ d'Amiens initialement collectif IDAHOT (International Day Against
+            Homophobia and Transphobia) rassemble les 7 associations amiénoises de lutte contre toutes les formes de
+            discriminations et pour la défense des droits des femmes et des personnes Lesbiennes, Gays, Bisexuel.les,
+            Transidentitaires, Queer, Inteersexes et plus (LGBTQI+).
+            Ces 6 associations sont : Flash Our True Colors, Les Bavardes, GAS Solidarité, Divergenre, Simili Queer, Sos
+            homophobie et Aides.
+            Le collectif IDAHOT organise chaque année depuis 2018 le festival IDAHOT, festival de lutte contre les
+            LGBTQI+ phobies et depuis 2019, la marche des fiertés à Amiens.
+            Pour en savoir plus sur les associations membres du collectif <a href=""><i class="fas fa-plus-square"></i></a>
+
+        </p>
     </div>
 </div>
 
@@ -178,13 +175,6 @@ Sos Homophobie : association de lutte contre les discriminations et les agressio
             l’espace public, pour montrer la merveilleuse diversité de nos visages, et de nos vies ; et rappeler les
             pouvoirs publics à leurs responsabilités. Nous sommes également présents pour les personnes disparues
             victimes de ce système oppressants.
-
-            Nous marchons bla bla avec thématique de la Pride
-
-            Aux administrations ; aux pouvoirs publics : nous vous rappellerons vos obligations à l'égard de tou-te-s.
-
-
-
         </p>
     </div>
 </div>
@@ -206,31 +196,90 @@ Sos Homophobie : association de lutte contre les discriminations et les agressio
 
         <div class="row">
             <div class=" col-4 col-sm-4 col-lg-3 col-xl-3">
-                <img src="assets\img\logo\Logo_AIDES.png" class="img-fluid">
+                <a href="https://www.aides.org/">
+                    <img src="assets\img\logo\Logo_AIDES.png" class="img-fluid" alt="Logo Aides">
+                </a>
+                <p>Aides : association de lutte contre le VIH/Sida et les Hépatites, qui agit depuis 30 ans avec et
+                    auprès des populations les plus vulnérables pour réduire les nouvelles contaminations et accompagner
+                    les personnes touchées vers le soin et dans la défense de leurs droits.
+                </p>
             </div>
             <div class=" col-4 col-sm-4 col-lg-3 col-xl-3">
-                <img src="assets\img\logo\Logo_Divergenre.png" class="img-fluid">
+                <img src="assets\img\logo\Logo_Divergenre.png" class="img-fluid" alt="Logo Divergenre">
+                <p>
+                    Divergenre : association fonctionnant en autosupport, d'accueil, d'information, de soutien,
+                    d'accompagnement, pour les personnes trans ou en questionnement, ainsi que leurs proches
+
+                </p>
             </div>
             <div class=" col-4 col-sm-4 col-lg-3 col-xl-3">
-                <img src="assets\img\logo\Logo_Flash_Our_True_Colors.png" class="img-fluid">
+                <a href="https://www.gas-asso.org/">
+                    <img src="assets\img\logo\Logo_Flash_Our_True_Colors.png" class="img-fluid"
+                        alt="Logo Groupe d’Appui et de Solidarité">
+                </a>
+                <p>
+                    Groupe d’Appui et de Solidarité : association d’éducation populaire de lutte contre les inégalités
+                    et les discriminations pour l'inclusion sociale et l'émancipation des personnes vulnérables.
+
+                </p>
             </div>
             <div class=" col-4 col-sm-4 col-lg-3 col-xl-3">
-                <img src="assets\img\logo\Logo_GAS.png" class="img-fluid">
+                <a href="https://flash-our-true-colors.fr/">
+                    <img src="assets\img\logo\Logo_GAS.png" class="img-fluid" alt="Logo Flash Our True Colors">
+                </a>
+                <p>
+                    Flash Our True Colors : association qui agit depuis 2011 pour faire reconnaître la dignité des
+                    personnes LGBTQI+, dans un cadre de convivialité, d'échange et de non jugement.
+
+                </p>
             </div>
             <div class=" col-4 col-sm-4 col-lg-3 col-xl-3">
-                <img src="assets\img\logo\Logo_Les_Bavardes.png" class="img-fluid">
+                <a href="https://lesbavardes.org/">
+                    <img src="assets\img\logo\Logo_Les_Bavardes.png" class="img-fluid" alt="Logo Les Bavardes">
+                </a>
+                <p>
+                    Les Bavardes : collectif féministe et lesbien engagé depuis 2017 pour la visibilité de toutes les
+                    femmes, au travers d’espaces et d’actions culturelles et artistiques, visant à encourager les débats
+                    et les échanges.
+
+                </p>
             </div>
             <div class=" col-4 col-sm-4 col-lg-3 col-xl-3">
-                <img src="assets\img\logo\SQ-logo.png" class="img-fluid">
+                <img src="assets\img\logo\SQ-logo.png" class="img-fluid" alt="Logo Simili Queer">
+                <p>
+                    Simili Queer : Regroupement collectif à Amiens, se retrouvant dans les valeurs, les idées, les
+                    luttes du mouvement et des identités queer, et proposant de les transfigurer
+                    culturellement/artistiquement mais aussi de pouvoir respirer un peu face à la norme.
+
+                </p>
             </div>
             <div class=" col-4 col-sm-4 col-lg-3 col-xl-3">
-                <img src="assets\img\logo\Logo_SOS_homophobie.png" class="img-fluid">
+                <a href="https://www.sos-homophobie.org/delegation/picardie">
+                    <img src="assets\img\logo\Logo_SOS_homophobie.png" class="img-fluid" alt="Logo Sos Homophobie">
+                </a>
+                <p>
+                    Sos Homophobie : association de lutte contre les discriminations et les agressions à caractère
+                    homophobe et transphobe, en vue d’une meilleure acceptation de la diversité des orientations
+                    sexuelles et pour lutter pour la visibilité et l’égalité des droits des personnes LGBT.
+
+                </p>
             </div>
             <div class=" col-4 col-sm-4 col-lg-3 col-xl-3">
-                <img src="assets\img\logo\Logo_Sexo.png" class="img-fluid">
+                <a href="https://www.sexosafe.fr/">
+                    <img src="assets\img\logo\Logo_Sexo.png" class="img-fluid" alt="Logo Sexo Safe">
+                </a>
+                <p>Sexosafe.fr est un site présentant tous les modes de protection: Préservatifs, Dépistages, PrEP,
+                    TasP, TPE pour les hommes qui aiment les hommes.
+                    Services: Conseils Sexualité, Adresses & Numéros Utiles, Informations Médicales.</p>
             </div>
             <div class=" col-4 col-sm-4 col-lg-3 col-xl-3">
-                <img src="assets\img\logo\Logo_Amiens.png" class="img-fluid">
+                <a href="https://www.amiens.fr/">
+                    <img src="assets\img\logo\Logo_Amiens.png" class="img-fluid" alt="Logo d'Amiens Métropole">
+                </a>
+                <p>
+                    Amiens Métropole : La communauté d’agglomération Amiens Métropole est une communauté d'agglomération
+                    française, située dans le département de la Somme et la région Hauts-de-France.
+                </p>
             </div>
         </div>
     </div>

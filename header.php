@@ -32,7 +32,7 @@
     <script type="text/javascript" src="assets/js/script.js"></script>
 
     <!-- Titre de l'onglet -->
-    <title>Pride Amiens</title>
+    <title>2ème Marche des Fiertés d'Amiens</title>
 
 </head>
 
@@ -54,11 +54,7 @@ Critère esthétiques
 - drapeau LGBTQI+ de Philadelphie 
 - parapluie rouge  
 - ruban rouge
-- 2eme Marche des Fiertés 
-- 2020 
-- 19 septembre 13h 
-- Place Léon Gonthier 
-- port du masque fortement recommandé -->
+-->
 
 <!-- ------------------------------------------------------------------------------------------------------------------------------
 Navbar 2eme marche des fiertes / Archives
@@ -69,6 +65,8 @@ Navbar 2eme marche des fiertes / Archives
     <img src="assets\img\logo.ico" width="30" height="30" class="d-inline-block align-top mr-2" alt="" loading="lazy">
     fiertesAmiens.fr
   </a>
+  <a href="https://fr-fr.facebook.com/festivalidahot/" target="_blank"><i class="fab fa-facebook fa-2x"></i></a>
+  
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
@@ -83,6 +81,7 @@ Navbar 2eme marche des fiertes / Archives
       <li class="nav-item">
         <a class="nav-link" href="marche2019.php">Retour sur 2019</a>
       </li>
+
     </ul>
   </div>
 </nav>

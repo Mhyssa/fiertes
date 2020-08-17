@@ -1,35 +1,51 @@
 <!-- ------------------------------------------------------------------------------------------------------------------------------
     Mentions légales --- CGU/Cookies --- ResO SociO Facebook https://fr-fr.facebook.com/festivalidahot/ --- Contact fiertes.amiens.plaidoyer@gmail.com
 ------------------------------------------------------------------------------------------------------------------------------ -->
-<div class="container-fluid">
-<footer class="pt-2 m-0">
 
-  <div class="row m-0 pt-4">
+<footer>
+
+  <div class="row pt-4 footer">
     <div class="col-lg-4 col-sm-12">
-      <p class="text-center">Amiens Pride</p>
-      <a href="mailto:fiertes.amiens@gmail.com" class="link">
-        <p class="colorpolice link text-center">contact@fiertesamiens.fr</p>
-      </a>
+      <p class="text-center"><a href="https://fr-fr.facebook.com/festivalidahot/" target="_blank"><i class="fab fa-facebook fa-2x mr-2"></i></a>Collectif Idahot Amiens</p>
+      <p class="text-center"><i class="fas fa-envelope fa-2x mr-2"></i><a href="mailto:fiertes.amiens@gmail.com" class="link" target="_blank">contact@fiertesamiens.fr</p></a>
     </div>
     <div class="col-lg-8 col-sm-12">
-      <img src="assets\img\logo\Logo_AIDES.png" height="80">
-      <img src="assets\img\logo\Logo_Divergenre.png" height="100">
-      <img src="assets\img\logo\Logo_Flash_Our_True_Colors.png" height="80">
-      <img src="assets\img\logo\Logo_GAS.png" height="80">
-      <img src="assets\img\logo\Logo_Les_Bavardes.png" height="80">
-      <img src="assets\img\logo\SQ-logo.png" height="80">
-      <img src="assets\img\logo\Logo_SOS_homophobie.png" height="80">
-      <img src="assets\img\logo\Logo_Sexo.png" height="80">
-      <img src="assets\img\logo\Logo_Amiens.png" height="80">
+      <a href="https://www.aides.org/">
+        <img src="assets\img\logo\Logo_AIDES.png" height="80" alt="logo AIDES">
+      </a>
+      <a href="">
+        <img src="assets\img\logo\Logo_Divergenre.png" height="100" alt="logo Divergenre">
+      </a>
+      <a href="https://flash-our-true-colors.fr/">
+        <img src="assets\img\logo\Logo_Flash_Our_True_Colors.png" height="80" alt="logo Flash True Colors">
+      </a>
+      <a href="https://www.gas-asso.org/">
+        <img src="assets\img\logo\Logo_GAS.png" height="80" alt="logo GAS">
+      </a>
+      <a href="https://lesbavardes.org/">
+        <img src="assets\img\logo\Logo_Les_Bavardes.png" height="80" alt="logo Les Bavardes">
+      </a>
+      <a href="">
+        <img src="assets\img\logo\SQ-logo.png" height="80" alt="logo Simili Queer">
+      </a>
+      <a href="https://www.sos-homophobie.org/delegation/picardie">
+        <img src="assets\img\logo\Logo_SOS_homophobie.png" height="80" alt="logo Sos Homophobie Délégation Picardie">
+      </a>
+      <a href="https://www.sexosafe.fr/">
+        <img src="assets\img\logo\Logo_Sexo.png" height="80" alt="logo Sexo Safe">
+      </a>
+      <a href="https://www.amiens.fr/">
+        <img src="assets\img\logo\Logo_Amiens.png" height="80" alt="logo Amiens Metropole">
+      </a>
 
     </div>
 
 
     <div class="col-lg-12 col-md-12 pt-2 m-auto">
-      <div class="col-lg-5  col-md-12 m-auto lignefooter  "></div>
+      <div class="col-lg-5 col-md-12 m-auto lignefooter"></div>
 
       <div class=" pt-4 pb-3 m-auto d-flex justify-content-around">
-        <p class=""><a href="mentions.php" class="footlink">Mentions légales </a></p>
+        <p class=""><a href="mention.php" class="footlink">Mentions légales </a></p>
         <p class="footlink disap">I</p>
         <p class="">©2020 Fiertes Amiens. All rights reserved.</p>
         <p class="footlink disap">I</p>
@@ -79,7 +95,8 @@
     "content": {
       "message": "Ce site utilise des cookies pour vous garantir la meilleure expérience sur notre site.",
       "dismiss": "J'accepte",
-      "link": "En savoir plus"
+      "link": "En savoir plus",
+      "href": "politique.php"
     }
   });
 </script>
