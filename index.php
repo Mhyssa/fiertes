@@ -1,4 +1,5 @@
 <?php
+$Titre = "2ème Marche des Fiertés";
 require('header.php');
 ?>
 
@@ -11,9 +12,9 @@ Affiche 16:9 de Louiza
 <div class="row mt-3">
     <div class="col-12 col-sm-12">
         <img src="assets/img/banniere_pride.png"
-            alt="2ème Marche des fiertés ( gaypride ) d'Amiens 19 SEPTEMBRE 2020 - 13H  PLACE LÉON GONTHIER 80000 AMIENS"
+            alt="2ème Marche des fiertés ( gaypride ) d'Amiens 19 SEPTEMBRE 2020 - 13H PLACE LÉON GONTHIER 80000 AMIENS"
             width="100%" class="shadow">
-        <span><a href="assets/img/affiche_pride_2_amiens.pdf"><i class="fas fa-download"></i>Télécharges l'affiche officiel ici</a></span>
+        <span><a target="_blank" href="assets/img/affiche_pride_2_amiens.pdf"><i class="fas fa-download"></i>Télécharges l'affiche officiel ici</a></span>
     </div>
 </div>
 
@@ -102,7 +103,7 @@ Affiche 16:9 de Louiza
             homophobie et Aides.
             Le collectif IDAHOT organise chaque année depuis 2018 le festival IDAHOT, festival de lutte contre les
             LGBTQI+ phobies et depuis 2019, la marche des fiertés à Amiens.
-            Pour en savoir plus sur les associations membres du collectif <a href=""><i class="fas fa-plus-square"></i></a>
+            Pour en savoir plus sur les associations membres du collectif <a target="_blank" href="https://fr-fr.facebook.com/festivalidahot/"><i class="fas fa-plus-square"></i></a>
 
         </p>
     </div>
@@ -184,8 +185,8 @@ Affiche 16:9 de Louiza
 
 <!-- ------------------------------------------------------------------------------------------------------------------------------
     Partenaires 
-            AIDES Divergenre Flash Our True Colors Le Groupe d'Appui et de Solidarité Les Bavardes SOS homophobie Picardie 
-            Simili Queer Translucide Sexosafe (https://www.sexosafe.fr/) Amiens Métropole
+            AIDES Divergenre Flash Our True Colors Le Groupe d'Appui et de Solidarité 
+            Les Bavardes SOS homophobie Picardie Simili Queer Translucide Sexosafe Amiens Métropole
 ------------------------------------------------------------------------------------------------------------------------------ -->
 
 <div class="container">
@@ -196,7 +197,7 @@ Affiche 16:9 de Louiza
 
         <div class="row">
             <div class=" col-4 col-sm-4 col-lg-3 col-xl-3">
-                <a href="https://www.aides.org/">
+                <a target="_blank" href="https://www.aides.org/">
                     <img src="assets\img\logo\Logo_AIDES.png" class="img-fluid" alt="Logo Aides">
                 </a>
                 <p>Aides : association de lutte contre le VIH/Sida et les Hépatites, qui agit depuis 30 ans avec et
@@ -213,7 +214,7 @@ Affiche 16:9 de Louiza
                 </p>
             </div>
             <div class=" col-4 col-sm-4 col-lg-3 col-xl-3">
-                <a href="https://www.gas-asso.org/">
+                <a target="_blank" href="https://www.gas-asso.org/">
                     <img src="assets\img\logo\Logo_Flash_Our_True_Colors.png" class="img-fluid"
                         alt="Logo Groupe d’Appui et de Solidarité">
                 </a>
@@ -224,7 +225,7 @@ Affiche 16:9 de Louiza
                 </p>
             </div>
             <div class=" col-4 col-sm-4 col-lg-3 col-xl-3">
-                <a href="https://flash-our-true-colors.fr/">
+                <a target="_blank" href="https://flash-our-true-colors.fr/">
                     <img src="assets\img\logo\Logo_GAS.png" class="img-fluid" alt="Logo Flash Our True Colors">
                 </a>
                 <p>
@@ -234,7 +235,7 @@ Affiche 16:9 de Louiza
                 </p>
             </div>
             <div class=" col-4 col-sm-4 col-lg-3 col-xl-3">
-                <a href="https://lesbavardes.org/">
+                <a target="_blank" href="https://lesbavardes.org/">
                     <img src="assets\img\logo\Logo_Les_Bavardes.png" class="img-fluid" alt="Logo Les Bavardes">
                 </a>
                 <p>
@@ -254,7 +255,7 @@ Affiche 16:9 de Louiza
                 </p>
             </div>
             <div class=" col-4 col-sm-4 col-lg-3 col-xl-3">
-                <a href="https://www.sos-homophobie.org/delegation/picardie">
+                <a target="_blank" href="https://www.sos-homophobie.org/delegation/picardie">
                     <img src="assets\img\logo\Logo_SOS_homophobie.png" class="img-fluid" alt="Logo Sos Homophobie">
                 </a>
                 <p>
@@ -265,7 +266,7 @@ Affiche 16:9 de Louiza
                 </p>
             </div>
             <div class=" col-4 col-sm-4 col-lg-3 col-xl-3">
-                <a href="https://www.sexosafe.fr/">
+                <a target="_blank" href="https://www.sexosafe.fr/">
                     <img src="assets\img\logo\Logo_Sexo.png" class="img-fluid" alt="Logo Sexo Safe">
                 </a>
                 <p>Sexosafe.fr est un site présentant tous les modes de protection: Préservatifs, Dépistages, PrEP,
@@ -273,7 +274,7 @@ Affiche 16:9 de Louiza
                     Services: Conseils Sexualité, Adresses & Numéros Utiles, Informations Médicales.</p>
             </div>
             <div class=" col-4 col-sm-4 col-lg-3 col-xl-3">
-                <a href="https://www.amiens.fr/">
+                <a target="_blank" href="https://www.amiens.fr/">
                     <img src="assets\img\logo\Logo_Amiens.png" class="img-fluid" alt="Logo d'Amiens Métropole">
                 </a>
                 <p>

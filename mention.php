@@ -1,5 +1,5 @@
 <?php  
-$ma_pages = 'mentions';
+$Titre = "Mentions légales";
 require("header.php");
 ?>
 
@@ -8,7 +8,7 @@ require("header.php");
         <div class="row shadow mb-5 rgpd ">
             <div class="col-12 col-md-12 rainbow mb-5"></div>
             <div class="col-md-12 text-center">
-
+            <h1>Mentions légales</h1>
                 <h2>
                     Responsables de publication :<br>
                 </h2>

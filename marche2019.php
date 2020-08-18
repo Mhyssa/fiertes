@@ -1,4 +1,5 @@
 <?php
+$Titre = "Édition 2019";
 require('header.php');
 ?>
 

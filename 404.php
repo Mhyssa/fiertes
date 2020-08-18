@@ -1,4 +1,5 @@
 <?php
+$Titre = "Page 404";
 require("header.php");
 ?>
 

@@ -32,7 +32,7 @@
     <script type="text/javascript" src="assets/js/script.js"></script>
 
     <!-- Titre de l'onglet -->
-    <title>2ème Marche des Fiertés d'Amiens</title>
+    <title>Pride Amiens | <?php echo $Titre; ?></title>
 
 </head>
 

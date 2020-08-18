@@ -1,4 +1,5 @@
 <?php  
+$Titre="Politique de confidentialité";
 require("header.php");
 ?>
 
@@ -7,7 +8,7 @@ require("header.php");
         <div class="row">
 <div class="col-12 col-md-12 rainbow mb-5"></div>
             <div class="col-md-12 text-center">
-
+<h1>Politique de confidentialité</h1>
   <h2>
 Responsables de publication :
   </h2>          
