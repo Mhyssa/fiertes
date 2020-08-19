@@ -94,8 +94,8 @@ Affiche 16:9 de Louiza
 <div class="row justify-content-center" id="about">
 
     <div class="col-9 col-sm-9 col-lg-6 p-4">
-        <h2 class="text-center mb-4">Qui sommes nous ?</h2>
-        <p class="thasadith">Le collectif inter-associatif LGBTQI+ d'Amiens initialement collectif IDAHOT (International Day Against
+        <h2 class="text-center mb-4 orange">Qui sommes nous ?</h2>
+        <p class="thasadith orange">Le collectif inter-associatif LGBTQI+ d'Amiens initialement collectif IDAHOT (International Day Against
             Homophobia and Transphobia) rassemble les 7 associations amiénoises de lutte contre toutes les formes de
             discriminations et pour la défense des droits des femmes et des personnes Lesbiennes, Gays, Bisexuel.les,
             Transidentitaires, Queer, Inteersexes et plus (LGBTQI+).
@@ -117,7 +117,7 @@ Affiche 16:9 de Louiza
 <!-- ------------------------------------------------------------------------------------------------------------------------------
     Découvrir nos revendications / plaidoyer 
 ------------------------------------------------------------------------------------------------------------------------------ -->
-<div class="row justify-content-center block" id="plaid">
+<div class="row justify-content-center blockOrange " id="plaid">
     <div class="col-9 col-sm-9 p-5">
         <h2 class="text-center mb-4">Découvrir nos revendications</h2>
         <div data-spy="scroll" data-target="#list-example" data-offset="0" class="scrollspy-example">

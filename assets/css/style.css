@@ -81,10 +81,31 @@ color : var( --flag-blue);
     color: white;
 }
 .dotted{
-    border-top: #f75353 3px dotted;
+    border-top:#ee3737 3px dotted;
 }
 .coral{
-    color: coral;
+    color:#ee3737;
+}
+.orange{
+    color: orange;
+}
+.blockOrange{
+ background-color: orange;
+ color : white;
+}
+.purple{
+    color :#fb00ff;
+}
+.blocPurple{
+    background-color:#fb00ff;
+    color:white;
+}
+.blue{
+    color:#0581ea; 
+}
+.blockBlue{
+    background-color:#fb00ff;
+    color:white;
 }
 .rainbow {
     background: var(--rainbow);
@@ -118,7 +139,7 @@ html {
 
 .block {
     /* background-color: var(--fly-grey-medium); */
-    background-color: #f75353;
+    background-color: #ee3737;
 }
 
 .block-light {
