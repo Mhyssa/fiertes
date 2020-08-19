@@ -81,10 +81,10 @@ color : var( --flag-blue);
     color: white;
 }
 .dotted{
-    border-top:#ee3737 3px dotted;
+    border-top:#ec1940 3px dotted;
 }
 .coral{
-    color:#ee3737;
+    color : #ec1940;
 }
 .orange{
     color: orange;
@@ -139,7 +139,7 @@ html {
 
 .block {
     /* background-color: var(--fly-grey-medium); */
-    background-color: #ee3737;
+    background-color: #ec1940;
 }
 
 .block-light {
