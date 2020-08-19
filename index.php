@@ -24,25 +24,25 @@ Affiche 16:9 de Louiza
     Compte à rebourd RENDEZ VOUS DANS + Details de la journée
 ------------------------------------------------------------------------------------------------------------------------------ -->
 
-<div class="row py-4">
+<div class="row py-5">
     <div class="col-12 col-md-6 text-center">
-        <h2 class="">Début de la marche dans :</h2>
+        <h2 class="coral">Début de la marche dans :</h2>
         <ul>
-            <li class="count"><span id="days"></span>Jours</li>
-            <li class="count"><span id="hours"></span>Heures</li>
-            <li class="count"><span id="minutes"></span>Minutes</li>
-            <li class="count"><span id="seconds"></span>Secondes</li>
+            <li class="count coral"><span id="days"></span>Jours</li>
+            <li class="count coral"><span id="hours"></span>Heures</li>
+            <li class="count coral"><span id="minutes"></span>Minutes</li>
+            <li class="count coral"><span id="seconds"></span>Secondes</li>
         </ul>
     </div>
     <div class="col-12 col-md-6">
-        <h2 class="mb-5">
+        <h2 class="mb-5 coral">
             Déroulement de la journée du 19 septembre 
         </h2>
         <ul>
 
-            <li class="mb-2"><i class="fas fa-volume-up"></i>13h prises de paroles</li>
-            <li class="mb-2"><i class="fas fa-hiking"></i>14h départ de la déambulation</li>
-            <li class="mb-2"><i class="fas fa-map-pin"></i>18h fin de la déambulation</li>
+            <li class="mb-2 thasadith coral"><i class="fas fa-volume-up coral"></i>  13h prises de paroles</li>
+            <li class="mb-2 thasadith coral"><i class="fas fa-hiking coral"></i>  14h départ de la déambulation</li>
+            <li class="mb-2 thasadith coral"><i class="fas fa-map-pin coral"></i>  18h fin de la déambulation</li>
         </ul>
     </div>
 </div>
@@ -51,45 +51,51 @@ Affiche 16:9 de Louiza
 <!-- ------------------------------------------------------------------------------------------------------------------------------
     Plan de la marche / Parcours
 ------------------------------------------------------------------------------------------------------------------------------ -->
+<div class="col-lg-7 dotted pb-3  m-auto">
+        <!-- <hr class="col-lg-6 col-12 "> -->
+    </div>
+<div class="row  block">
 
-<div class="row block">
 
-    <div class="col-12 col-md-6">
+    <div class="col-6 col-md-6">
         <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1KvQWCV7DtvDxS_uvGcxxPnAvQECRA6lr" width="100%"
-            height="450px"></iframe>
+            height="520px"></iframe>
     </div>
-
-
-    <div class="col-12 col-md-6 p-5  text-center">
-        <h2 class="mb-3">Noms des rues</h2>
-        <ol>
-            <li><i class="fas fa-map-marker-alt"></i>Départ Place Léon Gontier</li>
-            <li><i class="fas fa-map-marker-alt"></i>Rue de la 2eme division Blindée</li>
-            <li><i class="fas fa-map-marker-alt"></i>Rue de Beauvais</li>
-            <li><i class="fas fa-map-marker-alt"></i>Rue Dumeril</li>
-            <li><i class="fas fa-map-marker-alt"></i>Rue des Jacobins</li>
-            <li><i class="fas fa-map-marker-alt"></i>Rue des Otages</li>
-            <li><i class="fas fa-map-marker-alt"></i>Boulevard de Belfort</li>
-            <li><i class="fas fa-map-marker-alt"></i>Place Alphonse Fiquet</li>
-            <li><i class="fas fa-map-marker-alt"></i>Rue de Noyon</li>
-            <li><i class="fas fa-map-marker-alt"></i>Place René Goblet</li>
-            <li><i class="fas fa-map-marker-alt"></i>Rue des Trois Cailloux</li>
-            <li><i class="fas fa-map-marker-alt"></i>Place Gambetta</li>
-            <li><i class="fas fa-map-marker-alt"></i>Rue Delambre</li>
-            <li><i class="fas fa-map-marker-alt"></i>Rue Gresset</li>
-            <li><i class="fas fa-map-marker-alt"></i>Place Léon Gontier.</li>
-        </ol>
-    </div>
+   
+        <div class="col-6 col-md-6 p-5  text-center">
+        
+            <h2 class="mb-3 white">Noms des rues</h2>
+            <ol>
+                <li class="white"><i class="fas fa-map-marker-alt white"></i> Départ Place Léon Gontier</li>
+                <li class="white"><i class="fas fa-map-marker-alt white"></i> Rue de la 2eme division Blindée</li>
+                <li class="white"><i class="fas fa-map-marker-alt white"></i> Rue de Beauvais</li>
+                <li class="white"><i class="fas fa-map-marker-alt white"></i> Rue Dumeril</li>
+                <li class="white"><i class="fas fa-map-marker-alt white"></i> Rue des Jacobins</li>
+                <li class="white"><i class="fas fa-map-marker-alt white"></i> Rue des Otages</li>
+                <li class="white"><i class="fas fa-map-marker-alt white"></i> Boulevard de Belfort</li>
+                <li class="white"><i class="fas fa-map-marker-alt white"></i> Place Alphonse Fiquet</li>
+                <li class="white"><i class="fas fa-map-marker-alt white"></i> Rue de Noyon</li>
+                <li class="white"><i class="fas fa-map-marker-alt white"></i> Place René Goblet</li>
+                <li class="white"><i class="fas fa-map-marker-alt white"></i> Rue des Trois Cailloux</li>
+                <li class="white"><i class="fas fa-map-marker-alt white"></i> Place Gambetta</li>
+                <li class="white"><i class="fas fa-map-marker-alt white"></i> Rue Delambre</li>
+                <li class="white"><i class="fas fa-map-marker-alt white"></i> Rue Gresset</li>
+                <li class="white"><i class="fas fa-map-marker-alt white"></i> Place Léon Gontier.</li>
+            </ol>
+           
+        </div>
+  
 </div>
 
 <!-- ------------------------------------------------------------------------------------------------------------------------------
     Qui sommes Nous 
 ------------------------------------------------------------------------------------------------------------------------------ -->
+<hr class="col-lg-6 col-12">
 <div class="row justify-content-center" id="about">
 
     <div class="col-9 col-sm-9 col-lg-6 p-4">
         <h2 class="text-center mb-4">Qui sommes nous ?</h2>
-        <p>Le collectif inter-associatif LGBTQI+ d'Amiens initialement collectif IDAHOT (International Day Against
+        <p class="thasadith">Le collectif inter-associatif LGBTQI+ d'Amiens initialement collectif IDAHOT (International Day Against
             Homophobia and Transphobia) rassemble les 7 associations amiénoises de lutte contre toutes les formes de
             discriminations et pour la défense des droits des femmes et des personnes Lesbiennes, Gays, Bisexuel.les,
             Transidentitaires, Queer, Inteersexes et plus (LGBTQI+).
@@ -115,7 +121,7 @@ Affiche 16:9 de Louiza
     <div class="col-9 col-sm-9 p-5">
         <h2 class="text-center mb-4">Découvrir nos revendications</h2>
         <div data-spy="scroll" data-target="#list-example" data-offset="0" class="scrollspy-example">
-        <p> Nous, lesbiennes, gays, bis, trans', queers et intersexes, multiples dans nos identités. nous dont le genre
+        <p class="thasadith"> Nous, lesbiennes, gays, bis, trans', queers et intersexes, multiples dans nos identités. nous dont le genre
             et les sexualités ne rentrent pas dans le cadre étroit de l’hétérosexualité, et de la cis-normativité. nous
             qui sommes aussi des personnes en situation irrégulière, sans revenus, aux situations précaires, situation
             de handicape ; des personnes séropositives au VIH, au VHC, sujettes à des addictions, en difficulté avec
@@ -196,62 +202,168 @@ Affiche 16:9 de Louiza
         </div>
     </div>
 
-
-    <div class="card mb-3" style="max-width: 540px;">
-      <div class="row no-gutters">
-        <div class="col-md-4">
-        <a target="_blank" href="https://www.aides.org/">
-                        <img src="assets\img\logo\Logo_AIDES.png" class="img-fluid" alt="Logo Aides">
-                    </a>
+    <div class="col-lg-11 m-auto"><!--block-1 -->
+        <div class="card mb-3 float-left" style="max-width: 540px;">
+        <div class="row no-gutters">
+            <div class="col-md-4">
+            <a target="_blank" href="https://www.aides.org/">
+                            <img src="assets\img\logo\Logo_AIDES.png" class="img-fluid" alt="Logo Aides">
+                        </a>
+            </div>
+            <div class="col-md-8">
+            <div class="card-body">
+                
+                <p class="card-text">Association de lutte contre le VIH/Sida et les Hépatites, qui agit depuis 30 ans avec et
+                            auprès des populations les plus vulnérables pour réduire les nouvelles contaminations et accompagner
+                            les personnes touchées vers le soin et dans la défense de leurs droits.</p>
+            </div>
+            </div>
         </div>
-        <div class="col-md-8">
-          <div class="card-body">
-            
-            <p class="card-text">Association de lutte contre le VIH/Sida et les Hépatites, qui agit depuis 30 ans avec et
-                        auprès des populations les plus vulnérables pour réduire les nouvelles contaminations et accompagner
-                        les personnes touchées vers le soin et dans la défense de leurs droits.</p>
-          </div>
         </div>
-      </div>
+        <div class="card mb-3  float-left" style="max-width: 540px;">
+        <div class="row no-gutters">
+            <div class="col-md-4">
+            <a target="_blank" href="https://www.aides.org/">
+                            <img src="assets\img\logo\Logo_AIDES.png" class="img-fluid" alt="Logo Aides">
+                        </a>
+            </div>
+            <div class="col-md-8">
+            <div class="card-body">
+                
+                <p class="card-text">association de lutte contre le VIH/Sida et les Hépatites, qui agit depuis 30 ans avec et
+                            auprès des populations les plus vulnérables pour réduire les nouvelles contaminations et accompagner
+                            les personnes touchées vers le soin et dans la défense de leurs droits.</p>
+            </div>
+            </div>
+        </div>
+        </div>
+        <div class="card mb-3  float-left" style="max-width: 540px;">
+        <div class="row no-gutters">
+            <div class="col-md-4">
+            <a target="_blank" href="https://www.aides.org/">
+                            <img src="assets\img\logo\Logo_AIDES.png" class="img-fluid" alt="Logo Aides">
+                        </a>
+            </div>
+            <div class="col-md-8">
+            <div class="card-body">
+                
+                <p class="card-text">association de lutte contre le VIH/Sida et les Hépatites, qui agit depuis 30 ans avec et
+                            auprès des populations les plus vulnérables pour réduire les nouvelles contaminations et accompagner
+                            les personnes touchées vers le soin et dans la défense de leurs droits.</p>
+            </div>
+            </div>
+        </div>
+        </div>
     </div>
-    <div class="card mb-3" style="max-width: 540px;">
-      <div class="row no-gutters">
-        <div class="col-md-4">
-        <a target="_blank" href="https://www.aides.org/">
-                        <img src="assets\img\logo\Logo_AIDES.png" class="img-fluid" alt="Logo Aides">
-                    </a>
+    <div class="col-lg-11 m-auto"><!--block-2 -->
+        <div class="card mb-3 float-left" style="max-width: 540px;">
+        <div class="row no-gutters">
+            <div class="col-md-4">
+            <a target="_blank" href="https://www.aides.org/">
+                            <img src="assets\img\logo\Logo_AIDES.png" class="img-fluid" alt="Logo Aides">
+                        </a>
+            </div>
+            <div class="col-md-8">
+            <div class="card-body">
+                
+                <p class="card-text">Association de lutte contre le VIH/Sida et les Hépatites, qui agit depuis 30 ans avec et
+                            auprès des populations les plus vulnérables pour réduire les nouvelles contaminations et accompagner
+                            les personnes touchées vers le soin et dans la défense de leurs droits.</p>
+            </div>
+            </div>
         </div>
-        <div class="col-md-8">
-          <div class="card-body">
-            
-            <p class="card-text">association de lutte contre le VIH/Sida et les Hépatites, qui agit depuis 30 ans avec et
-                        auprès des populations les plus vulnérables pour réduire les nouvelles contaminations et accompagner
-                        les personnes touchées vers le soin et dans la défense de leurs droits.</p>
-          </div>
         </div>
-      </div>
+        <div class="card mb-3  float-left" style="max-width: 540px;">
+        <div class="row no-gutters">
+            <div class="col-md-4">
+            <a target="_blank" href="https://www.aides.org/">
+                            <img src="assets\img\logo\Logo_AIDES.png" class="img-fluid" alt="Logo Aides">
+                        </a>
+            </div>
+            <div class="col-md-8">
+            <div class="card-body">
+                
+                <p class="card-text">association de lutte contre le VIH/Sida et les Hépatites, qui agit depuis 30 ans avec et
+                            auprès des populations les plus vulnérables pour réduire les nouvelles contaminations et accompagner
+                            les personnes touchées vers le soin et dans la défense de leurs droits.</p>
+            </div>
+            </div>
+        </div>
+        </div>
+        <div class="card mb-3  float-left" style="max-width: 540px;">
+        <div class="row no-gutters">
+            <div class="col-md-4">
+            <a target="_blank" href="https://www.aides.org/">
+                            <img src="assets\img\logo\Logo_AIDES.png" class="img-fluid" alt="Logo Aides">
+                        </a>
+            </div>
+            <div class="col-md-8">
+            <div class="card-body">
+                
+                <p class="card-text">association de lutte contre le VIH/Sida et les Hépatites, qui agit depuis 30 ans avec et
+                            auprès des populations les plus vulnérables pour réduire les nouvelles contaminations et accompagner
+                            les personnes touchées vers le soin et dans la défense de leurs droits.</p>
+            </div>
+            </div>
+        </div>
+        </div>
     </div>
-    <div class="card mb-3" style="max-width: 540px;">
-      <div class="row no-gutters">
-        <div class="col-md-4">
-        <a target="_blank" href="https://www.aides.org/">
-                        <img src="assets\img\logo\Logo_AIDES.png" class="img-fluid" alt="Logo Aides">
-                    </a>
+    <div class="col-lg-11 m-auto"><!--block-3 -->
+        <div class="card mb-3 float-left" style="max-width: 540px;">
+        <div class="row no-gutters">
+            <div class="col-md-4">
+            <a target="_blank" href="https://www.aides.org/">
+                            <img src="assets\img\logo\Logo_AIDES.png" class="img-fluid" alt="Logo Aides">
+                        </a>
+            </div>
+            <div class="col-md-8">
+            <div class="card-body">
+                
+                <p class="card-text">Association de lutte contre le VIH/Sida et les Hépatites, qui agit depuis 30 ans avec et
+                            auprès des populations les plus vulnérables pour réduire les nouvelles contaminations et accompagner
+                            les personnes touchées vers le soin et dans la défense de leurs droits.</p>
+            </div>
+            </div>
         </div>
-        <div class="col-md-8">
-          <div class="card-body">
-            
-            <p class="card-text">association de lutte contre le VIH/Sida et les Hépatites, qui agit depuis 30 ans avec et
-                        auprès des populations les plus vulnérables pour réduire les nouvelles contaminations et accompagner
-                        les personnes touchées vers le soin et dans la défense de leurs droits.</p>
-          </div>
         </div>
-      </div>
+        <div class="card mb-3  float-left" style="max-width: 540px;">
+        <div class="row no-gutters">
+            <div class="col-md-4">
+            <a target="_blank" href="https://www.aides.org/">
+                            <img src="assets\img\logo\Logo_AIDES.png" class="img-fluid" alt="Logo Aides">
+                        </a>
+            </div>
+            <div class="col-md-8">
+            <div class="card-body">
+                
+                <p class="card-text">association de lutte contre le VIH/Sida et les Hépatites, qui agit depuis 30 ans avec et
+                            auprès des populations les plus vulnérables pour réduire les nouvelles contaminations et accompagner
+                            les personnes touchées vers le soin et dans la défense de leurs droits.</p>
+            </div>
+            </div>
+        </div>
+        </div>
+        <div class="card mb-3  float-left" style="max-width: 540px;">
+        <div class="row no-gutters">
+            <div class="col-md-4">
+            <a target="_blank" href="https://www.aides.org/">
+                            <img src="assets\img\logo\Logo_AIDES.png" class="img-fluid" alt="Logo Aides">
+                        </a>
+            </div>
+            <div class="col-md-8">
+            <div class="card-body">
+                
+                <p class="card-text">association de lutte contre le VIH/Sida et les Hépatites, qui agit depuis 30 ans avec et
+                            auprès des populations les plus vulnérables pour réduire les nouvelles contaminations et accompagner
+                            les personnes touchées vers le soin et dans la défense de leurs droits.</p>
+            </div>
+            </div>
+        </div>
+        </div>
     </div>
 
 
-
-            <div class=" col-4 col-sm-4 col-lg-3 col-xl-3">
+            <!-- <div class=" col-4 col-sm-4 col-lg-3 col-xl-3">
                 <a target="_blank" href="https://www.aides.org/">
                     <img src="assets\img\logo\Logo_AIDES.png" class="img-fluid" alt="Logo Aides">
                 </a>
@@ -259,7 +371,7 @@ Affiche 16:9 de Louiza
                     auprès des populations les plus vulnérables pour réduire les nouvelles contaminations et accompagner
                     les personnes touchées vers le soin et dans la défense de leurs droits.
                 </p>
-            </div>
+            </div> -->
             <div class=" col-4 col-sm-4 col-lg-3 col-xl-3">
                 <img src="assets\img\logo\Logo_Divergenre.png" class="img-fluid" alt="Logo Divergenre">
                 <p>

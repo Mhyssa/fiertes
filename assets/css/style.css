@@ -14,24 +14,32 @@ h2{
     --fly-red:#ff1616;
     --fly-orange: #f10000;
     --fly-grey-light: #e1e8ed;
-    --fly-grey-medium: #cfe0f4;
+    --fly-grey-medium: #e2e2e2;
     --fly-grey: #ccd6dd;
-    --fly-black: #211d1d;
-    
+    --fly-black: #211d1d;    
     --cyan: #00FFFF;
-    --fushia: #ff00ff;
-    
+    --fushia: #ff00ff;    
     --flag-red: #e40303;
     --flag-orange : #ff8c00;
     --flag-yellow: #ffed00;
     --flag-green: #008026;
     --flag-blue: #004dff;
-    --flag-purple: #750787;
-    
+    --flag-purple: #750787;    
     --rainbow: linear-gradient(to right, #e40303, #ff8c00,#ffed00,
     #008026, #004dff, #750787);
 }
+/* TEST nav a finir */
+/* .blue{
+color : var( --flag-blue);
+}
+.pink{
+    color : var(--fushia);
+}
+.green{
+    color : var(--flag-green);
+} */
 
+/* TEST */
 body {
     font-family: "roboto", "domine", serif;
     color: var(--fly-black);
@@ -39,13 +47,6 @@ body {
 }
 /* //TODO DEFILEMENT TEXTE JS */
 
-nav {
-    /* font-family: "domine", serif; */
-    font-family: 'Julius Sans One', sans-serif;
-    font-weight: 100;
-    text-transform: uppercase;
-    
-}
 
 .count {
     display: inline-block;
@@ -64,7 +65,27 @@ nav {
     background: var(--main-bg-color);
     border: 10px solid var(--main-bg-color);
 }
+/* TEST nav a finir */
+/* .blue{
+color : var( --flag-blue);
+}
+.pink{
+    color : var(--fushia);
+}
+.green{
+    color : var(--flag-green);
+} */
 
+/* TEST */
+.white{
+    color: white;
+}
+.dotted{
+    border-top: #f75353 3px dotted;
+}
+.coral{
+    color: coral;
+}
 .rainbow {
     background: var(--rainbow);
     height: 100px;
@@ -96,7 +117,8 @@ html {
 }
 
 .block {
-    background-color: var(--fly-grey-medium);
+    /* background-color: var(--fly-grey-medium); */
+    background-color: #f75353;
 }
 
 .block-light {
@@ -104,10 +126,25 @@ html {
 }
 
 
-a {
-    color : var(--fly-orange);
-}
+nav {
+    /* font-family: "domine", serif; */
+    font-family: 'Julius Sans One', sans-serif;
+    font-weight: 600;
+    font-size: 1.1em;
+    background-color:#8e0202;
 
+    
+}
+a {
+    color :  #f00;
+    font-family: 'Thasadith', sans-serif;
+} 
+.thasadith{
+    font-family: 'Thasadith', sans-serif;
+    font-weight: 500;
+    font-size: 1.2em;
+    /* font-style: bold; */
+}
 
 a:hover {
     color : var(--cyan);

@@ -25,7 +25,8 @@
 
 
   <link href="https://fonts.googleapis.com/css2?family=Fredericka+the+Great&display=swap" rel="stylesheet">
-
+  <link href="https://fonts.googleapis.com/css2?family=Thasadith:ital@1&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Thasadith:wght@400;700&display=swap" rel="stylesheet">
 
   <!-- Google fonts 'Roboto' Regular 400, Regular 400 italic, Bold 700, Bold 700 italic, Black 900 -->
   <link
@@ -72,9 +73,9 @@ Critère esthétiques
 Navbar 2eme marche des fiertes / Archives
 ------------------------------------------------------------------------------------------------------------------------------ -->
 
-          <nav class="navbar navbar-expand-lg navbar-white fixed-top ">
+          <nav class="navbar navbar-expand-lg navbar-white fixed-top border-rainbow p-2">
             <a class="navbar-brand" href="index.php" id="top">
-              <img src="assets\img\logo.ico" width="30" height="30" class="d-inline-block align-top mr-2" alt="icône tour perret Amiens Gay pride"
+              <img src="assets\img\logo.ico" width="35" height="35" class="d-inline-block  mr-2 " alt="icône tour perret Amiens Gay pride"
                 loading="lazy">
               fiertesAmiens.fr
             </a>
@@ -84,15 +85,15 @@ Navbar 2eme marche des fiertes / Archives
               <span class="navbar-toggler-icon"></span>
             </button>
             <div class="collapse navbar-collapse" id="navbarNav">
-              <ul class="navbar-nav border-rainbow">
+              <ul class="navbar-nav ">
                 <li class="nav-item pr-4 pl-4">
-                  <a class="nav-link" href="#about">Qui Sommes Nous ?</a>
+                  <a class="nav-link blue" href="#about">Qui Sommes Nous ?</a>
                 </li>
                 <li class="nav-item pr-4 pl-4">
-                  <a class="nav-link" href="#plaid">Plaidoyer</a>
+                  <a class="nav-link pink" href="#plaid">Plaidoyer</a>
                 </li>
                 <li class="nav-item pr-4 pl-4">
-                  <a class="nav-link" href="#part">Partenariats</a>
+                  <a class="nav-link green" href="#part">Partenariats</a>
                 </li>
                 <li class="nav-item pr-4 pl-4">
                   <a class="nav-link" href="#marche">Retour sur 2019</a>
