@@ -5,12 +5,14 @@ Google fonts 'Domine' Regular 400, Bold 700 */
     font-family: "leaguespartan-bold";
     src: url("leaguespartan-bold.woff") format("woff");
 }
-
+h2{
+    font-family: 'Fredericka the Great', cursive;
+}
 :root {
     --main-bg-color: #fff3d5;
     
     --fly-red:#ff1616;
-    --fly-orange: #ee3737;
+    --fly-orange: #f10000;
     --fly-grey-light: #e1e8ed;
     --fly-grey-medium: #cfe0f4;
     --fly-grey: #ccd6dd;
@@ -38,8 +40,9 @@ body {
 /* //TODO DEFILEMENT TEXTE JS */
 
 nav {
-    font-family: "domine", serif;
-    font-weight: 700;
+    /* font-family: "domine", serif; */
+    font-family: 'Julius Sans One', sans-serif;
+    font-weight: 100;
     text-transform: uppercase;
     
 }

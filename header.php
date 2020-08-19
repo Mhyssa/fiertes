@@ -22,10 +22,16 @@
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css">
   <!-- icone de l'onglet -->
   <link rel="icon" href="assets/img/logo.ico" />
+
+
+  <link href="https://fonts.googleapis.com/css2?family=Fredericka+the+Great&display=swap" rel="stylesheet">
+
+
   <!-- Google fonts 'Roboto' Regular 400, Regular 400 italic, Bold 700, Bold 700 italic, Black 900 -->
   <link
     href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,700;0,900;1,400;1,700&display=swap"
     rel="stylesheet">
+    
   <!-- Google fonts 'Domine' Regular 400, Bold 700-->
   <link href="https://fonts.googleapis.com/css2?family=Domine:wght@400;700&family=Roboto&display=swap" rel="stylesheet">
   <!-- Ekko -->
@@ -66,14 +72,13 @@ Critère esthétiques
 Navbar 2eme marche des fiertes / Archives
 ------------------------------------------------------------------------------------------------------------------------------ -->
 
-          <nav class="navbar navbar-expand-lg navbar-white fixed-top bg-dark">
+          <nav class="navbar navbar-expand-lg navbar-white fixed-top ">
             <a class="navbar-brand" href="index.php" id="top">
               <img src="assets\img\logo.ico" width="30" height="30" class="d-inline-block align-top mr-2" alt="icône tour perret Amiens Gay pride"
                 loading="lazy">
               fiertesAmiens.fr
             </a>
-            <a href="https://fr-fr.facebook.com/festivalidahot/" target="_blank"><i
-                class="fab fa-facebook fa-2x"></i></a>
+          
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
               aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
               <span class="navbar-toggler-icon"></span>
@@ -92,7 +97,10 @@ Navbar 2eme marche des fiertes / Archives
                 <li class="nav-item pr-4 pl-4">
                   <a class="nav-link" href="#marche">Retour sur 2019</a>
                 </li>
+                
               </ul>
+              <a href="https://fr-fr.facebook.com/festivalidahot/" target="_blank"><i
+                class="fab fa-facebook fa-2x"></i></a>
             </div>
           </nav>
           <!-- Fin de <div class="row"> -->

@@ -24,7 +24,7 @@ Affiche 16:9 de Louiza
     Compte à rebourd RENDEZ VOUS DANS + Details de la journée
 ------------------------------------------------------------------------------------------------------------------------------ -->
 
-<div class="row">
+<div class="row py-4">
     <div class="col-12 col-md-6 text-center">
         <h2 class="">Début de la marche dans :</h2>
         <ul>
@@ -35,14 +35,14 @@ Affiche 16:9 de Louiza
         </ul>
     </div>
     <div class="col-12 col-md-6">
-        <h2>
+        <h2 class="mb-5">
             Déroulement de la journée du 19 septembre 
         </h2>
         <ul>
 
-            <li><i class="fas fa-volume-up"></i>13h prises de paroles</li>
-            <li><i class="fas fa-hiking"></i>14h départ de la déambulation</li>
-            <li><i class="fas fa-map-pin"></i>18h fin de la déambulation</li>
+            <li class="mb-2"><i class="fas fa-volume-up"></i>13h prises de paroles</li>
+            <li class="mb-2"><i class="fas fa-hiking"></i>14h départ de la déambulation</li>
+            <li class="mb-2"><i class="fas fa-map-pin"></i>18h fin de la déambulation</li>
         </ul>
     </div>
 </div>
@@ -60,8 +60,8 @@ Affiche 16:9 de Louiza
     </div>
 
 
-    <div class="col-12 col-md-6 text-center">
-        <h2 class="">Noms des rues</h2>
+    <div class="col-12 col-md-6 p-5  text-center">
+        <h2 class="mb-3">Noms des rues</h2>
         <ol>
             <li><i class="fas fa-map-marker-alt"></i>Départ Place Léon Gontier</li>
             <li><i class="fas fa-map-marker-alt"></i>Rue de la 2eme division Blindée</li>
@@ -87,8 +87,8 @@ Affiche 16:9 de Louiza
 ------------------------------------------------------------------------------------------------------------------------------ -->
 <div class="row justify-content-center" id="about">
 
-    <div class="col-9 col-sm-9 col-lg-6">
-        <h2 class="text-center">Qui sommes nous ?</h2>
+    <div class="col-9 col-sm-9 col-lg-6 p-4">
+        <h2 class="text-center mb-4">Qui sommes nous ?</h2>
         <p>Le collectif inter-associatif LGBTQI+ d'Amiens initialement collectif IDAHOT (International Day Against
             Homophobia and Transphobia) rassemble les 7 associations amiénoises de lutte contre toutes les formes de
             discriminations et pour la défense des droits des femmes et des personnes Lesbiennes, Gays, Bisexuel.les,
@@ -112,8 +112,8 @@ Affiche 16:9 de Louiza
     Découvrir nos revendications / plaidoyer 
 ------------------------------------------------------------------------------------------------------------------------------ -->
 <div class="row justify-content-center block" id="plaid">
-    <div class="col-9 col-sm-9">
-        <h2 class="text-center">Découvrir nos revendications</h2>
+    <div class="col-9 col-sm-9 p-5">
+        <h2 class="text-center mb-4">Découvrir nos revendications</h2>
         <div data-spy="scroll" data-target="#list-example" data-offset="0" class="scrollspy-example">
         <p> Nous, lesbiennes, gays, bis, trans', queers et intersexes, multiples dans nos identités. nous dont le genre
             et les sexualités ne rentrent pas dans le cadre étroit de l’hétérosexualité, et de la cis-normativité. nous
@@ -121,22 +121,22 @@ Affiche 16:9 de Louiza
             de handicape ; des personnes séropositives au VIH, au VHC, sujettes à des addictions, en difficulté avec
             leur santé mentale et physique. Nous marchons aujourd'hui pour revendiquer notre place dans la société et
             pour que nos voix soient entendues.
-
+            <br> <br>
             La crise sanitaire que nous vivons révèle les violences, les discriminations sociales d’accès à la santé, et
             à des conditions dignes d’existence. Dès les premiers jours du confinement, nos communautés se sont
             mobilisées pour prévenir et dénoncer les violences auxquelles nous nous trouvons exposéEs et que la
             situation venait aggraver.
-
+            <br> <br>
             Les lieux dans lesquels nous avons dû nous confiner, nos foyers, nos familles, sont aussi des lieux où nous
             vivons le sexisme et les oppressions liés à nos identités. Cette épreuve nous a contraint à faire face à
             cette violence quotidienne sans échappatoire mettant la vies de beaucoup de nous en danger.
-
+            <br> <br>
             Nous saluons l'investissement des associations dans ce contexte exceptionnel de crise sanitaire. En effet
             les associations ont mis à profit leurs expériences et leur savoirs en santé, en écoute et en
             accompagnement, acquissent lors de précédente crises tel que celle du VIH-Sida, afin de réduire les risques
             lié au COVID-19 et apporter un soutien aux communautés oppressées. Leur travail a permis de pallier aux
             manquement de l'Etat connue et dénoncé depuis des années.
-
+            <br> <br>
             Depuis plus de 20 ans, les dépenses de santé et d'éducation sont comprimées par une volonté politique de
             réduction de place de l'état dans l'économie au bénéfice des plus riches. Ainsi les baisses de dépenses de
             santé opérées ont particulièrement touché les personnes LGBTQI + qui ont besoin d'un accompagnement médical
@@ -147,29 +147,29 @@ Affiche 16:9 de Louiza
             viol par la culture du consentement afin de construire une société plus juste et inclusive. Nous voulons
             notamment rappeler que le comportement observé ces derniers mois à présumer l'état de santé des personnes
             est validiste et raciste.
-
+            <br> <br>
             Cette crise nous rappelle la nécessité d’une convergence de nos luttes, contre le racisme, la xénophobie, le
             sexisme, les lgbtqi-phobies, le classisme, le validisme, la sérophobie, l'âgisme, et la montée de toutes les
             représentations du monde simplistes, stigmatisantes et oppressantes. Cette crise est aussi la conséquence du
             désengagement de l’Etat et des services publics à l'égard de la diversité de sa population.
-
+            <br> <br>
             Nous n’oublions pas non plus, la crise écologique : l’alerte donnée par les scientifiques du monde entier
             sur la mise en péril de nos écosystèmes. Nous dénonçons la passivité coupable des pouvoirs publics
             internationaux et leur incapacité à inventer et proposer d’autres manières d’être au monde que leurs modèles
             actuels, obsolètes et déshumanisants. Nous dénonçons l’acharnement à maintenir ce système de privilèges, au
             détriment des personnes minorisées et oppressées, et de la survie de l’humanité par l’épuisement et
             l'accaparement des ressources naturelles.
-
+            <br> <br>
             Bien que différentes, nous partageons ensemble l’expérience de la marginalité, de l’oppression normative,
             des préjugés, des agressions et des exclusions. Nous nous efforçons aussi de prendre conscience des
             privilèges que nos inscriptions sociales peuvent conférer. Nous apprenons à ne plus en reproduire les
             oppressions, et à trouver les ressources pour lutter, nous soutenir, et nous émanciper.
-
+            <br> <br>
             Ici, à Amiens, nos associations militent depuis des années à la création d’espaces de solidarités,
             d’inspirations, et d’émancipation. La marche des fiertés LGBTQI + en est un. Notre présence militante,
             flamboyante et festive, nous permet de rejeter la honte et la culpabilité dans lesquelles certaines
             personnes préfèreraient nous voir.
-
+            <br> <br>
             Nous manifestons aussi pour celles et ceux d’entre nous qui ne pourront pas nous rejoindre, en raison de
             leur état de santé, de leurs précarités, ou des difficultés qu’ilLEs éprouvent à se visibiliser dans
             l’espace public, pour montrer la merveilleuse diversité de nos visages, et de nos vies ; et rappeler les
@@ -190,9 +190,9 @@ Affiche 16:9 de Louiza
 ------------------------------------------------------------------------------------------------------------------------------ -->
 
 
-    <div class="row block-light">
-        <div class="col-12 col-sm-12">
-            <h2 calss="text-center" id="part">Merci à nos partenaires !</h2>
+    <div class="row "> <!--block-light -->
+        <div class="col-12 col-sm-12 p-4">
+            <h2 class="text-center m-4" id="part">Merci à nos partenaires !</h2>
         </div>
     </div>
 
