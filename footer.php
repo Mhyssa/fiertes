@@ -2,10 +2,10 @@
     Mentions légales --- CGU/Cookies --- ResO SociO Facebook https://fr-fr.facebook.com/festivalidahot/ --- Contact fiertes.amiens.plaidoyer@gmail.com
 ------------------------------------------------------------------------------------------------------------------------------ -->
 
-<footer>
+<footer class="block-light pt-4">
 
-  <div class="row pt-4 footer">
-    <div class="col-lg-4 col-sm-12">
+  <div class="row footer  block-light ">
+    <div class="col-lg-4 col-sm-12 ">
       <p class="text-center"><a href="https://fr-fr.facebook.com/festivalidahot/" target="_blank"><i class="fab fa-facebook fa-2x mr-2"></i></a>Collectif Idahot Amiens</p>
       <p class="text-center"><i class="fas fa-envelope fa-2x mr-2"></i><a href="mailto:fiertes.amiens@gmail.com" class="link" target="_blank">contact@fiertesamiens.fr</p></a>
     </div>
@@ -42,13 +42,13 @@
 
 
     <div class="col-lg-12 col-md-12 pt-2 m-auto">
-      <div class="col-lg-5 col-md-12 m-auto lignefooter"></div>
+      <div class="col-lg-5 col-md-12 m-auto"></div>
 
       <div class=" pt-4 pb-3 m-auto d-flex justify-content-around">
         <p class=""><a href="mention.php" class="">Mentions légales </a></p>
-        <p class="footlink disap">I</p>
+        <p class="">I</p>
         <p class="">©2020 Fiertes Amiens. All rights reserved.</p>
-        <p class="footlink disap">I</p>
+        <p class="">I</p>
         <p class=""><a href="politique.php" class="">Politique de confidentialité </a></p>
       </div>
     </div>

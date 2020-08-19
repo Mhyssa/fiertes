@@ -21,3 +21,19 @@ let countDown = new Date('Sep 19, 2020 14:00:00').getTime(),
       //}
 
     }, second)
+
+
+
+
+
+
+    window.scrollTo(0, 0);
+    window.scroll({
+      top: 0, 
+      left: 0, 
+      behavior: 'smooth'
+    });
+
+
+    //TODO DEFILEMENT TEXTE JS
+    $('body').scrollspy({ target: '#list-example' })

@@ -1,6 +1,6 @@
 
 /*  Google fonts 'Roboto' Regular 400, Regular 400 italic, Bold 700, Bold 700 italic, Black 900
-    Google fonts 'Domine' Regular 400, Bold 700 */
+Google fonts 'Domine' Regular 400, Bold 700 */
 @font-face {
     font-family: "leaguespartan-bold";
     src: url("leaguespartan-bold.woff") format("woff");
@@ -8,24 +8,24 @@
 
 :root {
     --main-bg-color: #fff3d5;
-
+    
     --fly-red:#ff1616;
     --fly-orange: #ee3737;
     --fly-grey-light: #e1e8ed;
     --fly-grey-medium: #cfe0f4;
     --fly-grey: #ccd6dd;
     --fly-black: #211d1d;
-
+    
     --cyan: #00FFFF;
     --fushia: #ff00ff;
-
+    
     --flag-red: #e40303;
     --flag-orange : #ff8c00;
     --flag-yellow: #ffed00;
     --flag-green: #008026;
     --flag-blue: #004dff;
     --flag-purple: #750787;
-
+    
     --rainbow: linear-gradient(to right, #e40303, #ff8c00,#ffed00,
     #008026, #004dff, #750787);
 }
@@ -33,13 +33,15 @@
 body {
     font-family: "roboto", "domine", serif;
     color: var(--fly-black);
+    position: relative;
 }
+/* //TODO DEFILEMENT TEXTE JS */
 
 nav {
     font-family: "domine", serif;
     font-weight: 700;
     text-transform: uppercase;
-    background-color: var(--main-bg-color);
+    
 }
 
 .count {
@@ -55,10 +57,6 @@ nav {
     font-size: 4.5rem;
 }
 
-.footer {
-    background-color: var(--main-bg-color);
-}
-
 .rgpd {
     background: var(--main-bg-color);
     border: 10px solid var(--main-bg-color);
@@ -68,4 +66,46 @@ nav {
     background: var(--rainbow);
     height: 100px;
     width: 100px;
+}
+
+h1 {
+    border: 10px solid var(--rainbow);
+}
+
+.border-rainbow {
+    border-bottom: 10px solid;
+    border-image-slice: 1;
+    border-bottom-width: 3px;
+    border-image-source: var(--rainbow);
+}
+
+button {
+    background: none;
+    text-decoration: inherit;
+    font-family: system-ui;
+    font-size: 1rem;
+    padding: 1rem 2rem;
+    float:right;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+.block {
+    background-color: var(--fly-grey-medium);
+}
+
+.block-light {
+    background-color: var(--main-bg-color);
+}
+
+
+a {
+    color : var(--fly-orange);
+}
+
+
+a:hover {
+    color : var(--cyan);
 }
