@@ -766,8 +766,9 @@ Affiche 16:9 de Louiza
 
 <div class="row block-light ">
     <div class="col-12 col-sm-12 text-center border-rainbow pb-4">
+        <a href="#top"><i class="far fa-arrow-alt-circle-up fa-5x"></i></a>
     </div>
-</div>
+
 
 <?php
 require('footer.php');
