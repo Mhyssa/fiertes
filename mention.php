@@ -1,5 +1,5 @@
 <?php  
-$Titre = "Mentions légales";
+$Titre = "mention";
 require("header.php");
 ?>
 

@@ -1,4 +1,5 @@
 <?php
+$Titre = "index";
 require('header.php');
 ?>
 
