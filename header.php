@@ -51,10 +51,10 @@
 <body>
 
   <div class="container-fluid">
-    <header>
 
       <div class="row">
-        <div class="col-sm-12 col-lg-12 p-0">
+        <div class="col-12 col-sm-12 col-lg-12">
+   
 
           <!-- Marche des Fierté Amiens 2020
 Critère esthétiques 
@@ -73,14 +73,14 @@ Critère esthétiques
 Navbar 2eme marche des fiertes / Archives
 ------------------------------------------------------------------------------------------------------------------------------ -->
 
-          <nav class="navbar navbar-expand-lg navbar-white fixed-top border-rainbow p-2">
+          <nav class="navbar navbar-expand-lg navbar-white fixed-top border-rainbow ">
             <a class="navbar-brand" href="index.php" id="top">
               <img src="assets\img\logo.ico" width="35" height="35" class="d-inline-block  mr-2 " alt="icône tour perret Amiens Gay pride"
                 loading="lazy">
               fiertesAmiens.fr
             </a>
           
-            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
+            <button class="navbar-toggler burger " type="button" data-toggle="collapse" data-target="#navbarNav"
               aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
               <span class="navbar-toggler-icon"></span>
             </button>
@@ -104,9 +104,8 @@ Navbar 2eme marche des fiertes / Archives
                 class="fab fa-facebook fa-2x"></i></a>
             </div>
           </nav>
+
           <!-- Fin de <div class="row"> -->
         </div>
         <!-- Fin de <div class="col-sm-12 col-lg-12"> -->
       </div>
-
-    </header>

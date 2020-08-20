@@ -8,12 +8,12 @@ require('header.php');
 Affiche 16:9 de Louiza
 ------------------------------------------------------------------------------------------------------------------------------ -->
 
-<div class="row mt-5">
+<div class="row mt-5" >
     <div class="col-12 col-sm-12">
         <img src="assets/img/banniere_pride.png"
-            alt="2ème Marche des fiertés ( gaypride ) d'Amiens 19 SEPTEMBRE 2020 - 13H PLACE LÉON GONTHIER 80000 AMIENS"
+            alt="2ème Marche des fiertés ( gaypride ) d'Amiens 19 SEPTEMBRE 2020 - 13H PLACE LÉON GONTIER 80000 AMIENS"
             width="100%" class="shadow mt-3">
-        <span><a target="_blank" href="assets/img/affiche_pride_2_amiens.pdf"><i class="fas fa-download"></i>Télécharges l'affiche officiel ici</a></span>
+        <div class="text-center mt-2 "><a target="_blank" href="assets/img/affiche_pride_2_amiens.pdf"><i class="fas fa-download fa-lg mr-2"></i>Télécharges l'affiche officiel ici</a></div>
     </div>
 </div>
 
@@ -40,9 +40,9 @@ Affiche 16:9 de Louiza
         </h2>
         <ul>
 
-            <li class="mb-2 thasadith coral"><i class="fas fa-volume-up coral"></i>  13h prises de paroles</li>
-            <li class="mb-2 thasadith coral"><i class="fas fa-hiking coral"></i>  14h départ de la déambulation</li>
-            <li class="mb-2 thasadith coral"><i class="fas fa-map-pin coral"></i>  18h fin de la déambulation</li>
+            <li class="mb-2 thasadith coral"><i class="fas fa-volume-up coral pr-3"></i>13h - prises de paroles</li>
+            <li class="mb-2 thasadith coral"><i class="fas fa-hiking coral pr-4"></i>14h  -  départ de la déambulation</li>
+            <li class="mb-2 thasadith coral"><i class="fas fa-map-pin coral pr-4"></i>18h -  fin de la déambulation</li>
         </ul>
     </div>
 </div>
@@ -54,15 +54,15 @@ Affiche 16:9 de Louiza
 <div class="col-lg-7 dotted pb-3  m-auto">
         <!-- <hr class="col-lg-6 col-12 "> -->
     </div>
-<div class="row  block">
+<div class="row block">
 
 
-    <div class="col-6 col-md-6">
+    <div class="col-12 col-sm-12 col-md-6">
         <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1KvQWCV7DtvDxS_uvGcxxPnAvQECRA6lr" width="100%"
             height="520px"></iframe>
     </div>
    
-        <div class="col-6 col-md-6 p-5  text-center">
+        <div class="col-12 col-sm-12 col-md-6 p-5  text-center">
         
             <h2 class="mb-3 white">Noms des rues</h2>
             <ol>
@@ -82,9 +82,9 @@ Affiche 16:9 de Louiza
                 <li class="white"><i class="fas fa-map-marker-alt white"></i> Rue Gresset</li>
                 <li class="white"><i class="fas fa-map-marker-alt white"></i> Place Léon Gontier.</li>
             </ol>
-           
+        
         </div>
-  
+
 </div>
 
 <!-- ------------------------------------------------------------------------------------------------------------------------------
@@ -98,12 +98,12 @@ Affiche 16:9 de Louiza
         <p class="thasadith orange">Le collectif inter-associatif LGBTQI+ d'Amiens initialement collectif IDAHOT (International Day Against
             Homophobia and Transphobia) rassemble les 7 associations amiénoises de lutte contre toutes les formes de
             discriminations et pour la défense des droits des femmes et des personnes Lesbiennes, Gays, Bisexuel.les,
-            Transidentitaires, Queer, Inteersexes et plus (LGBTQI+).
+            Transidentitaires, Queer, Inteersexes et plus (LGBTQI+). <br>
             Ces 6 associations sont : Flash Our True Colors, Les Bavardes, GAS Solidarité, Divergenre, Simili Queer, Sos
             homophobie et Aides.
             Le collectif IDAHOT organise chaque année depuis 2018 le festival IDAHOT, festival de lutte contre les
-            LGBTQI+ phobies et depuis 2019, la marche des fiertés à Amiens.
-            Pour en savoir plus sur les associations membres du collectif <a target="_blank" href="https://fr-fr.facebook.com/festivalidahot/"><i class="fas fa-plus-square"></i></a>
+            LGBTQI+ phobies et depuis 2019, la marche des fiertés à Amiens. <br>
+            Pour en savoir plus sur les associations membres du collectif :  <a target="_blank" href="https://fr-fr.facebook.com/festivalidahot/"><i class="fas fa-plus-square ml-2"></i></a>
                 
             </p>
         </div>
@@ -202,12 +202,13 @@ Affiche 16:9 de Louiza
         </div>
     </div>
 
+<div class="row justify-content-center">
     <div class="col-lg-11 m-auto"><!--block-1 -->
-        <div class="card mb-3 float-left" style="max-width: 540px;">
+        <div class="card mb-3 float-left" style="max-width: 540px; min-height: 210px;">
         <div class="row no-gutters">
-            <div class="col-md-4">
+            <div class="col-md-4 p-3">
             <a target="_blank" href="https://www.aides.org/">
-                            <img src="assets\img\logo\Logo_AIDES.png" class="img-fluid" alt="Logo Aides">
+                            <img src="assets\img\logo\Logo_AIDES.png" height="100" alt="Logo Aides">
                         </a>
             </div>
             <div class="col-md-8">
@@ -220,235 +221,158 @@ Affiche 16:9 de Louiza
             </div>
         </div>
         </div>
-        <div class="card mb-3  float-left" style="max-width: 540px;">
+        <div class="card mb-3  float-left" style="max-width: 540px; min-height: 210px;">
         <div class="row no-gutters">
-            <div class="col-md-4">
-            <a target="_blank" href="https://www.aides.org/">
-                            <img src="assets\img\logo\Logo_AIDES.png" class="img-fluid" alt="Logo Aides">
+            <div class="col-md-4 p-3">
+            <a target="_blank" href="#">
+                            <img src="assets\img\logo\Logo_Divergenre.png" height="100" alt="Logo Divergenre">
                         </a>
             </div>
             <div class="col-md-8">
             <div class="card-body">
                 
-                <p class="card-text">association de lutte contre le VIH/Sida et les Hépatites, qui agit depuis 30 ans avec et
-                            auprès des populations les plus vulnérables pour réduire les nouvelles contaminations et accompagner
-                            les personnes touchées vers le soin et dans la défense de leurs droits.</p>
+                <p class="card-text">Association fonctionnant en autosupport, d'accueil, d'information, de soutien,
+                    d'accompagnement, pour les personnes trans ou en questionnement, ainsi que leurs proches</p>
             </div>
             </div>
         </div>
         </div>
-        <div class="card mb-3  float-left" style="max-width: 540px;">
+        <div class="card mb-3  float-left" style="max-width: 540px; min-height: 210px;">
         <div class="row no-gutters">
-            <div class="col-md-4">
-            <a target="_blank" href="https://www.aides.org/">
-                            <img src="assets\img\logo\Logo_AIDES.png" class="img-fluid" alt="Logo Aides">
+            <div class="col-md-4 p-3">
+            <a target="_blank" href="https://www.gas-asso.org/">
+                            <img src="assets\img\logo\Logo_Flash_Our_True_Colors.png" height="100" alt="Logo Groupe d’Appui et de Solidarité">
                         </a>
             </div>
             <div class="col-md-8">
             <div class="card-body">
                 
-                <p class="card-text">association de lutte contre le VIH/Sida et les Hépatites, qui agit depuis 30 ans avec et
-                            auprès des populations les plus vulnérables pour réduire les nouvelles contaminations et accompagner
-                            les personnes touchées vers le soin et dans la défense de leurs droits.</p>
+                <p class="card-text">
+                    Groupe d’Appui et de Solidarité : association d’éducation populaire de lutte contre les inégalités
+                    et les discriminations pour l'inclusion sociale et l'émancipation des personnes vulnérables.
+                </p>
             </div>
             </div>
         </div>
         </div>
     </div>
     <div class="col-lg-11 m-auto"><!--block-2 -->
-        <div class="card mb-3 float-left" style="max-width: 540px;">
+        <div class="card mb-3 float-left" style="max-width: 540px; min-height: 210px;">
         <div class="row no-gutters">
-            <div class="col-md-4">
-            <a target="_blank" href="https://www.aides.org/">
-                            <img src="assets\img\logo\Logo_AIDES.png" class="img-fluid" alt="Logo Aides">
+            <div class="col-md-4 p-3">
+            <a target="_blank" href="https://flash-our-true-colors.fr/">
+                            <img src="assets\img\logo\Logo_GAS.png" height="100" alt="Logo Flash Our True Colors">
                         </a>
             </div>
             <div class="col-md-8">
             <div class="card-body">
                 
-                <p class="card-text">Association de lutte contre le VIH/Sida et les Hépatites, qui agit depuis 30 ans avec et
-                            auprès des populations les plus vulnérables pour réduire les nouvelles contaminations et accompagner
-                            les personnes touchées vers le soin et dans la défense de leurs droits.</p>
+                <p class="card-text">Association qui agit depuis 2011 pour faire reconnaître la dignité des
+                    personnes LGBTQI+, dans un cadre de convivialité, d'échange et de non jugement.
+                </p>
             </div>
             </div>
         </div>
         </div>
-        <div class="card mb-3  float-left" style="max-width: 540px;">
+        <div class="card mb-3  float-left" style="max-width: 540px; min-height: 210px;">
         <div class="row no-gutters">
-            <div class="col-md-4">
-            <a target="_blank" href="https://www.aides.org/">
-                            <img src="assets\img\logo\Logo_AIDES.png" class="img-fluid" alt="Logo Aides">
+            <div class="col-md-4 p-3">
+            <a target="_blank" href="https://lesbavardes.org/">
+                            <img src="assets\img\logo\Logo_Les_Bavardes.png" height="100" alt="Logo Les Bavardes">
                         </a>
             </div>
             <div class="col-md-8">
             <div class="card-body">
                 
-                <p class="card-text">association de lutte contre le VIH/Sida et les Hépatites, qui agit depuis 30 ans avec et
-                            auprès des populations les plus vulnérables pour réduire les nouvelles contaminations et accompagner
-                            les personnes touchées vers le soin et dans la défense de leurs droits.</p>
+                <p class="card-text">
+                    Les Bavardes : collectif féministe et lesbien engagé depuis 2017 pour la visibilité de toutes les
+                    femmes, au travers d’espaces et d’actions culturelles et artistiques, visant à encourager les débats
+                    et les échanges.
+                </p>
             </div>
             </div>
         </div>
         </div>
-        <div class="card mb-3  float-left" style="max-width: 540px;">
+        <div class="card mb-3  float-left" style="max-width: 540px; min-height: 210px;">
         <div class="row no-gutters">
-            <div class="col-md-4">
-            <a target="_blank" href="https://www.aides.org/">
-                            <img src="assets\img\logo\Logo_AIDES.png" class="img-fluid" alt="Logo Aides">
+            <div class="col-md-4 p-3">
+            <a target="_blank" href="#">
+                            <img src="assets\img\logo\SQ-logo.png" height="100" alt="Logo Simili Queer">
                         </a>
             </div>
             <div class="col-md-8">
             <div class="card-body">
                 
-                <p class="card-text">association de lutte contre le VIH/Sida et les Hépatites, qui agit depuis 30 ans avec et
-                            auprès des populations les plus vulnérables pour réduire les nouvelles contaminations et accompagner
-                            les personnes touchées vers le soin et dans la défense de leurs droits.</p>
+                <p class="card-text">
+                    Simili Queer : Regroupement collectif à Amiens, se retrouvant dans les valeurs, les idées, les
+                    luttes du mouvement et des identités queer, et proposant de les transfigurer
+                    culturellement / artistiquement mais aussi de pouvoir respirer un peu face à la norme.
+                </p>
             </div>
             </div>
         </div>
         </div>
     </div>
     <div class="col-lg-11 m-auto"><!--block-3 -->
-        <div class="card mb-3 float-left" style="max-width: 540px;">
+        <div class="card mb-3 float-left" style="max-width: 540px; min-height: 210px;">
         <div class="row no-gutters">
-            <div class="col-md-4">
-            <a target="_blank" href="https://www.aides.org/">
-                            <img src="assets\img\logo\Logo_AIDES.png" class="img-fluid" alt="Logo Aides">
+            <div class="col-md-4 p-3">
+            <a target="_blank" href="https://www.sos-homophobie.org/delegation/picardie">
+                            <img src="assets\img\logo\Logo_SOS_homophobie.png" height="80" alt="Logo Sos Homophobie">
                         </a>
             </div>
             <div class="col-md-8">
             <div class="card-body">
                 
-                <p class="card-text">Association de lutte contre le VIH/Sida et les Hépatites, qui agit depuis 30 ans avec et
-                            auprès des populations les plus vulnérables pour réduire les nouvelles contaminations et accompagner
-                            les personnes touchées vers le soin et dans la défense de leurs droits.</p>
+                <p class="card-text">
+                    Association de lutte contre les discriminations et les agressions à caractère
+                    homophobe et transphobe, en vue d’une meilleure acceptation de la diversité des orientations
+                    sexuelles et pour lutter pour la visibilité et l’égalité des droits des personnes LGBT.
+                </p>
             </div>
             </div>
         </div>
         </div>
-        <div class="card mb-3  float-left" style="max-width: 540px;">
+        <div class="card mb-3  float-left" style="max-width: 540px; min-height: 210px;">
         <div class="row no-gutters">
-            <div class="col-md-4">
-            <a target="_blank" href="https://www.aides.org/">
-                            <img src="assets\img\logo\Logo_AIDES.png" class="img-fluid" alt="Logo Aides">
+            <div class="col-md-4 p-3">
+            <a target="_blank" href="https://www.sexosafe.fr/">
+                            <img src="assets\img\logo\Logo_Sexo.png" height="100" alt="Logo Sexo Safe">
                         </a>
             </div>
             <div class="col-md-8">
             <div class="card-body">
                 
-                <p class="card-text">association de lutte contre le VIH/Sida et les Hépatites, qui agit depuis 30 ans avec et
-                            auprès des populations les plus vulnérables pour réduire les nouvelles contaminations et accompagner
-                            les personnes touchées vers le soin et dans la défense de leurs droits.</p>
+                <p class="card-text">
+                    Sexosafe.fr est un site présentant tous les modes de protection: Préservatifs, Dépistages, PrEP,
+                    TasP, TPE pour les hommes qui aiment les hommes.
+                    Services: Conseils Sexualité, Adresses & Numéros Utiles, Informations Médicales.
+                </p>
             </div>
             </div>
         </div>
         </div>
-        <div class="card mb-3  float-left" style="max-width: 540px;">
+        <div class="card mb-3  float-left" style="max-width: 540px; min-height: 210px;">
         <div class="row no-gutters">
-            <div class="col-md-4">
-            <a target="_blank" href="https://www.aides.org/">
-                            <img src="assets\img\logo\Logo_AIDES.png" class="img-fluid" alt="Logo Aides">
+            <div class="col-md-4 p-3">
+            <a target="_blank" href="https://www.amiens.fr/">
+                            <img src="assets\img\logo\Logo_Amiens.png" height="100" alt="Logo d'Amiens Métropole">
                         </a>
             </div>
             <div class="col-md-8">
             <div class="card-body">
                 
-                <p class="card-text">association de lutte contre le VIH/Sida et les Hépatites, qui agit depuis 30 ans avec et
-                            auprès des populations les plus vulnérables pour réduire les nouvelles contaminations et accompagner
-                            les personnes touchées vers le soin et dans la défense de leurs droits.</p>
+                <p class="card-text">
+                    Amiens Métropole : La communauté d’agglomération Amiens Métropole est une communauté d'agglomération
+                    française, située dans le département de la Somme et la région Hauts-de-France.</p>
             </div>
             </div>
         </div>
         </div>
     </div>
+</div>
 
-
-            <!-- <div class=" col-4 col-sm-4 col-lg-3 col-xl-3">
-                <a target="_blank" href="https://www.aides.org/">
-                    <img src="assets\img\logo\Logo_AIDES.png" class="img-fluid" alt="Logo Aides">
-                </a>
-                <p>Aides : association de lutte contre le VIH/Sida et les Hépatites, qui agit depuis 30 ans avec et
-                    auprès des populations les plus vulnérables pour réduire les nouvelles contaminations et accompagner
-                    les personnes touchées vers le soin et dans la défense de leurs droits.
-                </p>
-            </div> -->
-            <div class=" col-4 col-sm-4 col-lg-3 col-xl-3">
-                <img src="assets\img\logo\Logo_Divergenre.png" class="img-fluid" alt="Logo Divergenre">
-                <p>
-                    Divergenre : association fonctionnant en autosupport, d'accueil, d'information, de soutien,
-                    d'accompagnement, pour les personnes trans ou en questionnement, ainsi que leurs proches
-
-                </p>
-            </div>
-            <div class=" col-4 col-sm-4 col-lg-3 col-xl-3">
-                <a target="_blank" href="https://www.gas-asso.org/">
-                    <img src="assets\img\logo\Logo_Flash_Our_True_Colors.png" class="img-fluid"
-                        alt="Logo Groupe d’Appui et de Solidarité">
-                </a>
-                <p>
-                    Groupe d’Appui et de Solidarité : association d’éducation populaire de lutte contre les inégalités
-                    et les discriminations pour l'inclusion sociale et l'émancipation des personnes vulnérables.
-
-                </p>
-            </div>
-            <div class=" col-4 col-sm-4 col-lg-3 col-xl-3">
-                <a target="_blank" href="https://flash-our-true-colors.fr/">
-                    <img src="assets\img\logo\Logo_GAS.png" class="img-fluid" alt="Logo Flash Our True Colors">
-                </a>
-                <p>
-                    Flash Our True Colors : association qui agit depuis 2011 pour faire reconnaître la dignité des
-                    personnes LGBTQI+, dans un cadre de convivialité, d'échange et de non jugement.
-
-                </p>
-            </div>
-            <div class=" col-4 col-sm-4 col-lg-3 col-xl-3">
-                <a target="_blank" href="https://lesbavardes.org/">
-                    <img src="assets\img\logo\Logo_Les_Bavardes.png" class="img-fluid" alt="Logo Les Bavardes">
-                </a>
-                <p>
-                    Les Bavardes : collectif féministe et lesbien engagé depuis 2017 pour la visibilité de toutes les
-                    femmes, au travers d’espaces et d’actions culturelles et artistiques, visant à encourager les débats
-                    et les échanges.
-
-                </p>
-            </div>
-            <div class=" col-4 col-sm-4 col-lg-3 col-xl-3">
-                <img src="assets\img\logo\SQ-logo.png" class="img-fluid" alt="Logo Simili Queer">
-                <p>
-                    Simili Queer : Regroupement collectif à Amiens, se retrouvant dans les valeurs, les idées, les
-                    luttes du mouvement et des identités queer, et proposant de les transfigurer
-                    culturellement / artistiquement mais aussi de pouvoir respirer un peu face à la norme.
-
-                </p>
-            </div>
-            <div class=" col-4 col-sm-4 col-lg-3 col-xl-3">
-                <a target="_blank" href="https://www.sos-homophobie.org/delegation/picardie">
-                    <img src="assets\img\logo\Logo_SOS_homophobie.png" class="img-fluid" alt="Logo Sos Homophobie">
-                </a>
-                <p>
-                    Sos Homophobie : association de lutte contre les discriminations et les agressions à caractère
-                    homophobe et transphobe, en vue d’une meilleure acceptation de la diversité des orientations
-                    sexuelles et pour lutter pour la visibilité et l’égalité des droits des personnes LGBT.
-
-                </p>
-            </div>
-            <div class=" col-4 col-sm-4 col-lg-3 col-xl-3">
-                <a target="_blank" href="https://www.sexosafe.fr/">
-                    <img src="assets\img\logo\Logo_Sexo.png" class="img-fluid" alt="Logo Sexo Safe">
-                </a>
-                <p>Sexosafe.fr est un site présentant tous les modes de protection: Préservatifs, Dépistages, PrEP,
-                    TasP, TPE pour les hommes qui aiment les hommes.
-                    Services: Conseils Sexualité, Adresses & Numéros Utiles, Informations Médicales.</p>
-            </div>
-            <div class=" col-4 col-sm-4 col-lg-3 col-xl-3">
-                <a target="_blank" href="https://www.amiens.fr/">
-                    <img src="assets\img\logo\Logo_Amiens.png" class="img-fluid" alt="Logo d'Amiens Métropole">
-                </a>
-                <p>
-                    Amiens Métropole : La communauté d’agglomération Amiens Métropole est une communauté d'agglomération
-                    française, située dans le département de la Somme et la région Hauts-de-France.
-                </p>
-            </div>
+            
         </div>
     </div>
 
@@ -458,23 +382,24 @@ Affiche 16:9 de Louiza
     </div>
 
 
-<section id="galerie">
 
-        <div class="row justify-content-center">
-            
-            <div class="col-md-6 ">
+
 <!-- ------------------------------------------------------------------------------------------------------------------------------
-    Videos
------------------------------------------------------------------------------------------------------------------------------- -->
+        Videos
+    ------------------------------------------------------------------------------------------------------------------------------ -->
+    <div class="row justify-content-center">
+            <div class="col-11 col-sm-11 col-md-6 ">
                 <h2 class="text-center pt-4 pb-5 ">En videos</h2>
                 <iframe width="100%" height="350" src="https://www.youtube.com/embed/NtttY9GAaAg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
 
-            <div class="col-11 col-md-11">
+            <div class="col-11 col-sm-11">
+                <section id="galerie">
 <!-- ------------------------------------------------------------------------------------------------------------------------------
     Photos Juliette Fabijan
 ------------------------------------------------------------------------------------------------------------------------------ -->
-                <h2 class="text-center mb-5 pt-5 ">En images</h2>
+                <h2 class="text-center mb-2 pt-5 ">En images</h2>
+                <p class="text-center mb-4 pt-2 thasadith"> 178 photos exclusives par <a href="https://www.juliettefabijan.fr/">Juliette Fabijan</a> en cliquant sur une des images <i class="fas fa-angle-double-down fa-lg orange"></i></p>
                 <div class="row">
                     <a href="assets/img/jf/2019-Gaypride-AmiensCity.jpg" data-toggle="lightbox"
                         data-gallery="example-gallery" class="col-md-3">
@@ -493,24 +418,25 @@ Affiche 16:9 de Louiza
                         <img src="assets/img/jf/2019-Gaypride-AmiensCity-8.jpg" alt="Image de la gaypride d'Amiens par Juliette Fabijan" class="img-fluid">
                     </a>
                 </div>
-                    <div class="row mb-4">
-                        <a href="assets/img/jf/2019-Gaypride-AmiensCity-5.jpg" data-toggle="lightbox"
-                            data-gallery="example-gallery" class="col-md-3">
-                            <img src="assets/img/jf/2019-Gaypride-AmiensCity.jpg" alt="Image de la gaypride d'Amiens par Juliette Fabijan" class="img-fluid">
-                        </a>
-                        <a href="assets/img/jf/2019-Gaypride-AmiensCity-9.jpg" data-toggle="lightbox"
-                            data-gallery="example-gallery" class="col-md-3">
-                            <img src="assets/img/jf/2019-Gaypride-AmiensCity-9.jpg" alt="Image de la gaypride d'Amiens par Juliette Fabijan" class="img-fluid">
-                        </a>
-                        <a href="assets/img/jf/2019-Gaypride-AmiensCity-3.jpg" data-toggle="lightbox"
-                            data-gallery="example-gallery" class="col-md-3">
-                            <img src="assets/img/jf/2019-Gaypride-AmiensCity-3.jpg" alt="Image de la gaypride d'Amiens par Juliette Fabijan" class="img-fluid">
-                        </a>
-                        <a href="assets/img/jf/2019-Gaypride-AmiensCity-4.jpg" data-toggle="lightbox"
-                            data-gallery="example-gallery" class="col-md-3">
-                            <img src="assets/img/jf/2019-Gaypride-AmiensCity-4.jpg" alt="Image de la gaypride d'Amiens par Juliette Fabijan" class="img-fluid">
-                        </a>
-                    </div>
+                <div class="row mb-4">
+                    <a href="assets/img/jf/2019-Gaypride-AmiensCity-5.jpg" data-toggle="lightbox"
+                        data-gallery="example-gallery" class="col-md-3">
+                        <img src="assets/img/jf/2019-Gaypride-AmiensCity.jpg" alt="Image de la gaypride d'Amiens par Juliette Fabijan" class="img-fluid">
+                    </a>
+                    <a href="assets/img/jf/2019-Gaypride-AmiensCity-9.jpg" data-toggle="lightbox"
+                        data-gallery="example-gallery" class="col-md-3">
+                        <img src="assets/img/jf/2019-Gaypride-AmiensCity-9.jpg" alt="Image de la gaypride d'Amiens par Juliette Fabijan" class="img-fluid">
+                    </a>
+                    <a href="assets/img/jf/2019-Gaypride-AmiensCity-3.jpg" data-toggle="lightbox"
+                        data-gallery="example-gallery" class="col-md-3">
+                        <img src="assets/img/jf/2019-Gaypride-AmiensCity-3.jpg" alt="Image de la gaypride d'Amiens par Juliette Fabijan" class="img-fluid">
+                    </a>
+                    <a href="assets/img/jf/2019-Gaypride-AmiensCity-4.jpg" data-toggle="lightbox"
+                        data-gallery="example-gallery" class="col-md-3">
+                        <img src="assets/img/jf/2019-Gaypride-AmiensCity-4.jpg" alt="Image de la gaypride d'Amiens par Juliette Fabijan" class="img-fluid">
+                    </a>
+                </div>
+                    
                     <!-- elements not showing, use data-remote -->
                     <div data-toggle="lightbox" data-gallery="example-gallery" data-remote="assets/img/jf/2019-Gaypride-AmiensCity-11.jpg"></div>
                     <div data-toggle="lightbox" data-gallery="example-gallery" data-remote="assets/img/jf/2019-Gaypride-AmiensCity-12.jpg"></div>
@@ -652,7 +578,6 @@ Affiche 16:9 de Louiza
                     <div data-toggle="lightbox" data-gallery="example-gallery" data-remote="assets/img/jf/2019-Gaypride-AmiensCity-146.jpg"></div>
                     <div data-toggle="lightbox" data-gallery="example-gallery" data-remote="assets/img/jf/2019-Gaypride-AmiensCity-147.jpg"></div>
                     <div data-toggle="lightbox" data-gallery="example-gallery" data-remote="assets/img/jf/2019-Gaypride-AmiensCity-148.jpg"></div>
-                    <div data-toggle="lightbox" data-gallery="example-gallery" data-remote="assets/img/jf/2019-Gaypride-AmiensCity-149.jpg"></div>
                     <div data-toggle="lightbox" data-gallery="example-gallery" data-remote="assets/img/jf/2019-Gaypride-AmiensCity-150.jpg"></div>
                     <div data-toggle="lightbox" data-gallery="example-gallery" data-remote="assets/img/jf/2019-Gaypride-AmiensCity-151.jpg"></div>
                     <div data-toggle="lightbox" data-gallery="example-gallery" data-remote="assets/img/jf/2019-Gaypride-AmiensCity-152.jpg"></div>
@@ -683,11 +608,10 @@ Affiche 16:9 de Louiza
                     <div data-toggle="lightbox" data-gallery="example-gallery" data-remote="assets/img/jf/2019-Gaypride-AmiensCity-177.jpg"></div>
                     <div data-toggle="lightbox" data-gallery="example-gallery" data-remote="assets/img/jf/2019-Gaypride-AmiensCity-178.jpg"></div>
                     <div data-toggle="lightbox" data-gallery="example-gallery" data-remote="assets/img/jf/2019-Gaypride-AmiensCity-179.jpg"></div>
-                </div>
-            </div>
+            </section>
         </div>
     </div>
-</section>
+
 
 
 <!-- ------------------------------------------------------------------------------------------------------------------------------
@@ -842,7 +766,6 @@ Affiche 16:9 de Louiza
 
 <div class="row block-light ">
     <div class="col-12 col-sm-12 text-center border-rainbow pb-4">
-        <a href="#top"><i class="far fa-arrow-alt-circle-up fa-5x"></i></a>
     </div>
 </div>
 

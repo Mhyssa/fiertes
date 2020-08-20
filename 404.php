@@ -5,8 +5,8 @@ require("header.php");
 
 <div class="container">
     <div class="row my-3">
-        <div class="col-12 col-sm-12 text-center shadow bg-danger text-light rounded">
-            <h1>Oups ! tu as trouvé la page 404</h1>
+        <div class="col-12 col-sm-12 text-center shadow bg-danger text-light rounded mt-5">
+            <h1 class="mt-3">Oups ! tu as trouvé la page 404</h1>
             <p>
                 Click sur l'image de ton choix pour revenir à l'accueil  <i class="fas fa-arrow-circle-down"></i>
             </p>

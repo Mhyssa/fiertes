@@ -5,9 +5,8 @@ Google fonts 'Domine' Regular 400, Bold 700 */
     font-family: "leaguespartan-bold";
     src: url("leaguespartan-bold.woff") format("woff");
 }
-h2{
-    font-family: 'Fredericka the Great', cursive;
-}
+
+
 :root {
     --main-bg-color: #fff3d5;
     
@@ -28,6 +27,28 @@ h2{
     --rainbow: linear-gradient(to right, #e40303, #ff8c00,#ffed00,
     #008026, #004dff, #750787);
 }
+
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: "roboto", "domine", serif;
+    color: var(--fly-black);
+}
+/* //TODO DEFILEMENT TEXTE JS */
+
+
+/* style pour la selection de tous les textes */
+::selection {
+    color: rgb(255, 255, 255);
+    background-color: #ff1616;
+} 
+
+h1, h2{
+    font-family: 'Fredericka the Great', cursive;
+}
 /* TEST nav a finir */
 /* .blue{
 color : var( --flag-blue);
@@ -40,12 +61,11 @@ color : var( --flag-blue);
 } */
 
 /* TEST */
-body {
-    font-family: "roboto", "domine", serif;
-    color: var(--fly-black);
-    position: relative;
+
+
+ul, ol{
+    list-style: none;
 }
-/* //TODO DEFILEMENT TEXTE JS */
 
 
 .count {
@@ -54,6 +74,9 @@ body {
     list-style-type: none;
     padding: 1em;
     text-transform: uppercase;
+    background-color: var(--main-bg-color);
+    border : 2px solid #ff1616;
+    border-radius: 25px;
 }
 
 .count span {
@@ -127,15 +150,13 @@ h1 {
 button {
     background: none;
     text-decoration: inherit;
-    font-family: system-ui;
+    font-family: "roboto";
     font-size: 1rem;
     padding: 1rem 2rem;
     float:right;
 }
 
-html {
-    scroll-behavior: smooth;
-}
+
 
 .block {
     /* background-color: var(--fly-grey-medium); */
@@ -157,16 +178,23 @@ nav {
     
 }
 a {
-    color :  #f00;
+    color :#f00;
     font-family: 'Thasadith', sans-serif;
 } 
+
+a:visited {
+    color: #f00;
+}
+a:hover {
+    color : orange;
+}
+
+
+
+
 .thasadith{
     font-family: 'Thasadith', sans-serif;
     font-weight: 500;
     font-size: 1.2em;
     /* font-style: bold; */
-}
-
-a:hover {
-    color : var(--cyan);
 }
