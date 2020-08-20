@@ -61,7 +61,7 @@ Affiche 16:9 de Louiza
         <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1KvQWCV7DtvDxS_uvGcxxPnAvQECRA6lr" width="100%"
             height="520px"></iframe>
     </div>
-   
+
         <div class="col-12 col-sm-12 col-md-6 p-5  text-center">
         
             <h2 class="mb-3 white">Noms des rues</h2>
@@ -376,7 +376,10 @@ Affiche 16:9 de Louiza
         </div>
     </div>
 
-    <div class="row" id="marche" >
+<!-- ------------------------------------------------------------------------------------------------------------------------------
+        Retour sur la 1ère "Marche des Fiertés" d'Amiens
+------------------------------------------------------------------------------------------------------------------------------ -->
+<div class="row" id="marche" >
     <div class="col-12 col-sm-12">
         <h1 class="text-center pt-5 pb-5 border-rainbow">Retour sur la 1ère "Marche des Fiertés" d'Amiens</h1>
     </div>
@@ -386,7 +389,7 @@ Affiche 16:9 de Louiza
 
 <!-- ------------------------------------------------------------------------------------------------------------------------------
         Videos
-    ------------------------------------------------------------------------------------------------------------------------------ -->
+------------------------------------------------------------------------------------------------------------------------------ -->
     <div class="row justify-content-center">
             <div class="col-11 col-sm-11 col-md-6 ">
                 <h2 class="text-center pt-4 pb-5 ">En videos</h2>

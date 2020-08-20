@@ -32,7 +32,7 @@
   <link
     href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,700;0,900;1,400;1,700&display=swap"
     rel="stylesheet">
-    
+
   <!-- Google fonts 'Domine' Regular 400, Bold 700-->
   <link href="https://fonts.googleapis.com/css2?family=Domine:wght@400;700&family=Roboto&display=swap" rel="stylesheet">
   <!-- Ekko -->
@@ -52,11 +52,11 @@
 
   <div class="container-fluid">
 
-      <div class="row">
-        <div class="col-12 col-sm-12 col-lg-12">
-   
+    <div class="row">
+      <div class="col-12 col-sm-12 col-lg-12">
 
-          <!-- Marche des Fierté Amiens 2020
+
+        <!-- Marche des Fierté Amiens 2020
 Critère esthétiques 
 - les luttes représentées par des personnes : classisme, sexisme, LGBTQIphobie, racisme, validisme, putophobie, xenophobie, 
                                               serophobie, grossophobie, enbyphobie, âgisme, psychophobie, toxicophobie. 
@@ -69,43 +69,43 @@ Critère esthétiques
 - ruban rouge
 -->
 
-          <!-- ------------------------------------------------------------------------------------------------------------------------------
+        <!-- ------------------------------------------------------------------------------------------------------------------------------
 Navbar 2eme marche des fiertes / Archives
 ------------------------------------------------------------------------------------------------------------------------------ -->
 
-          <nav class="navbar navbar-expand-lg navbar-white fixed-top border-rainbow ">
-            <a class="navbar-brand" href="index.php" id="top">
-              <img src="assets\img\logo.ico" width="35" height="35" class="d-inline-block  mr-2 " alt="icône tour perret Amiens Gay pride"
-                loading="lazy">
-              fiertesAmiens.fr
-            </a>
-          
-            <button class="navbar-toggler burger " type="button" data-toggle="collapse" data-target="#navbarNav"
-              aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-              <span class="navbar-toggler-icon"></span>
-            </button>
-            <div class="collapse navbar-collapse" id="navbarNav">
-              <ul class="navbar-nav ">
-                <li class="nav-item pr-4 pl-4">
-                  <a class="nav-link blue" href="#about">Qui Sommes Nous ?</a>
-                </li>
-                <li class="nav-item pr-4 pl-4">
-                  <a class="nav-link pink" href="#plaid">Plaidoyer</a>
-                </li>
-                <li class="nav-item pr-4 pl-4">
-                  <a class="nav-link green" href="#part">Partenariats</a>
-                </li>
-                <li class="nav-item pr-4 pl-4">
-                  <a class="nav-link" href="#marche">Retour sur 2019</a>
-                </li>
-                
-              </ul>
-              <a href="https://fr-fr.facebook.com/festivalidahot/" target="_blank"><i
-                class="fab fa-facebook fa-2x"></i></a>
-            </div>
-          </nav>
+        <nav class="navbar navbar-expand-lg navbar-white fixed-top border-rainbow ">
+          <a class="navbar-brand" href="index.php" id="top">
+            <img src="assets\img\logo.ico" width="35" height="35" class="d-inline-block  mr-2 "
+              alt="icône tour perret Amiens Gay pride" loading="lazy">
+            fiertesAmiens.fr
+          </a>
 
-          <!-- Fin de <div class="row"> -->
-        </div>
-        <!-- Fin de <div class="col-sm-12 col-lg-12"> -->
+          <button class="navbar-toggler burger " type="button" data-toggle="collapse" data-target="#navbarNav"
+            aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav ">
+              <li class="nav-item pr-4 pl-4">
+                <a class="nav-link blue" href="#about">Qui Sommes Nous ?</a>
+              </li>
+              <li class="nav-item pr-4 pl-4">
+                <a class="nav-link pink" href="#plaid">Plaidoyer</a>
+              </li>
+              <li class="nav-item pr-4 pl-4">
+                <a class="nav-link green" href="#part">Partenariats</a>
+              </li>
+              <li class="nav-item pr-4 pl-4">
+                <a class="nav-link" href="#marche">Retour sur 2019</a>
+              </li>
+
+            </ul>
+            <a href="https://fr-fr.facebook.com/festivalidahot/" target="_blank"><i
+                class="fab fa-facebook fa-2x"></i></a>
+          </div>
+        </nav>
+
+        <!-- Fin de <div class="row"> -->
       </div>
+      <!-- Fin de <div class="col-sm-12 col-lg-12"> -->
+    </div>
