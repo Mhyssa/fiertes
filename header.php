@@ -21,7 +21,7 @@
   <!-- Librairie Font awesome CSS -->
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css">
   <!-- icone de l'onglet -->
-  <link rel="icon" href="assets/img/logo.ico" />
+  <link rel="icon" href="assets/img/picto/drapeau-philadelphia.ico" />
 
 
   <link href="https://fonts.googleapis.com/css2?family=Fredericka+the+Great&display=swap" rel="stylesheet">
@@ -75,19 +75,19 @@ Navbar 2eme marche des fiertes / Archives
 
         <nav class="navbar navbar-expand-lg navbar-white fixed-top border-rainbow ">
           <a class="navbar-brand" href="index.php" id="top">
-            <img src="assets\img\logo.ico" width="35" height="35" class="d-inline-block  mr-2 "
+            <img src="assets/img/picto/drapeau-philadelphia.ico" width="35" height="35" class="d-inline-block  mr-2 "
               alt="icône tour perret Amiens Gay pride" loading="lazy">
-            fiertesAmiens.fr
+            <!-- fiertesAmiens.fr -->
           </a>
 
-          <button class="navbar-toggler burger " type="button" data-toggle="collapse" data-target="#navbarNav"
+          <button class="navbar-toggler burger" type="button" data-toggle="collapse" data-target="#navbarNav"
             aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
+            <span class="navbar-toggler-icon"><i class="fas fa-plus-square fa-lg mt-2 orange"></i></span>
           </button>
           <div class="collapse navbar-collapse" id="navbarNav">
-            <ul class="navbar-nav ">
+            <ul class="navbar-nav">
               <li class="nav-item pr-4 pl-4">
-                <a class="nav-link blue" href="#about">Qui Sommes Nous ?</a>
+                <a class="nav-link" href="#about">Qui Sommes Nous ?</a>
               </li>
               <li class="nav-item pr-4 pl-4">
                 <a class="nav-link pink" href="#plaid">Plaidoyer</a>

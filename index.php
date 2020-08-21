@@ -55,7 +55,7 @@ Affiche 16:9 de Louiza
 <div class="col-lg-7 dotted pb-3  m-auto">
         <!-- <hr class="col-lg-6 col-12 "> -->
     </div>
-<div class="row block">
+<div class="row block shadow py-3">
 
 
     <div class="col-12 col-sm-12 col-md-6">
@@ -205,7 +205,7 @@ Affiche 16:9 de Louiza
 
 <div class="row justify-content-center">
     <div class="col-lg-11 m-auto"><!--block-1 -->
-        <div class="card mb-3 float-left" style="max-width: 540px; min-height: 210px;">
+        <div class="card mb-3 mr-2 float-left" style="max-width: 540px; min-height: 210px;">
         <div class="row no-gutters">
             <div class="col-md-4 p-3">
             <a target="_blank" href="https://www.aides.org/">
@@ -222,7 +222,7 @@ Affiche 16:9 de Louiza
             </div>
         </div>
         </div>
-        <div class="card mb-3  float-left" style="max-width: 540px; min-height: 210px;">
+        <div class="card mb-3 mr-2 float-left" style="max-width: 540px; min-height: 210px;">
         <div class="row no-gutters">
             <div class="col-md-4 p-3">
             <a target="_blank" href="#">
@@ -258,7 +258,7 @@ Affiche 16:9 de Louiza
         </div>
     </div>
     <div class="col-lg-11 m-auto"><!--block-2 -->
-        <div class="card mb-3 float-left" style="max-width: 540px; min-height: 210px;">
+        <div class="card mb-3 mr-2 float-left" style="max-width: 540px; min-height: 210px;">
         <div class="row no-gutters">
             <div class="col-md-4 p-3">
             <a target="_blank" href="https://flash-our-true-colors.fr/">
@@ -275,7 +275,7 @@ Affiche 16:9 de Louiza
             </div>
         </div>
         </div>
-        <div class="card mb-3  float-left" style="max-width: 540px; min-height: 210px;">
+        <div class="card mb-3 mr-2 float-left" style="max-width: 540px; min-height: 210px;">
         <div class="row no-gutters">
             <div class="col-md-4 p-3">
             <a target="_blank" href="https://lesbavardes.org/">
@@ -315,7 +315,7 @@ Affiche 16:9 de Louiza
         </div>
     </div>
     <div class="col-lg-11 m-auto"><!--block-3 -->
-        <div class="card mb-3 float-left" style="max-width: 540px; min-height: 210px;">
+        <div class="card mb-3 mr-2 float-left" style="max-width: 540px; min-height: 210px;">
         <div class="row no-gutters">
             <div class="col-md-4 p-3">
             <a target="_blank" href="https://www.sos-homophobie.org/delegation/picardie">
@@ -334,7 +334,7 @@ Affiche 16:9 de Louiza
             </div>
         </div>
         </div>
-        <div class="card mb-3  float-left" style="max-width: 540px; min-height: 210px;">
+        <div class="card mb-3 mr-2 float-left" style="max-width: 540px; min-height: 210px;">
         <div class="row no-gutters">
             <div class="col-md-4 p-3">
             <a target="_blank" href="https://www.sexosafe.fr/">
@@ -384,6 +384,7 @@ Affiche 16:9 de Louiza
     <div class="col-12 col-sm-12">
         <h1 class="text-center pt-5 pb-5 border-rainbow">Retour sur la 1ère "Marche des Fiertés" d'Amiens</h1>
     </div>
+</div>
 
 
 
@@ -393,17 +394,26 @@ Affiche 16:9 de Louiza
 ------------------------------------------------------------------------------------------------------------------------------ -->
     <div class="row justify-content-center">
             <div class="col-11 col-sm-11 col-md-6 ">
-                <h2 class="text-center pt-4 pb-5 ">En videos</h2>
+                <h2 class="text-center pt-4 pb-4 ">En videos</h2>
                 <iframe width="100%" height="350" src="https://www.youtube.com/embed/NtttY9GAaAg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
+        </div>
 
-            <div class="col-11 col-sm-11">
+        <div class="row justify-content-center">
+            <div class="col-11 col-sm-11 col-md-6">
+                <h2 class="text-center mb-2 pt-5 ">En images</h2>
+                                <p class="text-center mb-4 pt-2 thasadith"> 178 photos exclusives par <a href="https://www.juliettefabijan.fr/">Juliette Fabijan</a> en cliquant sur une des images <i class="fas fa-angle-double-down fa-lg orange"></i></p>
+                                
+            </div>
+        </div>
+        <div class="row justify-content-center">
+            <div class="col-10 col-sm-10">
                 <section id="galerie">
 <!-- ------------------------------------------------------------------------------------------------------------------------------
     Photos Juliette Fabijan
 ------------------------------------------------------------------------------------------------------------------------------ -->
-                <h2 class="text-center mb-2 pt-5 ">En images</h2>
-                <p class="text-center mb-4 pt-2 thasadith"> 178 photos exclusives par <a href="https://www.juliettefabijan.fr/">Juliette Fabijan</a> en cliquant sur une des images <i class="fas fa-angle-double-down fa-lg orange"></i></p>
+                
+                
                 <div class="row">
                     <a href="assets/img/jf/2019-Gaypride-AmiensCity.jpg" data-toggle="lightbox"
                         data-gallery="example-gallery" class="col-md-3">
@@ -770,7 +780,10 @@ Affiche 16:9 de Louiza
 
 <div class="row block-light ">
     <div class="col-12 col-sm-12 text-center border-rainbow pb-4">
-        <a href="#top"><i class="far fa-arrow-alt-circle-up fa-5x"></i></a>
+        <a href="#top">
+            <img src="assets/img/picto/drapeau-philadelphia.ico" alt="pied de page avec le drapeau de philadelphia" class="img-fluid h-auto" style="width: 120px;">
+
+        </a>
     </div>
 
 
