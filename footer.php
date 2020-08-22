@@ -76,7 +76,20 @@
         event.preventDefault();
         $(this).ekkoLightbox();
     })
-
+    let check = 0;
+    $( "#visual" ).click(function() { 
+      console.log(check)
+      if (check==0){
+        $("#VisualTarget").removeClass( "lireTout" );
+        
+        check = 1;
+      }else{
+        $( "#VisualTarget" ).addClass( "lireTout" );
+        check = 0;
+      }
+      
+     
+    });
 </script>
 
 <script src="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.js" data-cfasync="false"></script>
@@ -99,7 +112,9 @@
       "href": "politique.php"
     }
   });
+  
 </script>
+
 </body>
 
 </html>

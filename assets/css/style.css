@@ -50,6 +50,10 @@ h1,
 h2 {
     font-family: 'Fredericka the Great', cursive;
 }
+.fontGlobale{
+    font-family: 'Fredericka the Great', cursive;
+}
+
 
 /* TEST nav a finir */
 /* .blue{
@@ -104,18 +108,29 @@ color : var( --flag-blue);
 } */
 
 /* TEST */
+.lireTout{
+    max-height: 50em;
+    overflow: hidden;
+}
 .white {
     color: white;
 }
 
-.dotted {
-    border-top: #ec1940 3px dotted;
+.dotted-coral {
+    border-top: #ec1940 2px dotted;
 }
-
+.dotted-orange {
+    border-top: orange 2px dotted;
+}
+.dotted-purple {
+    border-top: #94268a 2px dotted;
+}
 .coral {
     color: #ec1940;
 }
-
+.borderWhite{
+    border-bottom: white 4px solid;
+}
 .orange {
     color: orange;
 }
@@ -124,22 +139,28 @@ color : var( --flag-blue);
     background-color: orange;
     color: white;
 }
-
+.btnOrange{
+  
+    background-color:   #ffc65f;
+    color: white;
+}
 .purple {
-    color: #fb00ff;
+     color:#94268a; /*#fb00ff; */
 }
 
 .blocPurple {
-    background-color: #fb00ff;
+    background-color:#94268a;
     color: white;
 }
 
 
 .blockBlue {
-    background-color: #fb00ff;
+    background-color:#263494;
     color: white;
 }
-
+.blue{
+    color : #263494;
+}
 .rainbow {
     background: var(--rainbow);
     height: 100px;
@@ -169,15 +190,15 @@ button {
 }
 
 .block-light {
-    background-color: var(--main-bg-color);
+    background-color: white;
 }
 
 
 nav {
     /* font-family: "domine", serif; */
-    font-family: 'Julius Sans One', sans-serif;
-    font-weight: 600;
-    font-size: 1.2em;
+    /* font-family: 'Julius Sans One', sans-serif; */
+    /* font-weight: 600; */
+    font-size: 1.4em;
     background-color: #fff;
     /* background-color: #8e0202; */
 
@@ -188,17 +209,24 @@ a {
     font-family: 'Thasadith', sans-serif;
 }
 
-a:visited {
+/* a:visited {
     color: #f00;
-}
+} */
 
 a:hover {
     color: black;
 }
 
 
-
-
+.card{
+    min-height: 565px;
+}
+.card-text{
+    min-height: 10em;
+}
+.card-img-top{
+    max-height: 12.2em;
+}
 .thasadith {
     font-family: 'Thasadith', sans-serif;
     font-weight: 500;
