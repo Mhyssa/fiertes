@@ -223,7 +223,7 @@ Affiche 16:9 de Louiza
             <div class="col-md-8">
             <div class="card-body">
                 
-                <p class="card-text purple">Association de lutte contre le VIH/Sida et les Hépatites, qui agit depuis 30 ans avec et
+                <p class="card-text purple">Aides : Association de lutte contre le VIH/Sida et les Hépatites, qui agit depuis 30 ans avec et
                             auprès des populations les plus vulnérables pour réduire les nouvelles contaminations et accompagner
                             les personnes touchées vers le soin et dans la défense de leurs droits.</p>
             </div>
@@ -233,14 +233,14 @@ Affiche 16:9 de Louiza
         <div class="card mb-3 mr-2 float-left" style="max-width: 540px; min-height: 210px;">
         <div class="row no-gutters">
             <div class="col-md-4 p-3">
-            <a target="_blank" href="#">
+            <a target="_blank" href="https://www.facebook.com/Divergenre-105224454220663">
                             <img src="assets\img\logo\Logo_Divergenre.png" height="100" alt="Logo Divergenre">
                         </a>
             </div>
             <div class="col-md-8">
             <div class="card-body">
                 
-                <p class="card-text purple">Association fonctionnant en autosupport, d'accueil, d'information, de soutien,
+                <p class="card-text purple">Divergenre : Association fonctionnant en autosupport, d'accueil, d'information, de soutien,
                     d'accompagnement, pour les personnes trans ou en questionnement, ainsi que leurs proches</p>
             </div>
             </div>
@@ -250,7 +250,7 @@ Affiche 16:9 de Louiza
         <div class="row no-gutters">
             <div class="col-md-4 p-3">
             <a target="_blank" href="https://www.gas-asso.org/">
-                            <img src="assets\img\logo\Logo_Flash_Our_True_Colors.png" height="100" alt="Logo Groupe d’Appui et de Solidarité">
+                            <img src="assets\img\logo\Logo_GAS.png" height="100" alt="Logo Groupe d’Appui et de Solidarité">
                         </a>
             </div>
             <div class="col-md-8">
@@ -270,13 +270,13 @@ Affiche 16:9 de Louiza
         <div class="row no-gutters">
             <div class="col-md-4 p-3">
             <a target="_blank" href="https://flash-our-true-colors.fr/">
-                            <img src="assets\img\logo\Logo_GAS.png" height="100" alt="Logo Flash Our True Colors">
+                            <img src="assets\img\logo\Logo_Flash_Our_True_Colors.png" height="100" alt="Logo Flash Our True Colors">
                         </a>
             </div>
             <div class="col-md-8">
             <div class="card-body">
                 
-                <p class="card-text purple">Association qui agit depuis 2011 pour faire reconnaître la dignité des
+                <p class="card-text purple">Flash Our True Colors : Association qui agit depuis 2011 pour faire reconnaître la dignité des
                     personnes LGBTQI+, dans un cadre de convivialité, d'échange et de non jugement.
                 </p>
             </div>
@@ -305,7 +305,7 @@ Affiche 16:9 de Louiza
         <div class="card mb-3  float-left" style="max-width: 540px; min-height: 210px;">
         <div class="row no-gutters">
             <div class="col-md-4 p-3">
-            <a target="_blank" href="#">
+            <a target="_blank" href="https://www.facebook.com/Simili-Queer-112282696984289">
                             <img src="assets\img\logo\SQ-logo.png" height="100" alt="Logo Simili Queer">
                         </a>
             </div>
@@ -346,7 +346,7 @@ Affiche 16:9 de Louiza
         <div class="row no-gutters">
             <div class="col-md-4 p-3">
             <a target="_blank" href="https://www.sexosafe.fr/">
-                            <img src="assets\img\logo\Logo_Sexo.png" height="100" alt="Logo Sexo Safe">
+                            <img src="assets\img\logo\Logo_Sexo.PNG" height="100" alt="Logo Sexo Safe">
                         </a>
             </div>
             <div class="col-md-8">
@@ -379,7 +379,7 @@ Affiche 16:9 de Louiza
         </div>
         </div>
     </div>
-</div>
+
 
       
         </div>
@@ -788,12 +788,13 @@ Affiche 16:9 de Louiza
 
 
 <div class="row block-light ">
-    <div class="col-12 col-sm-12 text-center border-rainbow pb-4">
+    <div class="col-12 col-sm-12 text-center border-rainbow pb-4 pt-4">
         <a href="#top">
             <img src="assets/img/picto/drapeau-philadelphia.ico" alt="pied de page avec le drapeau de philadelphia" class="img-fluid h-auto" style="width: 120px;">
 
         </a>
     </div>
+</div>
 
 
 <?php

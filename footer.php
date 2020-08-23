@@ -56,7 +56,7 @@
   </div>
 </footer>
 </div>
-
+</div>
 
 
 <!-- Optional JavaScript -->
