@@ -14,7 +14,7 @@ Affiche 16:9 de Louiza
         <img src="assets/img/banniere_pride.png"
             alt="2ème Marche des fiertés ( gaypride ) d'Amiens 19 SEPTEMBRE 2020 - 13H PLACE LÉON GONTIER 80000 AMIENS"
             width="100%" class="shadow mt-3">
-        <div class="text-center mt-2 "><a target="_blank" href="assets/img/affiche_pride_2_amiens.pdf"><i class="fas fa-download fa-lg mr-2"></i>Télécharges l'affiche officiel ici</a></div>
+        <div class="text-center mt-2 "><a target="_blank" href="assets/img/affiche_pride_2_amiens.pdf"><i class="fas fa-download fa-lg mr-2"></i>Télécharge l'affiche officielle ici</a></div>
     </div>
 </div>
 
@@ -101,7 +101,7 @@ Affiche 16:9 de Louiza
             Homophobia and Transphobia) rassemble les 7 associations amiénoises de lutte contre toutes les formes de
             discriminations et pour la défense des droits des femmes et des personnes Lesbiennes, Gays, Bisexuel.les,
             Transidentitaires, Queer, Inteersexes et plus (LGBTQI+). <br>
-            Ces 6 associations sont : Flash Our True Colors, Les Bavardes, GAS Solidarité, Divergenre, Simili Queer, Sos
+            Ces 7 associations sont : Flash Our True Colors, Les Bavardes, GAS Solidarité, Divergenre, Simili Queer, Sos
             homophobie et Aides.
             Le collectif IDAHOT organise chaque année depuis 2018 le festival IDAHOT, festival de lutte contre les
             LGBTQI+ phobies et depuis 2019, la marche des fiertés à Amiens. <br>
@@ -125,68 +125,33 @@ Affiche 16:9 de Louiza
     <div class="col-9 col-sm-9 p-5 lireTout" id="VisualTarget">
         <h2 class="text-center mb-4">Découvrir nos revendications</h2>
         <div data-spy="scroll" data-target="#list-example" data-offset="0" class="scrollspy-example">
-        <p class="thasadith "> Nous, lesbiennes, gays, bis, trans', queers et intersexes, multiples dans nos identités. nous dont le genre
-            et les sexualités ne rentrent pas dans le cadre étroit de l’hétérosexualité, et de la cis-normativité. nous
-            qui sommes aussi des personnes en situation irrégulière, sans revenus, aux situations précaires, situation
-            de handicape ; des personnes séropositives au VIH, au VHC, sujettes à des addictions, en difficulté avec
-            leur santé mentale et physique. Nous marchons aujourd'hui pour revendiquer notre place dans la société et
-            pour que nos voix soient entendues.
+        <p class="thasadith ">
+            Le collectif de 7 associations amiénoises luttant contre toutes les formes de discriminations, pour les droits des femmes et des personnes LGBTQI+ (lesbienne, gay, bi, trans, queer, intersexe et autres), rassemblées autour de ces causes depuis 3 ans : Flash Our True Colors, Les Bavardes, Gas Solidarité, Divergenre, Simili Queer, SOS homophobie Picardie et AIDES - Hauts de France vous invitent à le rejoindre avec tous.tes nos allié.e.s le 19 septembre dès 13h Place Léon Gontier. 
             <br> <br>
-            La crise sanitaire que nous vivons révèle les violences, les discriminations sociales d’accès à la santé, et
-            à des conditions dignes d’existence. Dès les premiers jours du confinement, nos communautés se sont
-            mobilisées pour prévenir et dénoncer les violences auxquelles nous nous trouvons exposéEs et que la
-            situation venait aggraver.
+            Nous, lesbiennes, gays, bis, trans', queers et intersexes, multiples dans nos identités. Nous, dont le genre et les sexualités ne rentrent pas dans le cadre étroit de l’hétérosexualité, et de la cis-normativité. Nous, qui sommes parfois aussi  des personnes en situation irrégulière, sans revenus, aux situations précaires, en situation de handicap ; des personnes séropositives au VIH, au VHC, sujettes à des addictions, en difficulté avec leur santé mentale et physique.  Nous marchons pour revendiquer notre place dans la société et pour que nos voix soient entendues.
             <br> <br>
-            Les lieux dans lesquels nous avons dû nous confiner, nos foyers, nos familles, sont aussi des lieux où nous
-            vivons le sexisme et les oppressions liés à nos identités. Cette épreuve nous a contraint à faire face à
-            cette violence quotidienne sans échappatoire mettant la vies de beaucoup de nous en danger.
+            La crise sanitaire que nous vivons révèle les violences, les discriminations sociales d’accès à la santé, et à des conditions dignes d’existence. Dès les premiers jours du confinement, nos communautés se sont mobilisées pour prévenir et dénoncer les violences auxquelles nous nous trouvions exposé.e.s et que la situation venait aggraver.
             <br> <br>
-            Nous saluons l'investissement des associations dans ce contexte exceptionnel de crise sanitaire. En effet
-            les associations ont mis à profit leurs expériences et leur savoirs en santé, en écoute et en
-            accompagnement, acquissent lors de précédente crises tel que celle du VIH-Sida, afin de réduire les risques
-            lié au COVID-19 et apporter un soutien aux communautés oppressées. Leur travail a permis de pallier aux
-            manquement de l'Etat connue et dénoncé depuis des années.
+            Les lieux dans lesquels nous avons dû nous confiner, nos foyers, nos familles, peuvent être aussi des lieux où nous vivons le sexisme et les oppressions  liés à nos identités. Cette épreuve nous a contraint.e.s à faire face à cette violence quotidienne sans échappatoire mettant la vie de beaucoup d’entre nous en danger.
             <br> <br>
-            Depuis plus de 20 ans, les dépenses de santé et d'éducation sont comprimées par une volonté politique de
-            réduction de place de l'état dans l'économie au bénéfice des plus riches. Ainsi les baisses de dépenses de
-            santé opérées ont particulièrement touché les personnes LGBTQI + qui ont besoin d'un accompagnement médical
-            complet notamment pour le suivi des personnes porteuses du VIH ou des personnes trans’ s'engager dans un
-            parcours de transition médicale. Les personnes LGBTQI+ doivent être mieux reçues, mieux orientées et moins
-            discriminées par les institutions médicales et/ou sociales. Le rôle social de l'état ne doit pas se borner
-            aux dépenses de santé. L'éducation nationale doit s'investir pour remplacer auprès des enfants la culture du
-            viol par la culture du consentement afin de construire une société plus juste et inclusive. Nous voulons
-            notamment rappeler que le comportement observé ces derniers mois à présumer l'état de santé des personnes
-            est validiste et raciste.
+            Nous saluons l'investissement des associations dans ce contexte exceptionnel de crise sanitaire. En effet les associations ont mis à profit leurs expériences et leurs savoirs en santé, en écoute et en accompagnement, acquises lors de précédentes crises telles que celle du VIH-Sida, afin de  réduire les risques lié à la COVID-19 et apporter un soutien aux communautés oppressées. Leur travail a permis de pallier aux manquements de l'Etat connus et dénoncés depuis des années.
             <br> <br>
-            Cette crise nous rappelle la nécessité d’une convergence de nos luttes, contre le racisme, la xénophobie, le
-            sexisme, les lgbtqi-phobies, le classisme, le validisme, la sérophobie, l'âgisme, et la montée de toutes les
-            représentations du monde simplistes, stigmatisantes et oppressantes. Cette crise est aussi la conséquence du
-            désengagement de l’Etat et des services publics à l'égard de la diversité de sa population.
+            Depuis plus de 20 ans, les dépenses de santé et d'éducation sont comprimées par une volonté politique de réduction de la place de l'état dans l'économie au bénéfice des plus riches. Ainsi les baisses de dépenses de santé opérées ont particulièrement touché les personnes LGBTQI + qui ont besoin d'un accompagnement médical complet notamment pour le suivi des personnes séropositives au  VIH ou des personnes trans’ pour s'engager dans un parcours de transition médicale. Les personnes LGBTQI+ doivent être mieux reçues, mieux orientées et moins discriminées par les institutions médicales et/ou sociales. Le rôle social de l'état ne doit pas se borner aux dépenses de santé. L'éducation nationale doit s'investir pour remplacer auprès des enfants la culture du viol par la culture du consentement afin de construire une société plus juste et inclusive.
             <br> <br>
-            Nous n’oublions pas non plus, la crise écologique : l’alerte donnée par les scientifiques du monde entier
-            sur la mise en péril de nos écosystèmes. Nous dénonçons la passivité coupable des pouvoirs publics
-            internationaux et leur incapacité à inventer et proposer d’autres manières d’être au monde que leurs modèles
-            actuels, obsolètes et déshumanisants. Nous dénonçons l’acharnement à maintenir ce système de privilèges, au
-            détriment des personnes minorisées et oppressées, et de la survie de l’humanité par l’épuisement et
-            l'accaparement des ressources naturelles.
+            Cette crise nous rappelle la nécessité d’une convergence de nos luttes, contre les lgbtqi-phobies, le racisme, la xénophobie, le sexisme, le classisme, le validisme, la sérophobie, l'âgisme, et la montée de toutes sortes de représentations simplistes, stigmatisantes et oppressantes. Cette crise est aussi la conséquence du désengagement de l’Etat et des services publics à l'égard de la diversité de la population.
             <br> <br>
-            Bien que différentes, nous partageons ensemble l’expérience de la marginalité, de l’oppression normative,
-            des préjugés, des agressions et des exclusions. Nous nous efforçons aussi de prendre conscience des
-            privilèges que nos inscriptions sociales peuvent conférer. Nous apprenons à ne plus en reproduire les
-            oppressions, et à trouver les ressources pour lutter, nous soutenir, et nous émanciper.
+            Nous n’oublions pas non plus, la crise écologique : l’alerte donnée par les scientifiques du monde entier sur la mise en péril de nos écosystèmes. Nous dénonçons la passivité coupable des pouvoirs publics internationaux et leur incapacité à inventer et proposer d’autres manières d’être au monde que leurs modèles actuels, obsolètes et déshumanisants. Nous dénonçons l’acharnement à maintenir ce système de privilèges, au détriment des personnes minorisées et oppressées, et de la survie de l’humanité par l’épuisement et l'accaparement des ressources naturelles.
             <br> <br>
-            Ici, à Amiens, nos associations militent depuis des années à la création d’espaces de solidarités,
-            d’inspirations, et d’émancipation. La marche des fiertés LGBTQI + en est un. Notre présence militante,
-            flamboyante et festive, nous permet de rejeter la honte et la culpabilité dans lesquelles certaines
-            personnes préfèreraient nous voir.
+            Bien que différentes, nous partageons ensemble l’expérience de la marginalité, de l’oppression normative, des préjugés, des agressions et des exclusions. Nous nous efforçons aussi de prendre conscience des privilèges que nos inscriptions sociales peuvent conférer. Nous apprenons à ne plus en reproduire les oppressions, et à trouver les ressources pour lutter, nous soutenir, et nous émanciper.
             <br> <br>
-            Nous manifestons aussi pour celles et ceux d’entre nous qui ne pourront pas nous rejoindre, en raison de
-            leur état de santé, de leurs précarités, ou des difficultés qu’ilLEs éprouvent à se visibiliser dans
-            l’espace public, pour montrer la merveilleuse diversité de nos visages, et de nos vies ; et rappeler les
-            pouvoirs publics à leurs responsabilités. Nous sommes également présents pour les personnes disparues
-            victimes de ce système oppressants.
+            Ici, à Amiens, nos associations militent depuis des années à la création d’espaces de solidarités, d’inspirations, et d’émancipation. La marche des fiertés LGBTQI + en est un. Notre présence militante, flamboyante et festive, nous permet de ne pas accepter la honte et la culpabilité que certaines personnes souhaiteraient nous imposer.
+            <br> <br>
+            Nous manifestons aussi pour celles et ceux d’entre nous qui ne pourront pas nous rejoindre, en raison de leur état de santé, de leurs précarités, ou des difficultés qu’il.elle.s éprouvent à se visibiliser dans l’espace public, pour montrer la merveilleuse diversité de nos visages, et de nos vies; et rappeler les pouvoirs publics à leurs responsabilités. Nous sommes également présent.e.s pour les personnes disparues victimes de ce système oppressants.
+            <br> <br>
+            Nous rappelons à tous les citoyen.ne.s, élu.e.s, pouvoirs publics que vous êtes aussi acteur.rice.s et responsables du changement.
+
         </p>
-      
+    
         </div>
     </div>
     <div class="col-lg-12 p-3">
@@ -391,7 +356,7 @@ Affiche 16:9 de Louiza
 ------------------------------------------------------------------------------------------------------------------------------ -->
 <div class="row blocPurple " id="marche" >
     <div class="col-12 col-sm-12 ">
-       <h1 class="text-center pt-5 pb-5 borderWhite ">Retour sur la 1ère "Marche des Fiertés" d'Amiens</h1>  <!--border-rainbow -->
+        <h1 class="text-center pt-5 pb-5 borderWhite ">Retour sur la 1ère "Marche des Fiertés" d'Amiens</h1>  <!--border-rainbow -->
     </div>
 </div>
 

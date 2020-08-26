@@ -32,7 +32,7 @@
         <img src="assets\img\logo\Logo_SOS_homophobie.png" height="80" alt="logo Sos Homophobie Délégation Picardie">
       </a>
       <a target="_blank" href="https://www.sexosafe.fr/">
-        <img src="assets\img\logo\Logo_Sexo.png" height="80" alt="logo Sexo Safe">
+        <img src="assets\img\logo\Logo_Sexo.PNG" height="80" alt="logo Sexo Safe">
       </a>
       <a target="_blank" href="https://www.amiens.fr/">
         <img src="assets\img\logo\Logo_Amiens.png" height="80" alt="logo Amiens Metropole">

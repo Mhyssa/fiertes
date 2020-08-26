@@ -1,1 +1,2 @@
-ErrorDocument 404 /fiertes/404.php
+ErrorDocument 404 /404.php
+RedirectPermanent / https://www.fiertesamiens.fr/

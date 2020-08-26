@@ -21,7 +21,7 @@
   <meta name="author" content="Marion JOLY, Noemie CLAUDE" />
   <meta name="copyright" content="Collectif Idahot" />
   <meta name="description"
-    content="Le collectif inter-associatif IDAHOT (International Day Against Homophobia and Transphobia) rassemble les 6 associations amiénoises de lutte contre toutes les formes de discriminations et pour la défense des droits des femmes et des personnes Lesbiennes, Gays, Bisexuel.les, Transidentitaires, Queer, Inteersexes et plus (LGBTQI+)." />
+    content="Site de la 2ème Marche des Fiertés d'Amiens le 19 septembre, organisé par le collectif interassociatif IDAHOT." />
 
   <!-- Bootstrap CSS -->
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css"
@@ -86,7 +86,7 @@ Navbar 2eme marche des fiertes / Archives
         <nav class="navbar navbar-expand-lg p-3 navbar-white fixed-top shadow  ">
           <a class="navbar-brand" href="index.php" id="top">
             <img src="assets/img/picto/drapeau-philadelphia.ico" width="35" height="35" class="d-inline-block  mr-2 "
-              alt="icône tour perret Amiens Gay pride" loading="lazy">
+              alt="icône tour drapeau philadelphia Amiens Gay pride" loading="lazy">
             <!-- fiertesAmiens.fr -->
           </a>
 
