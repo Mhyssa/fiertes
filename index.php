@@ -40,14 +40,12 @@ Affiche 16:9 de Louiza
             Déroulement de la journée du 19 septembre 
         </h2>
         <ul>
-
             <li class="mb-2 thasadith coral"><i class="fas fa-volume-up coral pr-3"></i>13h - prises de paroles</li>
             <li class="mb-2 thasadith coral"><i class="fas fa-hiking coral pr-4"></i>14h  -  départ de la déambulation</li>
             <li class="mb-2 thasadith coral"><i class="fas fa-map-pin coral pr-4"></i>18h -  fin de la déambulation</li>
         </ul>
     </div>
 </div>
-
 
 <!-- ------------------------------------------------------------------------------------------------------------------------------
     Plan de la marche / Parcours
