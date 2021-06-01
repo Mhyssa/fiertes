@@ -7,7 +7,7 @@
   <div class="row footer  block-light ">
     <div class="col-lg-4 col-sm-12 ">
       <p class="text-center"><a href="https://fr-fr.facebook.com/festivalidahot/" target="_blank"><i class="fab fa-facebook fa-2x mr-2"></i></a>Collectif Idahot Amiens</p>
-      <p class="text-center"><i class="fas fa-envelope fa-2x mr-2"></i><a href="mailto:fiertes.amiens@gmail.com" class="link" target="_blank">contact@fiertesamiens.fr</p></a>
+      <p class="text-center"><i class="fas fa-envelope fa-2x mr-2"></i><a href="mailto:fierte.amiens@gmail.com" class="link" target="_blank">fierte.amiens@gmail.com</p></a>
     </div>
     <div class="col-lg-8 col-sm-12">
       <a target="_blank" href="https://www.aides.org/">

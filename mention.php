@@ -1,4 +1,4 @@
-<?php  
+<?php
 $Titre = "mention";
 require("header.php");
 ?>
@@ -15,7 +15,7 @@ require("header.php");
                 <p>
                     Marion Joly.<br>
 
-                    Pour joindre la responsable de publication, merci d’envoyer un email à fiertes.amiens@gmail.com<br>
+                    Pour joindre la responsable de publication, merci d’envoyer un email à fierte.amiens@gmail.com<br>
 
                     Le présent site internet www.fiertesamiens.fr (le « Site Internet ») est édité par :<br>
 
@@ -41,11 +41,12 @@ require("header.php");
                     de données du site. Toute exploitation sans exception des contenues du présent site se suivra donc
                     d’une procédure en justice. Le tribunal de Lille sera seul compétent pour régler les litiges.<br><br>
 
-                    
+
                 <h2> Conception du site internet : </h2><br>
                     Marion Joly pour la conception, la rédaction, le developpement et le design.<br>
                     Timothee Kunde pour l'aide à la rédaction.<br>
                     Louiza Tasse pour l'affiche et la bannière.<br>
+                    Innocent Binyoma pour la mise à jour.<br>
                 </p>
             </div>
 
@@ -55,6 +56,6 @@ require("header.php");
 
 
 
-<?php  
+<?php
 require("footer.php")
 ?>
