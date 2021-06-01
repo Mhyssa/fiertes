@@ -47,7 +47,7 @@
       <div class=" pt-4 pb-3 m-auto d-flex justify-content-around">
         <p class=""><a href="mention.php" class="">Mentions légales </a></p>
         <p class="">I</p>
-        <p class="">©2020 Fiertes Amiens. All rights reserved.</p>
+        <p class="">©2021 Fiertes Amiens. All rights reserved.</p>
         <p class="">I</p>
         <p class=""><a href="politique.php" class="">Politique de confidentialité </a></p>
       </div>
@@ -77,18 +77,18 @@
         $(this).ekkoLightbox();
     })
     let check = 0;
-    $( "#visual" ).click(function() { 
+    $( "#visual" ).click(function() {
       console.log(check)
       if (check==0){
         $("#VisualTarget").removeClass( "lireTout" );
-        
+
         check = 1;
       }else{
         $( "#VisualTarget" ).addClass( "lireTout" );
         check = 0;
       }
-      
-     
+
+
     });
 </script>
 
@@ -112,7 +112,7 @@
       "href": "politique.php"
     }
   });
-  
+
 </script>
 
 </body>

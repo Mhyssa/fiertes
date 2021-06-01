@@ -12,7 +12,7 @@ Affiche 16:9 de Louiza
 <div class="row mt-5" >
     <div class="col-12 col-sm-12">
         <img src="assets/img/banniere_pride.png"
-            alt="2ème Marche des fiertés ( gaypride ) d'Amiens 19 SEPTEMBRE 2020 - 13H PLACE LÉON GONTIER 80000 AMIENS"
+            alt="2ème Marche des fiertés ( gaypride ) d'Amiens 19 JUIN 2021 - 13H PLACE LÉON GONTIER 80000 AMIENS"
             width="100%" class="shadow mt-3">
         <div class="text-center mt-2 "><a target="_blank" href="assets/img/affiche_pride_2_amiens.pdf"><i class="fas fa-download fa-lg mr-2"></i>Télécharge l'affiche officielle ici</a></div>
     </div>
@@ -29,15 +29,15 @@ Affiche 16:9 de Louiza
     <div class="col-12 col-md-6 text-center">
         <h2 class="coral">Début de la marche dans :</h2>
         <ul>
-            <li class="count coral"><span id="days"></span>Jours</li>
-            <li class="count coral"><span id="hours"></span>Heures</li>
-            <li class="count coral"><span id="minutes"></span>Minutes</li>
-            <li class="count coral"><span id="seconds"></span>Secondes</li>
+            <li class="count whiteOnRed"><span id="days"></span>Jours</li>
+            <li class="count blueOnSaffron"><span id="hours"></span>Heures</li>
+            <li class="count blueOnYellow"><span id="minutes"></span>Minutes</li>
+            <li class="count whiteOnGreen"><span id="seconds"></span>Secondes</li>
         </ul>
     </div>
     <div class="col-12 col-md-6">
         <h2 class="mb-5 coral">
-            Déroulement de la journée du 19 septembre 
+            Déroulement de la journée du 19 juin
         </h2>
         <ul>
             <li class="mb-2 thasadith coral"><i class="fas fa-volume-up coral pr-3"></i>13h - prises de paroles</li>
@@ -52,7 +52,7 @@ Affiche 16:9 de Louiza
 ------------------------------------------------------------------------------------------------------------------------------ -->
 <div class="col-lg-12 dotted-coral pb-2  m-auto"></div>
         <!-- <hr class="col-lg-6 col-12 "> -->
-    
+
 <div class="row block shadow py-3">
 
 
@@ -62,7 +62,7 @@ Affiche 16:9 de Louiza
     </div>
 
         <div class="col-12 col-sm-12 col-md-6 p-5  text-center">
-        
+
             <h2 class="mb-3 white">Noms des rues</h2>
             <ol>
                 <li class="white"><i class="fas fa-map-marker-alt white"></i> Départ Place Léon Gontier</li>
@@ -81,19 +81,19 @@ Affiche 16:9 de Louiza
                 <li class="white"><i class="fas fa-map-marker-alt white"></i> Rue Gresset</li>
                 <li class="white"><i class="fas fa-map-marker-alt white"></i> Place Léon Gontier.</li>
             </ol>
-        
+
         </div>
 
 </div>
 
 <!-- ------------------------------------------------------------------------------------------------------------------------------
-    Qui sommes Nous 
+    Qui sommes Nous
 ------------------------------------------------------------------------------------------------------------------------------ -->
 
 <div class="row justify-content-center " id="about">
 <div class="col-lg-12 dotted-orange pb-3 pt-2 mt-2"></div>
     <div class="col-9 col-sm-9 col-lg-6 p-4">
-    
+
         <h2 class="text-center mb-4 orange">Qui sommes nous ?</h2>
         <p class="thasadith orange">Le collectif inter-associatif LGBTQI+ d'Amiens initialement collectif IDAHOT (International Day Against
             Homophobia and Transphobia) rassemble les 7 associations amiénoises de lutte contre toutes les formes de
@@ -104,27 +104,27 @@ Affiche 16:9 de Louiza
             Le collectif IDAHOT organise chaque année depuis 2018 le festival IDAHOT, festival de lutte contre les
             LGBTQI+ phobies et depuis 2019, la marche des fiertés à Amiens. <br>
             Pour en savoir plus sur les associations membres du collectif :  <a target="_blank" href="https://fr-fr.facebook.com/festivalidahot/"><i class="fas fa-plus-square ml-2"></i></a>
-                
+
             </p>
-           
+
         </div>
             <div class="col-9 col-sm-9 col-lg-3">
                 <iframe width="100%" height="315" src="https://www.youtube.com/embed/akLfSOXkd1Y" frameborder="0"
                     allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
-            <div class="col-lg-12 dotted-orange pb-1 pt-2"></div> 
+            <div class="col-lg-12 dotted-orange pb-1 pt-2"></div>
 </div>
 
 
 <!-- ------------------------------------------------------------------------------------------------------------------------------
-    Découvrir nos revendications / plaidoyer 
+    Découvrir nos revendications / plaidoyer
 ------------------------------------------------------------------------------------------------------------------------------ -->
 <div class="row justify-content-center blockOrange " id="plaid">
     <div class="col-9 col-sm-9 p-5 lireTout" id="VisualTarget">
         <h2 class="text-center mb-4">Découvrir nos revendications</h2>
         <div data-spy="scroll" data-target="#list-example" data-offset="0" class="scrollspy-example">
         <p class="thasadith ">
-            Le collectif de 7 associations amiénoises luttant contre toutes les formes de discriminations, pour les droits des femmes et des personnes LGBTQI+ (lesbienne, gay, bi, trans, queer, intersexe et autres), rassemblées autour de ces causes depuis 3 ans : Flash Our True Colors, Les Bavardes, Gas Solidarité, Divergenre, Simili Queer, SOS homophobie Picardie et AIDES - Hauts de France vous invitent à le rejoindre avec tous.tes nos allié.e.s le 19 septembre dès 13h Place Léon Gontier. 
+            Le collectif de 7 associations amiénoises luttant contre toutes les formes de discriminations, pour les droits des femmes et des personnes LGBTQI+ (lesbienne, gay, bi, trans, queer, intersexe et autres), rassemblées autour de ces causes depuis 3 ans : Flash Our True Colors, Les Bavardes, Gas Solidarité, Divergenre, Simili Queer, SOS homophobie Picardie et AIDES - Hauts de France vous invitent à le rejoindre avec tous.tes nos allié.e.s le 19 septembre dès 13h Place Léon Gontier.
             <br> <br>
             Nous, lesbiennes, gays, bis, trans', queers et intersexes, multiples dans nos identités. Nous, dont le genre et les sexualités ne rentrent pas dans le cadre étroit de l’hétérosexualité, et de la cis-normativité. Nous, qui sommes parfois aussi  des personnes en situation irrégulière, sans revenus, aux situations précaires, en situation de handicap ; des personnes séropositives au VIH, au VHC, sujettes à des addictions, en difficulté avec leur santé mentale et physique.  Nous marchons pour revendiquer notre place dans la société et pour que nos voix soient entendues.
             <br> <br>
@@ -149,7 +149,7 @@ Affiche 16:9 de Louiza
             Nous rappelons à tous les citoyen.ne.s, élu.e.s, pouvoirs publics que vous êtes aussi acteur.rice.s et responsables du changement.
 
         </p>
-    
+
         </div>
     </div>
     <div class="col-lg-12 p-3">
@@ -161,8 +161,8 @@ Affiche 16:9 de Louiza
 
 
 <!-- ------------------------------------------------------------------------------------------------------------------------------
-    Partenaires 
-            AIDES Divergenre Flash Our True Colors Le Groupe d'Appui et de Solidarité 
+    Partenaires
+            AIDES Divergenre Flash Our True Colors Le Groupe d'Appui et de Solidarité
             Les Bavardes SOS homophobie Picardie Simili Queer Translucide Sexosafe Amiens Métropole
 ------------------------------------------------------------------------------------------------------------------------------ -->
 
@@ -185,7 +185,7 @@ Affiche 16:9 de Louiza
             </div>
             <div class="col-md-8">
             <div class="card-body">
-                
+
                 <p class="card-text purple">Aides : Association de lutte contre le VIH/Sida et les Hépatites, qui agit depuis 30 ans avec et
                             auprès des populations les plus vulnérables pour réduire les nouvelles contaminations et accompagner
                             les personnes touchées vers le soin et dans la défense de leurs droits.</p>
@@ -202,7 +202,7 @@ Affiche 16:9 de Louiza
             </div>
             <div class="col-md-8">
             <div class="card-body">
-                
+
                 <p class="card-text purple">Divergenre : Association fonctionnant en autosupport, d'accueil, d'information, de soutien,
                     d'accompagnement, pour les personnes trans ou en questionnement, ainsi que leurs proches</p>
             </div>
@@ -218,7 +218,7 @@ Affiche 16:9 de Louiza
             </div>
             <div class="col-md-8">
             <div class="card-body">
-                
+
                 <p class="card-text purple">
                     Groupe d’Appui et de Solidarité : association d’éducation populaire de lutte contre les inégalités
                     et les discriminations pour l'inclusion sociale et l'émancipation des personnes vulnérables.
@@ -238,7 +238,7 @@ Affiche 16:9 de Louiza
             </div>
             <div class="col-md-8">
             <div class="card-body">
-                
+
                 <p class="card-text purple">Flash Our True Colors : Association qui agit depuis 2011 pour faire reconnaître la dignité des
                     personnes LGBTQI+, dans un cadre de convivialité, d'échange et de non jugement.
                 </p>
@@ -255,7 +255,7 @@ Affiche 16:9 de Louiza
             </div>
             <div class="col-md-8">
             <div class="card-body">
-                
+
                 <p class="card-text purple">
                     Les Bavardes : collectif féministe et lesbien engagé depuis 2017 pour la visibilité de toutes les
                     femmes, au travers d’espaces et d’actions culturelles et artistiques, visant à encourager les débats
@@ -274,7 +274,7 @@ Affiche 16:9 de Louiza
             </div>
             <div class="col-md-8">
             <div class="card-body">
-                
+
                 <p class="card-text purple">
                     Simili Queer : Regroupement collectif à Amiens, se retrouvant dans les valeurs, les idées, les
                     luttes du mouvement et des identités queer, et proposant de les transfigurer
@@ -295,7 +295,7 @@ Affiche 16:9 de Louiza
             </div>
             <div class="col-md-8">
             <div class="card-body">
-                
+
                 <p class="card-text purple">
                     Association de lutte contre les discriminations et les agressions à caractère
                     homophobe et transphobe, en vue d’une meilleure acceptation de la diversité des orientations
@@ -314,7 +314,7 @@ Affiche 16:9 de Louiza
             </div>
             <div class="col-md-8">
             <div class="card-body">
-                
+
                 <p class="card-text purple">
                     Sexosafe.fr est un site présentant tous les modes de protection: Préservatifs, Dépistages, PrEP,
                     TasP, TPE pour les hommes qui aiment les hommes.
@@ -333,7 +333,7 @@ Affiche 16:9 de Louiza
             </div>
             <div class="col-md-8">
             <div class="card-body">
-                
+
                 <p class="card-text purple">
                     Amiens Métropole : La communauté d’agglomération Amiens Métropole est une communauté d'agglomération
                     française, située dans le département de la Somme et la région Hauts-de-France.</p>
@@ -344,11 +344,11 @@ Affiche 16:9 de Louiza
     </div>
 
 
-      
+
         </div>
-        
+
     </div>
-    <div class="col-lg-12 dotted-purple pb-1 pt-2 mt-2"></div>   
+    <div class="col-lg-12 dotted-purple pb-1 pt-2 mt-2"></div>
 <!-- ------------------------------------------------------------------------------------------------------------------------------
         Retour sur la 1ère "Marche des Fiertés" d'Amiens
 ------------------------------------------------------------------------------------------------------------------------------ -->
@@ -375,7 +375,7 @@ Affiche 16:9 de Louiza
             <div class="col-11 col-sm-11 col-md-6 " >
                 <h2 class="text-center mb-2 pt-5  blue">En images</h2>
                                 <p class="text-center mb-4 pt-2 thasadith"> 178 photos exclusives par <a href="https://www.juliettefabijan.fr/">Juliette Fabijan</a> en cliquant sur une des images <i class="fas fa-angle-double-down fa-lg orange"></i></p>
-                                
+
             </div>
         </div>
         <div class="row justify-content-center">
@@ -384,8 +384,8 @@ Affiche 16:9 de Louiza
 <!-- ------------------------------------------------------------------------------------------------------------------------------
     Photos Juliette Fabijan
 ------------------------------------------------------------------------------------------------------------------------------ -->
-                
-                
+
+
                 <div class="row">
                     <a href="assets/img/jf/2019-Gaypride-AmiensCity.jpg" data-toggle="lightbox"
                         data-gallery="example-gallery" class="col-md-3">
@@ -422,7 +422,7 @@ Affiche 16:9 de Louiza
                         <img src="assets/img/jf/2019-Gaypride-AmiensCity-4.jpg" alt="Image de la gaypride d'Amiens par Juliette Fabijan" class="img-fluid">
                     </a>
                 </div>
-                    
+
                     <!-- elements not showing, use data-remote -->
                     <div data-toggle="lightbox" data-gallery="example-gallery" data-remote="assets/img/jf/2019-Gaypride-AmiensCity-11.jpg"></div>
                     <div data-toggle="lightbox" data-gallery="example-gallery" data-remote="assets/img/jf/2019-Gaypride-AmiensCity-12.jpg"></div>
@@ -615,12 +615,12 @@ Affiche 16:9 de Louiza
                 <h5 class="card-title blue">
                     KOMITID - "NOUS VIVONS UN MOMENT HISTORIQUE"
                 </h5>
-                <p class="card-text blue">Les personnes LGBT+ amiénoises s'apprêtent à défiler pour la première fois dans leur ville, samedi 22 juin. 
-                Harmonisation des prises de parole, flocage de t-shirts, écriture des pancartes… on a assisté à l'atelier de préparation de la Marche avec les bénévoles du 
+                <p class="card-text blue">Les personnes LGBT+ amiénoises s'apprêtent à défiler pour la première fois dans leur ville, samedi 22 juin.
+                Harmonisation des prises de parole, flocage de t-shirts, écriture des pancartes… on a assisté à l'atelier de préparation de la Marche avec les bénévoles du
                 collectif organisateur. Reportage. [...]</p>
                 <button class="btn border-rainbow"><a  target="_BLANK" href="
                 https://www.komitid.fr/2019/06/21/nous-vivons-un-moment-historique-on-a-assiste-a-la-preparation-de-la-toute-premiere-marche-des-fiertes-a-amiens/
-        
+
         ">Lire la suite</a></button>
             </div>
         </div>
@@ -633,7 +633,7 @@ Affiche 16:9 de Louiza
                     FRANCE BLEU - PREMIÈRE MARCHE DES FIERTÉS À AMIENS : UNE "SENSIBILISATION NÉCESSAIRE"
 
                 </h5>
-                <p class="card-text blue">La première Marche des Fiertés d'Amiens aura lieu le 22 juin 2019. 
+                <p class="card-text blue">La première Marche des Fiertés d'Amiens aura lieu le 22 juin 2019.
                 Organisée par un collectif de six associations, elle promet un moment fort pour les personnes homosexuelles et transidentitaires. [...]
 
 </p>
@@ -651,11 +651,11 @@ Affiche 16:9 de Louiza
                     FRANCE 3 HDF - EN PICARDIE, LA LUTTE CONTRE L'HOMOPHOBIE AVANCE
 
                 </h5>
-                <p class="card-text blue">SOS Homophobie a sorti son rapport annuel sur les actes LGBTphobes, et les chiffres sont alarmants. En Picardie, les associations tentent de faire avancer la lutte avec l'accompagnement au quotidien, mais aussi à travers des actions plus visibles. 
+                <p class="card-text blue">SOS Homophobie a sorti son rapport annuel sur les actes LGBTphobes, et les chiffres sont alarmants. En Picardie, les associations tentent de faire avancer la lutte avec l'accompagnement au quotidien, mais aussi à travers des actions plus visibles.
                     [...]
                 </p>
                 <button class="btn border-rainbow"><a  target="_BLANK" href="
-        
+
                 https://france3-regions.francetvinfo.fr/hauts-de-france/somme/embargo-au-14-mai-7h-picardie-lutte-contre-homophobie-avance-1668769.html
         ">Lire la suite</a></button>
             </div>
@@ -669,11 +669,11 @@ Affiche 16:9 de Louiza
 
                     ORANGE WEO - PREMIÈRE MARCHE DES FIERTÉS LE 22 JUIN
                 </h5>
-                <p class="card-text blue">Amiens va avoir droit à sa première Marche des Fiertés. Le rendez-vous pris le 22 juin 2019, date anniversaire de l'insurrection des personnes homosexuelles 
+                <p class="card-text blue">Amiens va avoir droit à sa première Marche des Fiertés. Le rendez-vous pris le 22 juin 2019, date anniversaire de l'insurrection des personnes homosexuelles
                     et transidentitaires contre les violences qu'elles subissent à New-York. Un défilé est prévu entre la place de la gare et la maison de la culture d'Amiens [...]</p>
                 <button class="btn border-rainbow"><a  target="_BLANK" href="
                 https://actu.orange.fr/societe/videos/amiens-80-premiere-marche-des-fiertes-le-22-juin-CNT000001fzkM0.html
-        
+
         ">Lire la suite</a></button>
 
             </div>
@@ -692,7 +692,7 @@ Affiche 16:9 de Louiza
                 <p class="card-text blue">Lesbiennes, homos, transgenres… ils veulent vivre sans crainte des insultes ou pire des coups. Le message était porté par un millier de personne pour la première marche des fiertés picarde...</p>
                 <button class="btn border-rainbow"><a  target="_BLANK" href="
                 https://abonne.lunion.fr/id74647/article/2019-06-22/amiens-ils-se-donnent-la-main-sans-craindre-les-quolibets
-        
+
         ">Lire la suite</a></button>
             </div>
         </div>
@@ -700,12 +700,12 @@ Affiche 16:9 de Louiza
     <div class="col mb-4">
         <div class="card">
             <img src="assets/img/a6.PNG" class="card-img-top" alt="Le cortège a traversé le centre-ville en musique. © Radio France - Hélène Fromenty">
-            <div class="card-body"> 
+            <div class="card-body">
                 <h5 class="card-title blue">
                     BELLE AFFLUENCE POUR LA PREMIÈRE MARCHE DES FIERTÉS D'AMIENS
 
                 </h5>
-                <p class="card-text blue">La toute première marche des fiertés, ou gray pride, s'est déroulée ce samedi 22 juin à Amiens (Somme). 
+                <p class="card-text blue">La toute première marche des fiertés, ou gray pride, s'est déroulée ce samedi 22 juin à Amiens (Somme).
                     Environ 2.000 personnes ont défilé dans les rues du centre-ville pour défendre la cause et les droits des LGBTQI+ [...]</p>
                 <button class="btn border-rainbow"><a  target="_BLANK" href="
                 https://www.francebleu.fr/infos/societe/en-images-belle-affluence-pour-la-premiere-marche-des-fiertes-d-amiens-1561218833
@@ -720,7 +720,7 @@ Affiche 16:9 de Louiza
                 <h5 class="card-title blue">
                     FRANC SUCCÈS POUR LA MARCHE DES FIERTÉS D’AMIENS
                 </h5>
-                <p class="card-text blue">Un beau succès au vu du nombre de manifestants et de l’ambiance joyeuse de l’événement, une première en Picardie. 
+                <p class="card-text blue">Un beau succès au vu du nombre de manifestants et de l’ambiance joyeuse de l’événement, une première en Picardie.
                     Des personnalités politiques ont rejoint la marche. Et même la statue de l’homme sur sa bouée de Saint-Leu s’est mise aux couleurs de l’arc-en-ciel !</p>
                 <button class="btn border-rainbow"><a  target="_BLANK" href="
                 https://www.courrier-picard.fr/id20345/article/2019-06-22/franc-succes-pour-la-marche-des-fiertes-damiens
@@ -736,14 +736,14 @@ Affiche 16:9 de Louiza
                     PRÈS DE 2000 PERSONNES RASSEMBLÉES POUR LA 1E MARCHE DES FIERTÉS D'AMIENS
 
                 </h5>
-                <p class="card-text blue">C'est une première en Picardie. La marche des fiertés avait lieu ce samedi après-midi dans le centre-ville d'Amiens. 
+                <p class="card-text blue">C'est une première en Picardie. La marche des fiertés avait lieu ce samedi après-midi dans le centre-ville d'Amiens.
                     Près de 2000 personnes se sont rassemblées en faveur des droits des personnes LGBTQI+ [...]</p>
                 <button class="btn border-rainbow"><a  target="_BLANK" href="
                 https://france3-regions.francetvinfo.fr/hauts-de-france/somme/amiens/pres-2000-personnes-rassemblees-1e-marche-fiertes-amiens-1689316.html
         ">Lire la suite</a></button>
                     </div>
                 </div>
-        
+
         </div>
     </div>
 </div>
