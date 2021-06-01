@@ -3,8 +3,8 @@ const second = 1000,
       hour = minute * 60,
       day = hour * 24;
 
-let countDown = new Date('June 19, 2021 14:00:00').getTime(),
-    x = setInterval(function() {
+let countDown = new Date('June 19, 2021 17:00:00').getTime(),
+    x = setInterval(function() {    
 
       let now = new Date().getTime(),
           distance = countDown - now;
@@ -23,15 +23,11 @@ let countDown = new Date('June 19, 2021 14:00:00').getTime(),
     }, second)
 
 
-
-
-
-
     window.scrollTo(0, 0);
     window.scroll({
-      top: 0,
-      left: 0,
+      top: 0, 
+      left: 0, 
       behavior: 'smooth'
     });
 
-
+    

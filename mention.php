@@ -15,7 +15,7 @@ require("header.php");
                 <p>
                     Marion Joly.<br>
 
-                    Pour joindre la responsable de publication, merci d’envoyer un email à fiertes.amiens@gmail.com<br>
+                    Pour joindre la responsable de publication, merci d’envoyer un email à fierte.amiens@gmail.com<br>
 
                     Le présent site internet www.fiertesamiens.fr (le « Site Internet ») est édité par :<br>
 

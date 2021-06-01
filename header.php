@@ -64,22 +64,7 @@
 
     <div class="row">
       <div class="col-12 col-sm-12 col-lg-12">
-
-
-        <!-- Marche des Fierté Amiens 2020
-Critère esthétiques 
-- les luttes représentées par des personnes : classisme, sexisme, LGBTQIphobie, racisme, validisme, putophobie, xenophobie, 
-                                              serophobie, grossophobie, enbyphobie, âgisme, psychophobie, toxicophobie. 
-- intégration de la couleur rouge
-Élément iconographique 
-- seringue 
-- une série de poings levés (point BLM,point avec une attelle, point non genré pour représenté les luttes ) 
-- drapeau LGBTQI+ de Philadelphie 
-- parapluie rouge  
-- ruban rouge
--->
-
-        <!-- ------------------------------------------------------------------------------------------------------------------------------
+<!-- ------------------------------------------------------------------------------------------------------------------------------
 Navbar 2eme marche des fiertes / Archives
 ------------------------------------------------------------------------------------------------------------------------------ -->
 <!-- border-rainbow -->
@@ -98,9 +83,6 @@ Navbar 2eme marche des fiertes / Archives
             <ul class="navbar-nav">
               <li class="nav-item pr-4 pl-4">
                 <a class="nav-link fontGlobale coral " href="#about">Qui Sommes Nous ?</a>
-              </li>
-              <li class="nav-item pr-4 pl-4">
-                <a class="nav-link pink fontGlobale orange" href="#plaid">Plaidoyer</a>
               </li>
               <li class="nav-item pr-4 pl-4">
                 <a class="nav-link green fontGlobale purple " href="#part">Partenariats</a>
