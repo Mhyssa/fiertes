@@ -7,9 +7,9 @@ require('header.php');
     Compte à rebourd RENDEZ VOUS DANS + Details de la journée
 ------------------------------------------------------------------------------------------------------------------------------ -->
 
-<div class="row py-5">
+<div class="row mt-5">
     <div class="col-12 col-md-6 text-center">
-        <h2 class=" mt-5 coral">Début de la marche dans :</h2>
+        <h2 class="mt-5 coral">Début de la marche dans :</h2>
         <ul>
             <li class="count whiteOnRed"><span id="days"></span>Jours</li>
             <li class="count blueOnSaffron"><span id="hours"></span>Heures</li>
