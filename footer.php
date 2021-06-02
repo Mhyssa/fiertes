@@ -19,25 +19,13 @@
       <a target="_blank" href="https://flash-our-true-colors.fr/">
         <img src="assets\img\logo\Logo_Flash_Our_True_Colors.png" height="80" alt="logo Flash True Colors">
       </a>
-      <a target="_blank" href="https://www.gas-asso.org/">
-        <img src="assets\img\logo\Logo_GAS.png" height="80" alt="logo GAS">
-      </a>
+
       <a target="_blank" href="https://lesbavardes.org/">
         <img src="assets\img\logo\Logo_Les_Bavardes.png" height="80" alt="logo Les Bavardes">
-      </a>
-      <a target="_blank" href="">
-        <img src="assets\img\logo\SQ-logo.png" height="80" alt="logo Simili Queer">
       </a>
       <a target="_blank" href="https://www.sos-homophobie.org/delegation/picardie">
         <img src="assets\img\logo\Logo_SOS_homophobie.png" height="80" alt="logo Sos Homophobie Délégation Picardie">
       </a>
-      <a target="_blank" href="https://www.sexosafe.fr/">
-        <img src="assets\img\logo\Logo_Sexo.PNG" height="80" alt="logo Sexo Safe">
-      </a>
-      <a target="_blank" href="https://www.amiens.fr/">
-        <img src="assets\img\logo\Logo_Amiens.png" height="80" alt="logo Amiens Metropole">
-      </a>
-
     </div>
 
 

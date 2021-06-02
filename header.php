@@ -21,7 +21,7 @@
   <meta name="author" content="Marion JOLY, Noemie CLAUDE" />
   <meta name="copyright" content="Collectif Idahot" />
   <meta name="description"
-    content="Site de la 2ème Marche des Fiertés d'Amiens le 19 septembre, organisé par le collectif interassociatif IDAHOT." />
+    content="Site de la 3ème Marche des Fiertés d'Amiens le 19 juin, organisé par le collectif interassociatif IDAHOT." />
 
   <!-- Bootstrap CSS -->
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css"
@@ -54,7 +54,7 @@
   <script type="text/javascript" src="assets/js/script.js"></script>
 
   <!-- Titre de l'onglet -->
-  <title>Pride Amiens | 2ème Marche des Fiertés</title>
+  <title>Pride Amiens | 3ème Marche des Fiertés</title>
 
 </head>
 
@@ -80,7 +80,7 @@ Critère esthétiques
 -->
 
         <!-- ------------------------------------------------------------------------------------------------------------------------------
-Navbar 2eme marche des fiertes / Archives
+Navbar 3eme marche des fiertes / Archives
 ------------------------------------------------------------------------------------------------------------------------------ -->
 <!-- border-rainbow -->
         <nav class="navbar navbar-expand-lg p-3 navbar-white fixed-top shadow  ">

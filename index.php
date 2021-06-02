@@ -37,7 +37,7 @@ Affiche 16:9 de Louiza
 <div class="row">
     <div class="col-12 col-sm-12">
         <img src="assets/img/banniere_pride.png"
-             alt="2ème Marche des fiertés ( gaypride ) d'Amiens 19 JUIN 2021 - 13H PLACE LÉON GONTIER 80000 AMIENS"
+             alt="3ème Marche des fiertés ( gaypride ) d'Amiens 19 JUIN 2021 - 13H PLACE LÉON GONTIER 80000 AMIENS"
              width="100%" class="shadow mt-3">
         <div class="text-center mt-2 "><a target="_blank" href="assets/img/affiche_pride_2_amiens.pdf"><i
                         class="fas fa-download fa-lg mr-2"></i>Télécharge l'affiche officielle ici</a></div>
@@ -121,7 +121,7 @@ Affiche 16:9 de Louiza
 <!-- ------------------------------------------------------------------------------------------------------------------------------
     Partenaires
             AIDES Divergenre Flash Our True Colors Le Groupe d'Appui et de Solidarité
-            Les Bavardes SOS homophobie Picardie Simili Queer Translucide Sexosafe Amiens Métropole
+            Les Bavardes SOS homophobie Picardie
 ------------------------------------------------------------------------------------------------------------------------------ -->
 
 
