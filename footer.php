@@ -13,8 +13,8 @@
       <a target="_blank" href="https://www.aides.org/">
         <img src="assets\img\logo\Logo_AIDES.png" height="80" alt="logo AIDES">
       </a>
-      <a target="_blank" href="">
-        <img src="assets\img\logo\Logo_Divergenre.png" height="100" alt="logo Divergenre">
+      <a target="_blank" href="https://www.gas-asso.org/">
+        <img src="assets\img\logo\Logo_GAS.png" height="100" alt="logo GAS">
       </a>
       <a target="_blank" href="https://flash-our-true-colors.fr/">
         <img src="assets\img\logo\Logo_Flash_Our_True_Colors.png" height="80" alt="logo Flash True Colors">

@@ -36,10 +36,10 @@ Affiche 16:9 de Louiza
 
 <div class="row">
     <div class="col-12 col-sm-12">
-        <img src="assets/img/banniere_pride.png"
+        <img src="assets/img/3eme_marche.jpg"
              alt="3ème Marche des fiertés ( gaypride ) d'Amiens 19 JUIN 2021 - 13H PLACE LÉON GONTIER 80000 AMIENS"
              width="100%" class="shadow mt-3">
-        <div class="text-center mt-2 "><a target="_blank" href="assets/img/affiche_pride_2_amiens.pdf"><i
+        <div class="text-center mt-2 "><a target="_blank" href="assets/img/affiche_pride_3_amiens.pdf"><i
                         class="fas fa-download fa-lg mr-2"></i>Télécharge l'affiche officielle ici</a></div>
     </div>
 </div>
@@ -55,8 +55,12 @@ Affiche 16:9 de Louiza
 
 
     <div class="col-12 col-sm-12 col-md-6">
-        <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1KvQWCV7DtvDxS_uvGcxxPnAvQECRA6lr" width="100%"
-                height="520px"></iframe>
+        <!-- <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1KvQWCV7DtvDxS_uvGcxxPnAvQECRA6lr" width="100%"
+                height="520px"></iframe> -->
+               
+
+                <iframe src="https://www.google.com/maps/embed?pb=!1m76!1m12!1m3!1d2570.2734179772724!2d2.2952202015299337!3d49.89366993510547!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m61!3e2!4m5!1s0x47e7843ffa7aa67b%3A0x7c5413872f67d8a1!2sPlace%20L%C3%A9on%20Gontier%2C%2080000%20Amiens!3m2!1d49.8940713!2d2.2930696999999998!4m5!1s0x47e7844004671233%3A0xef487e8aa9c75268!2sRue%20de%20la%202%C3%A8me%20Division%20Blind%C3%A9e%2C%2080000%20Amiens!3m2!1d49.8930687!2d2.2927302!4m5!1s0x47e784471a0dcde1%3A0x845396dbb2291164!2sRue%20des%20Jacobins%2C%2080000%20Amiens!3m2!1d49.891557!2d2.299673!4m5!1s0x47e78447ae59b6e9%3A0x86c5fcc9df2cb0c5!2sRue%20Allart%2C%2080000%20Amiens!3m2!1d49.891287!2d2.301234!4m5!1s0x47e78447ed670add%3A0xfa4dcd9e951ec57d!2sRue%20Victor%20Hugo%2C%2080000%20Amiens!3m2!1d49.892731399999995!2d2.3023314!4m5!1s0x47e78438b109ea4f%3A0x9337ceeb6229aa24!2sRue%20des%20Sergents%2C%2080000%20Amiens!3m2!1d49.894278799999995!2d2.2987523999999997!4m5!1s0x47e78438cc794701%3A0xaadf1c5a3ddc6785!2sRue%20Saint-Martin%20aux%20Waides%2C%2080000%20Amiens!3m2!1d49.8950576!2d2.2985523!4m5!1s0x47e7843fab93ee8d%3A0x169f27f307e5ffd8!2sRue%20au%20Lin%2C%2080000%20Amiens!3m2!1d49.8958455!2d2.2951435!4m5!1s0x47e7843fb354cf45%3A0xef9b6016aa14016b!2sRue%20du%20G%C3%A9n%C3%A9ral%20Leclerc%2C%2080000%20Amiens!3m2!1d49.896173999999995!2d2.294059!4m5!1s0x47e7843ffa7aa67b%3A0x7c5413872f67d8a1!2sPlace%20L%C3%A9on%20Gontier%2C%2080000%20Amiens!3m2!1d49.8940713!2d2.2930696999999998!5e0!3m2!1sfr!2sfr!4v1623684209454!5m2!1sfr!2sfr" 
+                width="100%" height="520px" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
     </div>
 
     <div class="col-12 col-sm-12 col-md-6 p-5  text-center">
@@ -65,19 +69,14 @@ Affiche 16:9 de Louiza
         <ol>
             <li class="white"><i class="fas fa-map-marker-alt white"></i> Départ Place Léon Gontier</li>
             <li class="white"><i class="fas fa-map-marker-alt white"></i> Rue de la 2eme division Blindée</li>
-            <li class="white"><i class="fas fa-map-marker-alt white"></i> Rue de Beauvais</li>
-            <li class="white"><i class="fas fa-map-marker-alt white"></i> Rue Dumeril</li>
-            <li class="white"><i class="fas fa-map-marker-alt white"></i> Rue des Jacobins</li>
-            <li class="white"><i class="fas fa-map-marker-alt white"></i> Rue des Otages</li>
-            <li class="white"><i class="fas fa-map-marker-alt white"></i> Boulevard de Belfort</li>
-            <li class="white"><i class="fas fa-map-marker-alt white"></i> Place Alphonse Fiquet</li>
-            <li class="white"><i class="fas fa-map-marker-alt white"></i> Rue de Noyon</li>
-            <li class="white"><i class="fas fa-map-marker-alt white"></i> Place René Goblet</li>
-            <li class="white"><i class="fas fa-map-marker-alt white"></i> Rue des Trois Cailloux</li>
-            <li class="white"><i class="fas fa-map-marker-alt white"></i> Place Gambetta</li>
-            <li class="white"><i class="fas fa-map-marker-alt white"></i> Rue Delambre</li>
-            <li class="white"><i class="fas fa-map-marker-alt white"></i> Rue Gresset</li>
-            <li class="white"><i class="fas fa-map-marker-alt white"></i> Place Léon Gontier.</li>
+            <li class="white"><i class="fas fa-map-marker-alt white"></i> Rue des Jacobinsv</li>
+            <li class="white"><i class="fas fa-map-marker-alt white"></i> Rue Allart</li>
+            <li class="white"><i class="fas fa-map-marker-alt white"></i> Rue Victor Hugo</li>
+            <li class="white"><i class="fas fa-map-marker-alt white"></i> Rue des sergents</li>
+            <li class="white"><i class="fas fa-map-marker-alt white"></i> Rue Saint-Martin aux Waides</li>
+            <li class="white"><i class="fas fa-map-marker-alt white"></i> Rue au Lin</li>
+            <li class="white"><i class="fas fa-map-marker-alt white"></i> Rue du Général Leclerc</li>
+            <li class="white"><i class="fas fa-map-marker-alt white"></i> Place Léon Gontier</li>
         </ol>
 
     </div>
@@ -89,17 +88,17 @@ Affiche 16:9 de Louiza
 ------------------------------------------------------------------------------------------------------------------------------ -->
 
 <div class="row justify-content-center " id="about">
-    <div class="col-lg-12 dotted-orange pb-3 pt-2 mt-2"></div>
+    <div class="col-lg-12 pb-3 pt-2 mt-2"></div>
     <div class="col-9 col-sm-9 col-lg-6 p-4">
 
         <h2 class="text-center mb-4 orange">Qui sommes nous ?</h2>
         <p class="thasadith orange">Le collectif inter-associatif LGBTQI+ d'Amiens initialement collectif IDAHOT
             (International Day Against
-            Homophobia and Transphobia) rassemble les 7 associations amiénoises de lutte contre toutes les formes de
+            Homophobia and Transphobia) rassemble les 5 associations amiénoises de lutte contre toutes les formes de
             discriminations et pour la défense des droits des femmes et des personnes Lesbiennes, Gays, Bisexuel.les,
             Transidentitaires, Queer, Inteersexes et plus (LGBTQI+). <br>
-            Ces 7 associations sont : Flash Our True Colors, Les Bavardes, GAS Solidarité, Divergenre, Simili Queer, Sos
-            homophobie et Aides.
+            Ces 5 associations sont :  Aides, Flash Our True Colors, GAS Solidarité, Les Bavardes et Sos
+            homophobie.
             Le collectif IDAHOT organise chaque année depuis 2018 le festival IDAHOT, festival de lutte contre les
             LGBTQI+ phobies et depuis 2019, la marche des fiertés à Amiens. <br>
             Pour en savoir plus sur les associations membres du collectif : <a target="_blank"
@@ -126,9 +125,9 @@ Affiche 16:9 de Louiza
 
 
 <div class="row "> <!--block-light -->
-    <div class="col-lg-12 dotted-purple pb-3 pt-2 mt-2"></div>
+    <div class="col-lg-12 pb-3 pt-2 mt-2"></div>
     <div class="col-12 col-sm-12 p-4">
-        <h2 class="text-center m-4 purple" id="part">Merci à nos partenaires !</h2>
+        <h2 class="text-center m-4 purple" id="part">Associations organisatrices</h2>
     </div>
 </div>
 
@@ -153,7 +152,7 @@ Affiche 16:9 de Louiza
                 </div>
             </div>
         </div>
-        <div class="card mb-3 mr-2 float-left" style="max-width: 540px; min-height: 210px;">
+        <!-- <div class="card mb-3 mr-2 float-left" style="max-width: 540px; min-height: 210px;">
             <div class="row no-gutters">
                 <div class="col-md-4 p-3">
                     <a target="_blank" href="https://www.facebook.com/Divergenre-105224454220663">
@@ -169,7 +168,7 @@ Affiche 16:9 de Louiza
                     </div>
                 </div>
             </div>
-        </div>
+        </div> -->
         <div class="card mb-3  float-left" style="max-width: 540px; min-height: 210px;">
             <div class="row no-gutters">
                 <div class="col-md-4 p-3">
@@ -256,7 +255,7 @@ Affiche 16:9 de Louiza
     </div>
 
 </div>
-<div class="col-lg-12 dotted-purple pb-1 pt-2 mt-2"></div>
+<div class="col-lg-12 pb-1 pt-2 mt-2"></div>
 <!-- ------------------------------------------------------------------------------------------------------------------------------
         Retour sur la 1ère "Marche des Fiertés" d'Amiens
 ------------------------------------------------------------------------------------------------------------------------------ -->
