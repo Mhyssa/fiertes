@@ -3,96 +3,288 @@ $Titre = "index";
 require('header.php');
 ?>
 
-<!-- ------------------------------------------------------------------------------------------------------------------------------
-    Compte à rebourd RENDEZ VOUS DANS + Details de la journée
------------------------------------------------------------------------------------------------------------------------------- -->
-
-<div class="row mt-5">
-    <div class="col-12 col-md-6 text-center">
-        <h2 class="mt-5 coral">Début de la marche dans :</h2>
-        <ul>
-            <li class="count whiteOnRed"><span id="days"></span>Jours</li>
-            <li class="count blueOnSaffron"><span id="hours"></span>Heures</li>
-            <li class="count blueOnYellow"><span id="minutes"></span>Minutes</li>
-            <li class="count whiteOnGreen"><span id="seconds"></span>Secondes</li>
-        </ul>
-    </div>
-    <div class="col-12 col-md-6">
-        <h2 class="mt-5 coral">
-            Déroulement de la journée du 19 juin
-        </h2>
-        <ul>
-            <li class="mb-2 thasadith coral"><i class="fas fa-volume-up coral pr-3"></i>13h - prises de paroles</li>
-            <li class="mb-2 thasadith coral"><i class="fas fa-hiking coral pr-4"></i>14h - départ de la déambulation
-            </li>
-            <li class="mb-2 thasadith coral"><i class="fas fa-map-pin coral pr-4"></i>18h - fin de la déambulation</li>
-        </ul>
+<div class="row mt-5 justify-content-center">
+    <div class="col-11 col-sm-11 col-md-6 ">
+        <h2 class="text-center mb-2 pt-5  blue">Merci ! Retour en image Pride 2021</h2>
+        <p class="text-center mb-4 pt-2 thasadith"> Photos exclusives par <a href="https://www.simonducatez.fr">DSim Photographe</a> en cliquant sur l'une des images <i class="fas fa-angle-double-down fa-lg orange"></i></p>
     </div>
 </div>
+<div class="row justify-content-center">
+    <div class="col-10 col-sm-10">
+        <section id="galerie">
+            <!-- ------------------------------------------------------------------------------------------------------------------------------
+                Photos DSim Photographe
+            ------------------------------------------------------------------------------------------------------------------------------ -->
 
-<!-- ------------------------------------------------------------------------------------------------------------------------------
-Affiche 16:9 de Louiza
------------------------------------------------------------------------------------------------------------------------------- -->
 
-<div class="row">
-    <div class="col-12 col-sm-12">
-        <img src="assets/img/3eme_marche.jpg"
-             alt="3ème Marche des fiertés ( gaypride ) d'Amiens 19 JUIN 2021 - 13H PLACE LÉON GONTIER 80000 AMIENS"
-             width="100%" class="shadow mt-3">
-        <div class="text-center mt-2 "><a target="_blank" href="assets/img/affiche_pride_3_amiens.pdf"><i
-                        class="fas fa-download fa-lg mr-2"></i>Télécharge l'affiche officielle ici</a></div>
+            <div class="row">
+                <a href="assets/img/Marche2021/Marche-0001.jpg" data-toggle="lightbox"
+                   data-gallery="example-gallery" class="col-md-3">
+                    <img src="assets/img/Marche2021/Marche-0001.jpg"
+                         alt="Image de la gaypride d'Amiens par DSim Photographe" class="img-fluid">
+                </a>
+                <a href="assets/img/Marche2021/Marche-0002.jpg" data-toggle="lightbox"
+                   data-gallery="example-gallery" class="col-md-3">
+                    <img src="assets/img/Marche2021/Marche-0002.jpg"
+                         alt="Image de la gaypride d'Amiens par DSim Photographe" class="img-fluid">
+                </a>
+                <a href="assets/img/Marche2021/Marche-0012.jpg" data-toggle="lightbox"
+                   data-gallery="example-gallery" class="col-md-3">
+                    <img src="assets/img/Marche2021/Marche-0012.jpg"
+                         alt="Image de la gaypride d'Amiens par DSim Photographe" class="img-fluid">
+                </a>
+                <a href="assets/img/Marche2021/Marche-0008.jpg" data-toggle="lightbox"
+                   data-gallery="example-gallery" class="col-md-3">
+                    <img src="assets/img/Marche2021/Marche-0008.jpg"
+                         alt="Image de la gaypride d'Amiens par DSim Photographe" class="img-fluid">
+                </a>
+            </div>
+            <div class="row mb-4">
+                <a href="assets/img/Marche2021/Marche-0005.jpg" data-toggle="lightbox"
+                   data-gallery="example-gallery" class="col-md-3">
+                    <img src="assets/img/Marche2021/Marche-0005.jpg"
+                         alt="Image de la gaypride d'Amiens par DSim Photographe" class="img-fluid">
+                </a>
+                <a href="assets/img/Marche2021/Marche-0009.jpg" data-toggle="lightbox"
+                   data-gallery="example-gallery" class="col-md-3">
+                    <img src="assets/img/Marche2021/Marche-0009.jpg"
+                         alt="Image de la gaypride d'Amiens par DSim Photographe" class="img-fluid">
+                </a>
+                <a href="assets/img/Marche2021/Marche-0003.jpg" data-toggle="lightbox"
+                   data-gallery="example-gallery" class="col-md-3">
+                    <img src="assets/img/Marche2021/Marche-0003.jpg"
+                         alt="Image de la gaypride d'Amiens par DSim Photographe" class="img-fluid">
+                </a>
+                <a href="assets/img/Marche2021/Marche-0004.jpg" data-toggle="lightbox"
+                   data-gallery="example-gallery" class="col-md-3">
+                    <img src="assets/img/Marche2021/Marche-0004.jpg"
+                         alt="Image de la gaypride d'Amiens par DSim Photographe" class="img-fluid">
+                </a>
+            </div>
+
+            <!-- elements not showing, use data-remote -->
+            <div data-toggle="lightbox" data-gallery="example-gallery"
+                 data-remote="assets/img/Marche2021/Marche-0011.jpg"></div>
+           <div data-toggle="lightbox" data-gallery="example-gallery"
+                 data-remote="assets/img/Marche2021/Marche-0013.jpg"></div>
+            <div data-toggle="lightbox" data-gallery="example-gallery"
+                 data-remote="assets/img/Marche2021/Marche-0014.jpg"></div>
+            <div data-toggle="lightbox" data-gallery="example-gallery"
+                 data-remote="assets/img/Marche2021/Marche-0015.jpg"></div>
+            <div data-toggle="lightbox" data-gallery="example-gallery"
+                 data-remote="assets/img/Marche2021/Marche-0016.jpg"></div>
+            <div data-toggle="lightbox" data-gallery="example-gallery"
+                 data-remote="assets/img/Marche2021/Marche-0017.jpg"></div>
+            <div data-toggle="lightbox" data-gallery="example-gallery"
+                 data-remote="assets/img/Marche2021/Marche-0018.jpg"></div>
+            <div data-toggle="lightbox" data-gallery="example-gallery"
+                 data-remote="assets/img/Marche2021/Marche-0019.jpg"></div>
+            <div data-toggle="lightbox" data-gallery="example-gallery"
+                 data-remote="assets/img/Marche2021/Marche-0020.jpg"></div>
+            <div data-toggle="lightbox" data-gallery="example-gallery"
+                 data-remote="assets/img/Marche2021/Marche-0021.jpg"></div>
+            <div data-toggle="lightbox" data-gallery="example-gallery"
+                 data-remote="assets/img/Marche2021/Marche-0022.jpg"></div>
+            <div data-toggle="lightbox" data-gallery="example-gallery"
+                 data-remote="assets/img/Marche2021/Marche-0023.jpg"></div>
+            <div data-toggle="lightbox" data-gallery="example-gallery"
+                 data-remote="assets/img/Marche2021/Marche-0024.jpg"></div>
+            <div data-toggle="lightbox" data-gallery="example-gallery"
+                 data-remote="assets/img/Marche2021/Marche-0025.jpg"></div>
+            <div data-toggle="lightbox" data-gallery="example-gallery"
+                 data-remote="assets/img/Marche2021/Marche-0026.jpg"></div>
+            <div data-toggle="lightbox" data-gallery="example-gallery"
+                 data-remote="assets/img/Marche2021/Marche-0027.jpg"></div>
+            <div data-toggle="lightbox" data-gallery="example-gallery"
+                 data-remote="assets/img/Marche2021/Marche-0028.jpg"></div>
+            <div data-toggle="lightbox" data-gallery="example-gallery"
+                 data-remote="assets/img/Marche2021/Marche-0029.jpg"></div>
+            <div data-toggle="lightbox" data-gallery="example-gallery"
+                 data-remote="assets/img/Marche2021/Marche-0030.jpg"></div>
+            <div data-toggle="lightbox" data-gallery="example-gallery"
+                 data-remote="assets/img/Marche2021/Marche-0031.jpg"></div>
+            <div data-toggle="lightbox" data-gallery="example-gallery"
+                 data-remote="assets/img/Marche2021/Marche-0032.jpg"></div>
+            <div data-toggle="lightbox" data-gallery="example-gallery"
+                 data-remote="assets/img/Marche2021/Marche-0033.jpg"></div>
+            <div data-toggle="lightbox" data-gallery="example-gallery"
+                 data-remote="assets/img/Marche2021/Marche-0034.jpg"></div>
+            <div data-toggle="lightbox" data-gallery="example-gallery"
+                 data-remote="assets/img/Marche2021/Marche-0035.jpg"></div>
+            <div data-toggle="lightbox" data-gallery="example-gallery"
+                 data-remote="assets/img/Marche2021/Marche-0036.jpg"></div>
+            <div data-toggle="lightbox" data-gallery="example-gallery"
+                 data-remote="assets/img/Marche2021/Marche-0037.jpg"></div>
+            <div data-toggle="lightbox" data-gallery="example-gallery"
+                 data-remote="assets/img/Marche2021/Marche-0038.jpg"></div>
+            <div data-toggle="lightbox" data-gallery="example-gallery"
+                 data-remote="assets/img/Marche2021/Marche-0039.jpg"></div>
+            <div data-toggle="lightbox" data-gallery="example-gallery"
+                 data-remote="assets/img/Marche2021/Marche-0040.jpg"></div>
+            <div data-toggle="lightbox" data-gallery="example-gallery"
+                 data-remote="assets/img/Marche2021/Marche-0041.jpg"></div>
+            <div data-toggle="lightbox" data-gallery="example-gallery"
+                 data-remote="assets/img/Marche2021/Marche-0042.jpg"></div>
+            <div data-toggle="lightbox" data-gallery="example-gallery"
+                 data-remote="assets/img/Marche2021/Marche-0043.jpg"></div>
+            <div data-toggle="lightbox" data-gallery="example-gallery"
+                 data-remote="assets/img/Marche2021/Marche-0044.jpg"></div>
+            <div data-toggle="lightbox" data-gallery="example-gallery"
+                 data-remote="assets/img/Marche2021/Marche-0045.jpg"></div>
+            <div data-toggle="lightbox" data-gallery="example-gallery"
+                 data-remote="assets/img/Marche2021/Marche-0046.jpg"></div>
+            <div data-toggle="lightbox" data-gallery="example-gallery"
+                 data-remote="assets/img/Marche2021/Marche-0047.jpg"></div>
+            <div data-toggle="lightbox" data-gallery="example-gallery"
+                 data-remote="assets/img/Marche2021/Marche-0048.jpg"></div>
+            <div data-toggle="lightbox" data-gallery="example-gallery"
+                 data-remote="assets/img/Marche2021/Marche-0049.jpg"></div>
+            <div data-toggle="lightbox" data-gallery="example-gallery"
+                 data-remote="assets/img/Marche2021/Marche-0050.jpg"></div>
+            <div data-toggle="lightbox" data-gallery="example-gallery"
+                 data-remote="assets/img/Marche2021/Marche-0051.jpg"></div>
+            <div data-toggle="lightbox" data-gallery="example-gallery"
+                 data-remote="assets/img/Marche2021/Marche-0052.jpg"></div>
+            <div data-toggle="lightbox" data-gallery="example-gallery"
+                 data-remote="assets/img/Marche2021/Marche-0053.jpg"></div>
+            <div data-toggle="lightbox" data-gallery="example-gallery"
+                 data-remote="assets/img/Marche2021/Marche-0054.jpg"></div>
+            <div data-toggle="lightbox" data-gallery="example-gallery"
+                 data-remote="assets/img/Marche2021/Marche-0055.jpg"></div>
+            <div data-toggle="lightbox" data-gallery="example-gallery"
+                 data-remote="assets/img/Marche2021/Marche-0056.jpg"></div>
+            <div data-toggle="lightbox" data-gallery="example-gallery"
+                 data-remote="assets/img/Marche2021/Marche-0057.jpg"></div>
+            <div data-toggle="lightbox" data-gallery="example-gallery"
+                 data-remote="assets/img/Marche2021/Marche-0058.jpg"></div>
+            <div data-toggle="lightbox" data-gallery="example-gallery"
+                 data-remote="assets/img/Marche2021/Marche-0059.jpg"></div>
+            <div data-toggle="lightbox" data-gallery="example-gallery"
+                 data-remote="assets/img/Marche2021/Marche-0060.jpg"></div>
+            <div data-toggle="lightbox" data-gallery="example-gallery"
+                 data-remote="assets/img/Marche2021/Marche-0061.jpg"></div>
+            <div data-toggle="lightbox" data-gallery="example-gallery"
+                 data-remote="assets/img/Marche2021/Marche-0062.jpg"></div>
+            <div data-toggle="lightbox" data-gallery="example-gallery"
+                 data-remote="assets/img/Marche2021/Marche-0063.jpg"></div>
+            <div data-toggle="lightbox" data-gallery="example-gallery"
+                 data-remote="assets/img/Marche2021/Marche-0064.jpg"></div>
+            <div data-toggle="lightbox" data-gallery="example-gallery"
+                 data-remote="assets/img/Marche2021/Marche-0065.jpg"></div>
+            <div data-toggle="lightbox" data-gallery="example-gallery"
+                 data-remote="assets/img/Marche2021/Marche-0066.jpg"></div>
+            <div data-toggle="lightbox" data-gallery="example-gallery"
+                 data-remote="assets/img/Marche2021/Marche-0067.jpg"></div>
+            <div data-toggle="lightbox" data-gallery="example-gallery"
+                 data-remote="assets/img/Marche2021/Marche-0068.jpg"></div>
+            <div data-toggle="lightbox" data-gallery="example-gallery"
+                 data-remote="assets/img/Marche2021/Marche-0069.jpg"></div>
+            <div data-toggle="lightbox" data-gallery="example-gallery"
+                 data-remote="assets/img/Marche2021/Marche-0070.jpg"></div>
+            <div data-toggle="lightbox" data-gallery="example-gallery"
+                 data-remote="assets/img/Marche2021/Marche-0071.jpg"></div>
+            <div data-toggle="lightbox" data-gallery="example-gallery"
+                 data-remote="assets/img/Marche2021/Marche-0072.jpg"></div>
+            <div data-toggle="lightbox" data-gallery="example-gallery"
+                 data-remote="assets/img/Marche2021/Marche-0073.jpg"></div>
+            <div data-toggle="lightbox" data-gallery="example-gallery"
+                 data-remote="assets/img/Marche2021/Marche-0074.jpg"></div>
+            <div data-toggle="lightbox" data-gallery="example-gallery"
+                 data-remote="assets/img/Marche2021/Marche-0075.jpg"></div>
+            <div data-toggle="lightbox" data-gallery="example-gallery"
+                 data-remote="assets/img/Marche2021/Marche-0076.jpg"></div>
+            <div data-toggle="lightbox" data-gallery="example-gallery"
+                 data-remote="assets/img/Marche2021/Marche-0077.jpg"></div>
+            <div data-toggle="lightbox" data-gallery="example-gallery"
+                 data-remote="assets/img/Marche2021/Marche-0078.jpg"></div>
+            <div data-toggle="lightbox" data-gallery="example-gallery"
+                 data-remote="assets/img/Marche2021/Marche-0079.jpg"></div>
+            <div data-toggle="lightbox" data-gallery="example-gallery"
+                 data-remote="assets/img/Marche2021/Marche-0080.jpg"></div>
+            <div data-toggle="lightbox" data-gallery="example-gallery"
+                 data-remote="assets/img/Marche2021/Marche-0081.jpg"></div>
+            <div data-toggle="lightbox" data-gallery="example-gallery"
+                 data-remote="assets/img/Marche2021/Marche-0082.jpg"></div>
+            <div data-toggle="lightbox" data-gallery="example-gallery"
+                 data-remote="assets/img/Marche2021/Marche-0083.jpg"></div>
+            <div data-toggle="lightbox" data-gallery="example-gallery"
+                 data-remote="assets/img/Marche2021/Marche-0084.jpg"></div>
+            <div data-toggle="lightbox" data-gallery="example-gallery"
+                 data-remote="assets/img/Marche2021/Marche-0085.jpg"></div>
+            <div data-toggle="lightbox" data-gallery="example-gallery"
+                 data-remote="assets/img/Marche2021/Marche-0086.jpg"></div>
+            <div data-toggle="lightbox" data-gallery="example-gallery"
+                 data-remote="assets/img/Marche2021/Marche-0087.jpg"></div>
+            <div data-toggle="lightbox" data-gallery="example-gallery"
+                 data-remote="assets/img/Marche2021/Marche-0088.jpg"></div>
+            <div data-toggle="lightbox" data-gallery="example-gallery"
+                 data-remote="assets/img/Marche2021/Marche-0089.jpg"></div>
+            <div data-toggle="lightbox" data-gallery="example-gallery"
+                 data-remote="assets/img/Marche2021/Marche-0090.jpg"></div>
+            <div data-toggle="lightbox" data-gallery="example-gallery"
+                 data-remote="assets/img/Marche2021/Marche-0091.jpg"></div>
+            <div data-toggle="lightbox" data-gallery="example-gallery"
+                 data-remote="assets/img/Marche2021/Marche-0092.jpg"></div>
+            <div data-toggle="lightbox" data-gallery="example-gallery"
+                 data-remote="assets/img/Marche2021/Marche-0093.jpg"></div>
+            <div data-toggle="lightbox" data-gallery="example-gallery"
+                 data-remote="assets/img/Marche2021/Marche-0094.jpg"></div>
+            <div data-toggle="lightbox" data-gallery="example-gallery"
+                 data-remote="assets/img/Marche2021/Marche-0095.jpg"></div>
+            <div data-toggle="lightbox" data-gallery="example-gallery"
+                 data-remote="assets/img/Marche2021/Marche-0096.jpg"></div>
+            <div data-toggle="lightbox" data-gallery="example-gallery"
+                 data-remote="assets/img/Marche2021/Marche-0097.jpg"></div>
+            <div data-toggle="lightbox" data-gallery="example-gallery"
+                 data-remote="assets/img/Marche2021/Marche-0098.jpg"></div>
+            <div data-toggle="lightbox" data-gallery="example-gallery"
+                 data-remote="assets/img/Marche2021/Marche-0099.jpg"></div>
+            <div data-toggle="lightbox" data-gallery="example-gallery"
+                 data-remote="assets/img/Marche2021/Marche-0100.jpg"></div>
+            <div data-toggle="lightbox" data-gallery="example-gallery"
+                 data-remote="assets/img/Marche2021/Marche-0101.jpg"></div>
+            <div data-toggle="lightbox" data-gallery="example-gallery"
+                 data-remote="assets/img/Marche2021/Marche-0102.jpg"></div>
+            <div data-toggle="lightbox" data-gallery="example-gallery"
+                 data-remote="assets/img/Marche2021/Marche-0103.jpg"></div>
+            <div data-toggle="lightbox" data-gallery="example-gallery"
+                 data-remote="assets/img/Marche2021/Marche-0104.jpg"></div>
+            <div data-toggle="lightbox" data-gallery="example-gallery"
+                 data-remote="assets/img/Marche2021/Marche-0105.jpg"></div>
+            <div data-toggle="lightbox" data-gallery="example-gallery"
+                 data-remote="assets/img/Marche2021/Marche-0106.jpg"></div>
+            <div data-toggle="lightbox" data-gallery="example-gallery"
+                 data-remote="assets/img/Marche2021/Marche-0107.jpg"></div>
+            <div data-toggle="lightbox" data-gallery="example-gallery"
+                 data-remote="assets/img/Marche2021/Marche-0108.jpg"></div>
+            <div data-toggle="lightbox" data-gallery="example-gallery"
+                 data-remote="assets/img/Marche2021/Marche-0109.jpg"></div>
+            <div data-toggle="lightbox" data-gallery="example-gallery"
+                 data-remote="assets/img/Marche2021/Marche-0110.jpg"></div>
+            <div data-toggle="lightbox" data-gallery="example-gallery"
+                 data-remote="assets/img/Marche2021/Marche-0111.jpg"></div>
+            <div data-toggle="lightbox" data-gallery="example-gallery"
+                 data-remote="assets/img/Marche2021/Marche-0112.jpg"></div>
+            <div data-toggle="lightbox" data-gallery="example-gallery"
+                 data-remote="assets/img/Marche2021/Marche-0113.jpg"></div>
+            <div data-toggle="lightbox" data-gallery="example-gallery"
+                 data-remote="assets/img/Marche2021/Marche-0114.jpg"></div>
+            <div data-toggle="lightbox" data-gallery="example-gallery"
+                 data-remote="assets/img/Marche2021/Marche-0115.jpg"></div>
+            <div data-toggle="lightbox" data-gallery="example-gallery"
+                 data-remote="assets/img/Marche2021/Marche-0116.jpg"></div>
+                 </section>
     </div>
 </div>
-
-
-<!-- ------------------------------------------------------------------------------------------------------------------------------
-    Plan de la marche / Parcours
------------------------------------------------------------------------------------------------------------------------------- -->
-<div class="col-lg-12 dotted-coral pb-2  m-auto"></div>
-<!-- <hr class="col-lg-6 col-12 "> -->
-
-<div class="row block shadow py-3">
-
-
-    <div class="col-12 col-sm-12 col-md-6">
-        <!-- <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1KvQWCV7DtvDxS_uvGcxxPnAvQECRA6lr" width="100%"
-                height="520px"></iframe> -->
-               
-
-                <iframe src="https://www.google.com/maps/embed?pb=!1m76!1m12!1m3!1d2570.2734179772724!2d2.2952202015299337!3d49.89366993510547!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m61!3e2!4m5!1s0x47e7843ffa7aa67b%3A0x7c5413872f67d8a1!2sPlace%20L%C3%A9on%20Gontier%2C%2080000%20Amiens!3m2!1d49.8940713!2d2.2930696999999998!4m5!1s0x47e7844004671233%3A0xef487e8aa9c75268!2sRue%20de%20la%202%C3%A8me%20Division%20Blind%C3%A9e%2C%2080000%20Amiens!3m2!1d49.8930687!2d2.2927302!4m5!1s0x47e784471a0dcde1%3A0x845396dbb2291164!2sRue%20des%20Jacobins%2C%2080000%20Amiens!3m2!1d49.891557!2d2.299673!4m5!1s0x47e78447ae59b6e9%3A0x86c5fcc9df2cb0c5!2sRue%20Allart%2C%2080000%20Amiens!3m2!1d49.891287!2d2.301234!4m5!1s0x47e78447ed670add%3A0xfa4dcd9e951ec57d!2sRue%20Victor%20Hugo%2C%2080000%20Amiens!3m2!1d49.892731399999995!2d2.3023314!4m5!1s0x47e78438b109ea4f%3A0x9337ceeb6229aa24!2sRue%20des%20Sergents%2C%2080000%20Amiens!3m2!1d49.894278799999995!2d2.2987523999999997!4m5!1s0x47e78438cc794701%3A0xaadf1c5a3ddc6785!2sRue%20Saint-Martin%20aux%20Waides%2C%2080000%20Amiens!3m2!1d49.8950576!2d2.2985523!4m5!1s0x47e7843fab93ee8d%3A0x169f27f307e5ffd8!2sRue%20au%20Lin%2C%2080000%20Amiens!3m2!1d49.8958455!2d2.2951435!4m5!1s0x47e7843fb354cf45%3A0xef9b6016aa14016b!2sRue%20du%20G%C3%A9n%C3%A9ral%20Leclerc%2C%2080000%20Amiens!3m2!1d49.896173999999995!2d2.294059!4m5!1s0x47e7843ffa7aa67b%3A0x7c5413872f67d8a1!2sPlace%20L%C3%A9on%20Gontier%2C%2080000%20Amiens!3m2!1d49.8940713!2d2.2930696999999998!5e0!3m2!1sfr!2sfr!4v1623684209454!5m2!1sfr!2sfr" 
-                width="100%" height="520px" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
-    </div>
-
-    <div class="col-12 col-sm-12 col-md-6 p-5  text-center">
-
-        <h2 class="mb-3 white">Noms des rues</h2>
-        <ol>
-            <li class="white"><i class="fas fa-map-marker-alt white"></i> Départ Place Léon Gontier</li>
-            <li class="white"><i class="fas fa-map-marker-alt white"></i> Rue de la 2eme division Blindée</li>
-            <li class="white"><i class="fas fa-map-marker-alt white"></i> Rue des Jacobinsv</li>
-            <li class="white"><i class="fas fa-map-marker-alt white"></i> Rue Allart</li>
-            <li class="white"><i class="fas fa-map-marker-alt white"></i> Rue Victor Hugo</li>
-            <li class="white"><i class="fas fa-map-marker-alt white"></i> Rue des sergents</li>
-            <li class="white"><i class="fas fa-map-marker-alt white"></i> Rue Saint-Martin aux Waides</li>
-            <li class="white"><i class="fas fa-map-marker-alt white"></i> Rue au Lin</li>
-            <li class="white"><i class="fas fa-map-marker-alt white"></i> Rue du Général Leclerc</li>
-            <li class="white"><i class="fas fa-map-marker-alt white"></i> Place Léon Gontier</li>
-        </ol>
-
-    </div>
-
-</div>
-
 <!-- ------------------------------------------------------------------------------------------------------------------------------
     Qui sommes Nous
 ------------------------------------------------------------------------------------------------------------------------------ -->
 
-<div class="row justify-content-center " id="about">
-    <div class="col-lg-12 pb-3 pt-2 mt-2"></div>
+<div class="row justify-content-center mt-5 blockOrange" id="about">
     <div class="col-9 col-sm-9 col-lg-6 p-4">
 
-        <h2 class="text-center mb-4 orange">Qui sommes nous ?</h2>
-        <p class="thasadith orange">Le collectif inter-associatif LGBTQI+ d'Amiens initialement collectif IDAHOT
+        <h2 class="text-center mb-4 ">Qui sommes nous ?</h2>
+        <p class="thasadith ">Le collectif inter-associatif LGBTQI+ d'Amiens initialement collectif IDAHOT
             (International Day Against
             Homophobia and Transphobia) rassemble les 5 associations amiénoises de lutte contre toutes les formes de
             discriminations et pour la défense des droits des femmes et des personnes Lesbiennes, Gays, Bisexuel.les,
@@ -281,10 +473,9 @@ Affiche 16:9 de Louiza
 
 <div class="row justify-content-center">
     <div class="col-11 col-sm-11 col-md-6 ">
-        <h2 class="text-center mb-2 pt-5  blue">En images</h2>
+        <h2 class="text-center mb-2 pt-5  blue">Retour En images 2019</h2>
         <p class="text-center mb-4 pt-2 thasadith"> 178 photos exclusives par <a href="https://www.juliettefabijan.fr/">Juliette
-                Fabijan</a> en cliquant sur une des images <i class="fas fa-angle-double-down fa-lg orange"></i></p>
-
+                Fabijan</a> en cliquant sur l'une des images <i class="fas fa-angle-double-down fa-lg orange"></i></p>
     </div>
 </div>
 <div class="row justify-content-center">

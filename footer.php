@@ -9,7 +9,7 @@
       <p class="text-center"><a href="https://fr-fr.facebook.com/festivalidahot/" target="_blank"><i class="fab fa-facebook fa-2x mr-2"></i></a>Collectif Idahot Amiens</p>
       <p class="text-center"><i class="fas fa-envelope fa-2x mr-2"></i><a href="mailto:fierte.amiens@gmail.com" class="link" target="_blank">fierte.amiens@gmail.com</p></a>
     </div>
-    <div class="col-lg-8 col-sm-12">
+    <div class="col-lg-8 col-sm-12 pb-3">
       <a target="_blank" href="https://www.aides.org/">
         <img src="assets\img\logo\Logo_AIDES.png" height="80" alt="logo AIDES">
       </a>
@@ -29,8 +29,7 @@
     </div>
 
 
-    <div class="col-lg-12 col-md-12 pt-2 m-auto">
-      <div class="col-lg-5 col-md-12 m-auto"></div>
+    <div class="col-lg-12 col-md-12 blockBlue pt-2 m-auto">
 
       <div class=" pt-4 pb-3 m-auto d-flex justify-content-around">
         <p class=""><a href="mention.php" class="">Mentions légales </a></p>

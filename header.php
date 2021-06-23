@@ -96,8 +96,11 @@ Navbar 3eme marche des fiertes / Archives
           </button>
           <div class="collapse navbar-collapse" id="navbarNav">
             <ul class="navbar-nav">
+            <li class="nav-item pr-4 pl-4">
+                <a class="nav-link fontGlobale coral " href="">Retour sur 2021</a>
+              </li>
               <li class="nav-item pr-4 pl-4">
-                <a class="nav-link fontGlobale coral " href="#about">Qui Sommes Nous ?</a>
+                <a class="nav-link fontGlobale orange " href="#about">Qui Sommes Nous ?</a>
               </li>
               <li class="nav-item pr-4 pl-4">
                 <a class="nav-link green fontGlobale purple " href="#part">Partenariats</a>
