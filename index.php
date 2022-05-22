@@ -3,11 +3,11 @@ $Titre = "index";
 require('header.php');
 ?>
 
-<di class="row mt-5">
+<div class="row mt-5">
      <div class="col-sm-12 p-0">
      <img src="assets\img\idahot2022\banniere.jpg" alt="Festival IDAHOT 2022 lutte contre les discrimination à Amiens" class="img-fluid">
      </div>
-</di>
+</div>
 
 <!-- ------------------------------------------------------------------------------------------------------------------------------
 Qui sommes Nous
