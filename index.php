@@ -36,7 +36,7 @@ Qui sommes Nous
 
     </div>
     <div class="col-9 col-sm-9 col-lg-3 pt-5">
-        <iframe width="100%" height="315" src="https://www.youtube.com/embed/akLfSOXkd1Y" frameborder="0"
+        <iframe title="Vidéo YouTube La minute IDAHOT 2019" width="100%" height="315" src="https://www.youtube.com/embed/akLfSOXkd1Y" frameborder="0"
                 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
                 allowfullscreen></iframe>
     </div>
@@ -231,7 +231,7 @@ personnes LGBTQI+ au niveau local et national.
 <div class="row justify-content-center blocPurple pb-4">
     <div class="col-11 col-sm-11 col-md-6 ">
         <h2 class="text-center pt-4 pb-4 ">En videos</h2>
-        <iframe width="100%" height="350" src="https://www.youtube.com/embed/NtttY9GAaAg" frameborder="0"
+        <iframe title="Vidéo YouTube sur la 1ère marche des fiertés d'Amiens le 22 juin 2019" width="100%" height="350" src="https://www.youtube.com/embed/NtttY9GAaAg" frameborder="0"
                 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
                 allowfullscreen></iframe>
     </div>

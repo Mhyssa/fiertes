@@ -50,8 +50,6 @@
   <link rel="stylesheet" type="text/css"
     href="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.css" />
 
-  <script type="text/javascript" src="assets/js/script.js"></script>
-
   <!-- Titre de l'onglet -->
   <title>02 juillet 2022 | 4ème Marche des Fiertés d'Amiens</title>
 
