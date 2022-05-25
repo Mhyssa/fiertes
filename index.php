@@ -3,309 +3,43 @@ $Titre = "index";
 require('header.php');
 ?>
 
-<div class="row mt-5 justify-content-center">
-    <div class="col-11 col-sm-11 col-md-6 ">
-        <h2 class="text-center mb-2 pt-5  blue">Merci ! Retour en image Pride 2021</h2>
-        <p class="text-center mb-4 pt-2 thasadith"> Photos exclusives par <a href="https://www.simonducatez.fr">DSim Photographe</a> en cliquant sur l'une des images <i class="fas fa-angle-double-down fa-lg orange"></i></p>
-    </div>
+<div class="row mt-5">
+     <div class="col-sm-12 p-0">
+     <img src="assets\img\idahot2022\banniere.jpg" alt="Festival IDAHOT 2022 lutte contre les discrimination à Amiens" class="img-fluid">
+     </div>
 </div>
-<div class="row justify-content-center">
-    <div class="col-10 col-sm-10">
-        <section id="galerie">
-            <!-- ------------------------------------------------------------------------------------------------------------------------------
-                Photos DSim Photographe
-            ------------------------------------------------------------------------------------------------------------------------------ -->
 
-
-            <div class="row">
-                <a href="assets/img/Marche2021/Marche-0001.jpg" data-toggle="lightbox"
-                   data-gallery="example-gallery" class="col-md-3">
-                    <img src="assets/img/Marche2021/Marche-0001.jpg"
-                         alt="Image de la gaypride d'Amiens par DSim Photographe" class="img-fluid">
-                </a>
-                <a href="assets/img/Marche2021/Marche-0002.jpg" data-toggle="lightbox"
-                   data-gallery="example-gallery" class="col-md-3">
-                    <img src="assets/img/Marche2021/Marche-0002.jpg"
-                         alt="Image de la gaypride d'Amiens par DSim Photographe" class="img-fluid">
-                </a>
-                <a href="assets/img/Marche2021/Marche-0012.jpg" data-toggle="lightbox"
-                   data-gallery="example-gallery" class="col-md-3">
-                    <img src="assets/img/Marche2021/Marche-0012.jpg"
-                         alt="Image de la gaypride d'Amiens par DSim Photographe" class="img-fluid">
-                </a>
-                <a href="assets/img/Marche2021/Marche-0008.jpg" data-toggle="lightbox"
-                   data-gallery="example-gallery" class="col-md-3">
-                    <img src="assets/img/Marche2021/Marche-0008.jpg"
-                         alt="Image de la gaypride d'Amiens par DSim Photographe" class="img-fluid">
-                </a>
-            </div>
-            <div class="row mb-4">
-                <a href="assets/img/Marche2021/Marche-0005.jpg" data-toggle="lightbox"
-                   data-gallery="example-gallery" class="col-md-3">
-                    <img src="assets/img/Marche2021/Marche-0005.jpg"
-                         alt="Image de la gaypride d'Amiens par DSim Photographe" class="img-fluid">
-                </a>
-                <a href="assets/img/Marche2021/Marche-0009.jpg" data-toggle="lightbox"
-                   data-gallery="example-gallery" class="col-md-3">
-                    <img src="assets/img/Marche2021/Marche-0009.jpg"
-                         alt="Image de la gaypride d'Amiens par DSim Photographe" class="img-fluid">
-                </a>
-                <a href="assets/img/Marche2021/Marche-0003.jpg" data-toggle="lightbox"
-                   data-gallery="example-gallery" class="col-md-3">
-                    <img src="assets/img/Marche2021/Marche-0003.jpg"
-                         alt="Image de la gaypride d'Amiens par DSim Photographe" class="img-fluid">
-                </a>
-                <a href="assets/img/Marche2021/Marche-0004.jpg" data-toggle="lightbox"
-                   data-gallery="example-gallery" class="col-md-3">
-                    <img src="assets/img/Marche2021/Marche-0004.jpg"
-                         alt="Image de la gaypride d'Amiens par DSim Photographe" class="img-fluid">
-                </a>
-            </div>
-
-            <!-- elements not showing, use data-remote -->
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/Marche2021/Marche-0011.jpg"></div>
-           <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/Marche2021/Marche-0013.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/Marche2021/Marche-0014.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/Marche2021/Marche-0015.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/Marche2021/Marche-0016.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/Marche2021/Marche-0017.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/Marche2021/Marche-0018.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/Marche2021/Marche-0019.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/Marche2021/Marche-0020.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/Marche2021/Marche-0021.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/Marche2021/Marche-0022.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/Marche2021/Marche-0023.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/Marche2021/Marche-0024.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/Marche2021/Marche-0025.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/Marche2021/Marche-0026.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/Marche2021/Marche-0027.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/Marche2021/Marche-0028.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/Marche2021/Marche-0029.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/Marche2021/Marche-0030.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/Marche2021/Marche-0031.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/Marche2021/Marche-0032.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/Marche2021/Marche-0033.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/Marche2021/Marche-0034.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/Marche2021/Marche-0035.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/Marche2021/Marche-0036.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/Marche2021/Marche-0037.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/Marche2021/Marche-0038.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/Marche2021/Marche-0039.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/Marche2021/Marche-0040.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/Marche2021/Marche-0041.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/Marche2021/Marche-0042.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/Marche2021/Marche-0043.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/Marche2021/Marche-0044.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/Marche2021/Marche-0045.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/Marche2021/Marche-0046.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/Marche2021/Marche-0047.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/Marche2021/Marche-0048.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/Marche2021/Marche-0049.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/Marche2021/Marche-0050.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/Marche2021/Marche-0051.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/Marche2021/Marche-0052.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/Marche2021/Marche-0053.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/Marche2021/Marche-0054.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/Marche2021/Marche-0055.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/Marche2021/Marche-0056.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/Marche2021/Marche-0057.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/Marche2021/Marche-0058.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/Marche2021/Marche-0059.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/Marche2021/Marche-0060.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/Marche2021/Marche-0061.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/Marche2021/Marche-0062.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/Marche2021/Marche-0063.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/Marche2021/Marche-0064.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/Marche2021/Marche-0065.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/Marche2021/Marche-0066.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/Marche2021/Marche-0067.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/Marche2021/Marche-0068.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/Marche2021/Marche-0069.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/Marche2021/Marche-0070.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/Marche2021/Marche-0071.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/Marche2021/Marche-0072.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/Marche2021/Marche-0073.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/Marche2021/Marche-0074.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/Marche2021/Marche-0075.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/Marche2021/Marche-0076.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/Marche2021/Marche-0077.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/Marche2021/Marche-0078.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/Marche2021/Marche-0079.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/Marche2021/Marche-0080.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/Marche2021/Marche-0081.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/Marche2021/Marche-0082.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/Marche2021/Marche-0083.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/Marche2021/Marche-0084.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/Marche2021/Marche-0085.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/Marche2021/Marche-0086.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/Marche2021/Marche-0087.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/Marche2021/Marche-0088.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/Marche2021/Marche-0089.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/Marche2021/Marche-0090.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/Marche2021/Marche-0091.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/Marche2021/Marche-0092.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/Marche2021/Marche-0093.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/Marche2021/Marche-0094.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/Marche2021/Marche-0095.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/Marche2021/Marche-0096.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/Marche2021/Marche-0097.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/Marche2021/Marche-0098.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/Marche2021/Marche-0099.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/Marche2021/Marche-0100.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/Marche2021/Marche-0101.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/Marche2021/Marche-0102.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/Marche2021/Marche-0103.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/Marche2021/Marche-0104.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/Marche2021/Marche-0105.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/Marche2021/Marche-0106.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/Marche2021/Marche-0107.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/Marche2021/Marche-0108.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/Marche2021/Marche-0109.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/Marche2021/Marche-0110.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/Marche2021/Marche-0111.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/Marche2021/Marche-0112.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/Marche2021/Marche-0113.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/Marche2021/Marche-0114.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/Marche2021/Marche-0115.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/Marche2021/Marche-0116.jpg"></div>
-                 </section>
-    </div>
-</div>
 <!-- ------------------------------------------------------------------------------------------------------------------------------
-    Qui sommes Nous
+Qui sommes Nous
 ------------------------------------------------------------------------------------------------------------------------------ -->
 
-<div class="row justify-content-center mt-5 blockOrange" id="about">
-    <div class="col-9 col-sm-9 col-lg-6 p-4">
+<div class="row justify-content-center blockBlueLight" id="about">
+     <div class="col-9 col-sm-9 col-lg-6 p-4">
 
-        <h2 class="text-center mb-4 ">Qui sommes nous ?</h2>
-        <p class="thasadith ">Le collectif inter-associatif LGBTQI+ d'Amiens initialement collectif IDAHOT
-            (International Day Against
-            Homophobia and Transphobia) rassemble les 5 associations amiénoises de lutte contre toutes les formes de
-            discriminations et pour la défense des droits des femmes et des personnes Lesbiennes, Gays, Bisexuel.les,
-            Transidentitaires, Queer, Inteersexes et plus (LGBTQI+). <br>
-            Ces 5 associations sont :  Aides, Flash Our True Colors, GAS Solidarité, Les Bavardes et Sos
-            homophobie.
-            Le collectif IDAHOT organise chaque année depuis 2018 le festival IDAHOT, festival de lutte contre les
-            LGBTQI+ phobies et depuis 2019, la marche des fiertés à Amiens. <br>
-            Pour en savoir plus sur les associations membres du collectif : <a target="_blank"
-                                                                               href="https://fr-fr.facebook.com/festivalidahot/"><i
-                        class="fas fa-plus-square ml-2"></i></a>
-
-        </p>
+     <h2 class="text-center mb-4 ">Qui sommes nous ?</h2>
+     <p class="thasadith ">Le collectif IDAHOT
+          (International Day Against
+          Homophobia and Transphobia) rassemble 7 associations amiénoises de lutte contre toutes les formes de
+          discriminations et pour la défense des droits des femmes et des personnes Lesbiennes, Gays, Bisexuel.les,
+          Transidentitaires, Queer, Inteersexes et plus (LGBTQI+)  à Amiens et ses environs.<br><br>
+          Ces 7 associations sont :  Aides, Les Bavardes, Divergenre, Flash Our True Colors, GAS Solidarité, SimiliQUEER et SOS
+          homophobie.
+          Le collectif IDAHOT organise chaque année depuis 2018 le festival IDAHOT, festival de lutte contre les
+          LGBTQI+ phobies et depuis 2019, la marche des fiertés à Amiens. <br>
+          Pour en savoir plus sur les associations membres du collectif : <br>
+          <a href="https://fr-fr.facebook.com/festivalidahot/" target="_blank"><i class="fab fa-facebook fa-1x"></i> collectif idahot Amiens</a>
+          <br>
+          <a href="https://www.instagram.com/collectif_idahot_amiens/?hl=fr" target="_blank"><i class="fab fa-instagram fa-1x"></i> collectif_idahot_Amiens</a>
+          <br>
+          <a href="mailto:fierte.amiens@gmail.com" target="_blank"><i class="fas fa-at fa-1x"></i> fierte.amiens@gmail.com</a>
+     </p>
 
     </div>
-    <div class="col-9 col-sm-9 col-lg-3">
-        <iframe width="100%" height="315" src="https://www.youtube.com/embed/akLfSOXkd1Y" frameborder="0"
+    <div class="col-9 col-sm-9 col-lg-3 pt-5">
+        <iframe title="Vidéo YouTube La minute IDAHOT 2019" width="100%" height="315" src="https://www.youtube.com/embed/akLfSOXkd1Y" frameborder="0"
                 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
                 allowfullscreen></iframe>
     </div>
-    <div class="col-lg-12 dotted-orange pb-1 pt-2"></div>
 </div>
 
 
@@ -316,14 +50,14 @@ require('header.php');
 ------------------------------------------------------------------------------------------------------------------------------ -->
 
 
-<div class="row "> <!--block-light -->
+<div class="row blockBeige"> <!--block-light -->
     <div class="col-lg-12 pb-3 pt-2 mt-2"></div>
     <div class="col-12 col-sm-12 p-4">
         <h2 class="text-center m-4 purple" id="part">Associations organisatrices</h2>
     </div>
 </div>
 
-<div class="row justify-content-center ">
+<div class="row justify-content-center blockBeige">
     <div class="col-lg-11 m-auto"><!--block-1 -->
         <div class="card mb-3 mr-2 float-left" style="max-width: 540px; min-height: 210px;">
             <div class="row no-gutters">
@@ -335,16 +69,18 @@ require('header.php');
                 <div class="col-md-8">
                     <div class="card-body">
 
-                        <p class="card-text purple">Aides : Association de lutte contre le VIH/Sida et les Hépatites,
-                            qui agit depuis 30 ans avec et
-                            auprès des populations les plus vulnérables pour réduire les nouvelles contaminations et
-                            accompagner
-                            les personnes touchées vers le soin et dans la défense de leurs droits.</p>
+                        <p class="card-text purple">Aides : Créée en 1984, ayant pour but de faire évoluer les
+réponses sociales, thérapeutiques et politiques apportées
+aux personnes touchées ou vulnérables au VIH et aux
+hépatites. Elle informe, soutient, dépiste, distribue du
+matériel de prévention, alerte et combat les
+discriminations.
+</p>
                     </div>
                 </div>
             </div>
         </div>
-        <!-- <div class="card mb-3 mr-2 float-left" style="max-width: 540px; min-height: 210px;">
+        <div class="card mb-3 mr-2 float-left" style="max-width: 540px; min-height: 210px;">
             <div class="row no-gutters">
                 <div class="col-md-4 p-3">
                     <a target="_blank" href="https://www.facebook.com/Divergenre-105224454220663">
@@ -354,13 +90,15 @@ require('header.php');
                 <div class="col-md-8">
                     <div class="card-body">
 
-                        <p class="card-text purple">Divergenre : Association fonctionnant en autosupport, d'accueil,
-                            d'information, de soutien,
-                            d'accompagnement, pour les personnes trans ou en questionnement, ainsi que leurs proches</p>
+                        <p class="card-text purple">Divergenre : Association basée à Amiens en
+autosupport, créée pour combler le vide intersidéral entre
+Lille et Paris dans le soutien et l'accompagnement par et
+pour les personnes trans et/ou en questionnement, nb,
+intersexes.</p>
                     </div>
                 </div>
             </div>
-        </div> -->
+        </div>
         <div class="card mb-3  float-left" style="max-width: 540px; min-height: 210px;">
             <div class="row no-gutters">
                 <div class="col-md-4 p-3">
@@ -372,7 +110,7 @@ require('header.php');
                     <div class="card-body">
 
                         <p class="card-text purple">
-                            Groupe d’Appui et de Solidarité : association d’éducation populaire de lutte contre les
+                            Groupe d’Appui et de Solidarité : Association d’éducation populaire de lutte contre les
                             inégalités
                             et les discriminations pour l'inclusion sociale et l'émancipation des personnes vulnérables.
                         </p>
@@ -386,16 +124,19 @@ require('header.php');
             <div class="row no-gutters">
                 <div class="col-md-4 p-3">
                     <a target="_blank" href="https://flash-our-true-colors.fr/">
-                        <img src="assets\img\logo\Logo_Flash_Our_True_Colors.png" height="100"
+                        <img src="assets\img\logo\Logo_FOTC.png" height="100"
                              alt="Logo Flash Our True Colors">
                     </a>
                 </div>
                 <div class="col-md-8">
                     <div class="card-body">
 
-                        <p class="card-text purple">Flash Our True Colors : Association qui agit depuis 2011 pour faire
-                            reconnaître la dignité des
-                            personnes LGBTQI+, dans un cadre de convivialité, d'échange et de non jugement.
+                        <p class="card-text purple">Flash Our True Colors : Association amiénoise de
+2011 qui lutte contre les discriminations, surtout celles faites
+aux personnes LGBTQI+. Notre travail se traduit par des
+moments d'échanges dans un cadre convivial de non
+jugement, mais aussi par des actions de visibilisations et
+de sensibilisations aux discriminations.
                         </p>
                     </div>
                 </div>
@@ -412,9 +153,9 @@ require('header.php');
                     <div class="card-body">
 
                         <p class="card-text purple">
-                            Les Bavardes : collectif féministe et lesbien engagé depuis 2017 pour la visibilité de
+                            Les Bavardes : collectif féministe et lesbien engagé depuis 2017 pour la visibilité et les droits de
                             toutes les
-                            femmes, au travers d’espaces et d’actions culturelles et artistiques, visant à encourager
+                            femmes, au travers d’espaces militant, d’actions culturelles et artistiques, visant à encourager
                             les débats
                             et les échanges.
                         </p>
@@ -422,6 +163,27 @@ require('header.php');
                 </div>
             </div>
 
+        </div>
+        <div class="card mb-3 mr-2 float-left" style="max-width: 540px; min-height: 210px;">
+            <div class="row no-gutters">
+                <div class="col-md-4 p-3">
+                    <a target="_blank" href="https://www.facebook.com/similiqueer/">
+                        <img src="assets\img\logo\Logo_simili.png" height="80" alt="Logo Simili queer">
+                    </a>
+                </div>
+                <div class="col-md-8">
+                    <div class="card-body">
+
+                        <p class="card-text purple">
+                        Simili QUEER : Regroupement collectif à Amiens, se retrouvant dans les
+valeurs, les idées, les luttes du mouvement et des identités
+queer, et proposant de les transfigurer
+culturellement/artistiquement mais aussi de pouvoir
+respirer un peu face à la norme
+                        </p>
+                    </div>
+                </div>
+            </div>
         </div>
         <div class="card mb-3 mr-2 float-left" style="max-width: 540px; min-height: 210px;">
             <div class="row no-gutters">
@@ -434,10 +196,14 @@ require('header.php');
                     <div class="card-body">
 
                         <p class="card-text purple">
-                            Association de lutte contre les discriminations et les agressions à caractère
-                            homophobe et transphobe, en vue d’une meilleure acceptation de la diversité des
-                            orientations
-                            sexuelles et pour lutter pour la visibilité et l’égalité des droits des personnes LGBT.
+                        Association SOS homophobie Picardie :
+Association de prévention et de lutte contre les
+discriminations et les agressions à caractère LGBTphobe,
+en vue d’une meilleure acceptation de la diversité des
+orientations sexuelles et des identités de genre. Elle milite
+depuis 25 ans pour la visibilité et l’égalité des droits des
+personnes LGBTQI+ au niveau local et national.
+
                         </p>
                     </div>
                 </div>
@@ -465,416 +231,28 @@ require('header.php');
 <div class="row justify-content-center blocPurple pb-4">
     <div class="col-11 col-sm-11 col-md-6 ">
         <h2 class="text-center pt-4 pb-4 ">En videos</h2>
-        <iframe width="100%" height="350" src="https://www.youtube.com/embed/NtttY9GAaAg" frameborder="0"
+        <iframe title="Vidéo YouTube sur la 1ère marche des fiertés d'Amiens le 22 juin 2019" width="100%" height="350" src="https://www.youtube.com/embed/NtttY9GAaAg" frameborder="0"
                 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
                 allowfullscreen></iframe>
     </div>
 </div>
 
-<div class="row justify-content-center">
-    <div class="col-11 col-sm-11 col-md-6 ">
-        <h2 class="text-center mb-2 pt-5  blue">Retour En images 2019</h2>
-        <p class="text-center mb-4 pt-2 thasadith"> 178 photos exclusives par <a href="https://www.juliettefabijan.fr/">Juliette
-                Fabijan</a> en cliquant sur l'une des images <i class="fas fa-angle-double-down fa-lg orange"></i></p>
-    </div>
-</div>
-<div class="row justify-content-center">
-    <div class="col-10 col-sm-10">
-        <section id="galerie">
-            <!-- ------------------------------------------------------------------------------------------------------------------------------
-                Photos Juliette Fabijan
-            ------------------------------------------------------------------------------------------------------------------------------ -->
+<!-- ------------------------------------------------------------------------------------------------------------------------------
+Pride 2021
+------------------------------------------------------------------------------------------------------------------------------ -->
+<?php
+require('pride2021.php');
+?>
 
 
-            <div class="row">
-                <a href="assets/img/jf/2019-Gaypride-AmiensCity.jpg" data-toggle="lightbox"
-                   data-gallery="example-gallery" class="col-md-3">
-                    <img src="assets/img/jf/2019-Gaypride-AmiensCity-5.jpg"
-                         alt="Image de la gaypride d'Amiens par Juliette Fabijan" class="img-fluid">
-                </a>
-                <a href="assets/img/jf/2019-Gaypride-AmiensCity-10.jpg" data-toggle="lightbox"
-                   data-gallery="example-gallery" class="col-md-3">
-                    <img src="assets/img/jf/2019-Gaypride-AmiensCity-10.jpg"
-                         alt="Image de la gaypride d'Amiens par Juliette Fabijan" class="img-fluid">
-                </a>
-                <a href="assets/img/jf/2019-Gaypride-AmiensCity-7.jpg" data-toggle="lightbox"
-                   data-gallery="example-gallery" class="col-md-3">
-                    <img src="assets/img/jf/2019-Gaypride-AmiensCity-7.jpg"
-                         alt="Image de la gaypride d'Amiens par Juliette Fabijan" class="img-fluid">
-                </a>
-                <a href="assets/img/jf/2019-Gaypride-AmiensCity-8.jpg" data-toggle="lightbox"
-                   data-gallery="example-gallery" class="col-md-3">
-                    <img src="assets/img/jf/2019-Gaypride-AmiensCity-8.jpg"
-                         alt="Image de la gaypride d'Amiens par Juliette Fabijan" class="img-fluid">
-                </a>
-            </div>
-            <div class="row mb-4">
-                <a href="assets/img/jf/2019-Gaypride-AmiensCity-5.jpg" data-toggle="lightbox"
-                   data-gallery="example-gallery" class="col-md-3">
-                    <img src="assets/img/jf/2019-Gaypride-AmiensCity.jpg"
-                         alt="Image de la gaypride d'Amiens par Juliette Fabijan" class="img-fluid">
-                </a>
-                <a href="assets/img/jf/2019-Gaypride-AmiensCity-9.jpg" data-toggle="lightbox"
-                   data-gallery="example-gallery" class="col-md-3">
-                    <img src="assets/img/jf/2019-Gaypride-AmiensCity-9.jpg"
-                         alt="Image de la gaypride d'Amiens par Juliette Fabijan" class="img-fluid">
-                </a>
-                <a href="assets/img/jf/2019-Gaypride-AmiensCity-3.jpg" data-toggle="lightbox"
-                   data-gallery="example-gallery" class="col-md-3">
-                    <img src="assets/img/jf/2019-Gaypride-AmiensCity-3.jpg"
-                         alt="Image de la gaypride d'Amiens par Juliette Fabijan" class="img-fluid">
-                </a>
-                <a href="assets/img/jf/2019-Gaypride-AmiensCity-4.jpg" data-toggle="lightbox"
-                   data-gallery="example-gallery" class="col-md-3">
-                    <img src="assets/img/jf/2019-Gaypride-AmiensCity-4.jpg"
-                         alt="Image de la gaypride d'Amiens par Juliette Fabijan" class="img-fluid">
-                </a>
-            </div>
 
-            <!-- elements not showing, use data-remote -->
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-11.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-12.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-13.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-14.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-2.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-6.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-15.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-16.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-17.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-18.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-19.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-20.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-21.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-22.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-23.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-24.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-25.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-26.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-27.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-28.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-29.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-30.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-31.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-32.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-33.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-34.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-35.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-36.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-37.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-38.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-39.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-40.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-41.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-42.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-43.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-44.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-45.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-46.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-47.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-48.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-49.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-50.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-51.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-52.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-53.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-54.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-55.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-56.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-57.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-58.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-59.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-60.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-61.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-62.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-63.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-64.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-65.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-66.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-67.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-68.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-69.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-70.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-71.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-72.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-73.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-74.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-75.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-76.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-77.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-78.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-79.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-80.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-81.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-82.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-83.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-84.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-85.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-86.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-87.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-88.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-89.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-90.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-91.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-92.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-93.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-94.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-95.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-96.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-97.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-98.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-99.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-100.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-101.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-102.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-103.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-104.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-105.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-106.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-107.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-108.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-109.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-110.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-111.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-112.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-113.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-114.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-115.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-116.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-117.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-118.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-119.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-120.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-121.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-122.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-123.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-124.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-125.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-126.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-127.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-128.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-129.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-130.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-131.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-132.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-133.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-134.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-135.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-136.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-137.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-138.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-139.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-140.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-141.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-142.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-143.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-144.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-145.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-146.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-147.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-148.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-150.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-151.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-152.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-153.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-154.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-155.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-156.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-157.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-158.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-159.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-160.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-161.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-162.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-163.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-164.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-165.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-166.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-167.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-168.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-169.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-170.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-171.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-172.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-173.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-174.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-175.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-176.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-177.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-178.jpg"></div>
-            <div data-toggle="lightbox" data-gallery="example-gallery"
-                 data-remote="assets/img/jf/2019-Gaypride-AmiensCity-179.jpg"></div>
-        </section>
-    </div>
-</div>
+
+<!-- ------------------------------------------------------------------------------------------------------------------------------
+Pride 2019
+------------------------------------------------------------------------------------------------------------------------------ -->
+<?php
+require('pride2019.php');
+?>
 
 
 <!-- ------------------------------------------------------------------------------------------------------------------------------

@@ -1,9 +1,9 @@
 /*  Google fonts 'Roboto' Regular 400, Regular 400 italic, Bold 700, Bold 700 italic, Black 900
 Google fonts 'Domine' Regular 400, Bold 700 */
-@font-face {
+/* @font-face {
     font-family: "leaguespartan-bold";
     src: url("leaguespartan-bold.woff") format("woff");
-}
+} */
 
 
 :root {
@@ -149,24 +149,31 @@ color : var( --flag-blue);
     color: orange;
 }
 
-.blockOrange {
-    background-color: orange;
-    color: white;
-}
 .btnOrange{
-
+    
     background-color:   #ffc65f;
     color: white;
 }
 .purple {
-     color:#94268a; /*#fb00ff; */
+    color:#94268a; /*#fb00ff; */
 }
 
+.blockOrange {
+    background-color: rgb(167, 53, 0);
+    color: white;
+}
+.blockBeige {
+    background-color: #EFE7D2;
+    color: #94268a;
+}
 .blocPurple {
     background-color:#94268a;
     color: white;
 }
-
+.blockBlueLight {
+    background-color:#9FD3DE;
+    color: rgb(17, 17, 17);
+}
 
 .blockBlue {
     background-color:#263494;
@@ -219,7 +226,7 @@ nav {
 }
 
 a {
-    color: #f00;
+    color: rgb(255, 0, 157);
     font-family: 'Thasadith', sans-serif;
 }
 
