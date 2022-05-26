@@ -1,6 +1,6 @@
 <?php
 $Titre = "mention";
-require("header.php");
+require("layout/header.php");
 ?>
 
 <div class="col-lg-12 pt-5 ">
@@ -57,5 +57,5 @@ require("header.php");
 
 
 <?php
-require("footer.php")
+require("layout/footer.php")
 ?>

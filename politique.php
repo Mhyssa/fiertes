@@ -1,6 +1,6 @@
 <?php  
 $Titre="Politique de confidentialité";
-require("header.php");
+require("layout/header.php");
 ?>
 
 <div class="col-lg-12 ombre pt-5 ">
@@ -220,5 +220,5 @@ Organisme à but non lucratif (association loi 1901, fondations, fonds de dotati
 </div>
 
 <?php  
-require("footer.php")
+require("layout/footer.php")
 ?>

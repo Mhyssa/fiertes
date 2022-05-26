@@ -1,6 +1,6 @@
 <?php
 $Titre = "Page 404";
-require("header.php");
+require("layout/header.php");
 ?>
 
 <div class="container">
@@ -29,5 +29,5 @@ require("header.php");
 </div>
 
 <?php  
-require("footer.php")
+require("layout/footer.php")
 ?>

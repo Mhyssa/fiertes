@@ -6,8 +6,22 @@
 
   <div class="row footer  block-light ">
     <div class="col-lg-4 col-sm-12 ">
-      <p class="text-center"><a href="https://fr-fr.facebook.com/festivalidahot/" target="_blank"><i class="fab fa-facebook fa-2x mr-2"></i></a>Collectif Idahot Amiens</p>
-      <p class="text-center"><i class="fas fa-envelope fa-2x mr-2"></i><a href="mailto:fierte.amiens@gmail.com" class="link" target="_blank">fierte.amiens@gmail.com</p></a>
+      <p class="text-center">
+        <a href="https://fr-fr.facebook.com/festivalidahot/" target="_blank">
+          <i class="fab fa-facebook fa-2x mr-2"></i>
+        </a>
+        Collectif Idahot Amiens
+      </p>
+
+      <p class="text-center">
+        <a href="mailto:fierte.amiens@gmail.com" target="_blank" class="link">
+          <i class="fas fa-envelope fa-2x mr-2"></i>
+        </a>
+        fierte.amiens@gmail.com
+      </p>
+
+
+
     </div>
     <div class="col-lg-8 col-sm-12 pb-3">
       <a target="_blank" href="https://www.aides.org/">
@@ -37,9 +51,9 @@
     <div class="col-lg-12 col-md-12 blockBlue pt-2 m-auto">
 
       <div class=" pt-4 pb-3 m-auto d-flex justify-content-around">
-        <p class=""><a href="mention.php" class="">Mentions légales </a></p>
+        <p class=""><a href="mentions.php" class="">Mentions légales </a></p>
         <p class="">I</p>
-        <p class="">©2021 Fiertes Amiens. All rights reserved.</p>
+        <p class="">©2022 Fiertes Amiens. All rights reserved.</p>
         <p class="">I</p>
         <p class=""><a href="politique.php" class="">Politique de confidentialité </a></p>
       </div>

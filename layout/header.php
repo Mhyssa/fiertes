@@ -20,8 +20,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=7">
   <meta name="author" content="Marion JOLY, Noemie CLAUDE" />
   <meta name="copyright" content="Collectif Idahot" />
-  <meta name="description"
-    content="Site de la 3ème Marche des Fiertés d'Amiens le 19 juin, organisé par le collectif interassociatif IDAHOT." />
+  <meta name="description" content="Site de la 4ème Marche des Fiertés d'Amiens le 02 juillet, organisé par le collectif interassociatif IDAHOT." />
 
   <!-- Bootstrap CSS -->
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css"
@@ -59,7 +58,7 @@
 
   <div class="container-fluid">
 
-    <div class="row">
+    <div class="row" style="margin-bottom:5rem;">
       <div class="col-12 col-sm-12 col-lg-12">
 
 
@@ -80,9 +79,9 @@ Critère esthétiques
 Navbar 3eme marche des fiertes / Archives
 ------------------------------------------------------------------------------------------------------------------------------ -->
 <!-- border-rainbow -->
-        <nav class="navbar navbar-expand-lg p-3 navbar-white fixed-top shadow  ">
+        <nav class="navbar navbar-expand-lg p-3 navbar-white fixed-top shadow">
           <a class="navbar-brand" href="index.php" id="top">
-            <img src="assets/img/picto/logoIDAHOT.ico" width="35" height="35" class="d-inline-block  mr-2 "
+            <img src="assets/img/picto/logoIDAHOT.ico" width="35" height="35" class="d-inline-block mr-2 "
               alt="icône tour drapeau philadelphia Amiens Gay pride" loading="lazy">
             <!-- fiertesAmiens.fr -->
           </a>
@@ -94,13 +93,13 @@ Navbar 3eme marche des fiertes / Archives
           <div class="collapse navbar-collapse" id="navbarNav">
             <ul class="navbar-nav">
               <li class="nav-item pr-4 pl-4">
-                <a class="nav-link fontGlobale orange " href="#about">Qui Sommes Nous ?</a>
+                <a class="nav-link green fontGlobale purple" href="index.php">4ème marche des fiertés</a>
               </li>
               <li class="nav-item pr-4 pl-4">
-                <a class="nav-link green fontGlobale purple " href="#part">Les Associations</a>
+                <a class="nav-link fontGlobale orange" href="collectif.php">Le collectif</a>
               </li>
               <li class="nav-item pr-4 pl-4">
-                <a class="nav-link fontGlobale blue" href="#marche">Archives</a>
+                <a class="nav-link fontGlobale blue" href="archives.php">Archives</a>
               </li>
             </ul>
           </div>
