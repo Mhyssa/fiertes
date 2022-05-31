@@ -57,7 +57,7 @@ Qui sommes Nous
             <div class="row no-gutters">
                 <div class="col-md-4 p-3">
                     <a target="_blank" href="https://www.aides.org/">
-                        <img src="assets\img\logo\Logo_AIDES.png" height="100" alt="Logo Aides">
+                        <img src="assets\img\logo\Logo-AIDES.png" height="100" alt="Logo Aides">
                     </a>
                 </div>
                 <div class="col-md-8">
@@ -78,7 +78,7 @@ Qui sommes Nous
             <div class="row no-gutters">
                 <div class="col-md-4 p-3">
                     <a target="_blank" href="https://www.facebook.com/Divergenre-105224454220663">
-                        <img src="assets\img\logo\Logo_Divergenre.png" height="100" alt="Logo Divergenre">
+                        <img src="assets\img\logo\Logo-Divergenre.png" height="100" alt="Logo Divergenre">
                     </a>
                 </div>
                 <div class="col-md-8">
@@ -97,7 +97,7 @@ Qui sommes Nous
             <div class="row no-gutters">
                 <div class="col-md-4 p-3">
                     <a target="_blank" href="https://www.gas-asso.org/">
-                        <img src="assets\img\logo\Logo_GAS.png" height="100" alt="Logo Groupe d’Appui et de Solidarité">
+                        <img src="assets\img\logo\Logo-GAS.png" height="100" alt="Logo Groupe d’Appui et de Solidarité">
                     </a>
                 </div>
                 <div class="col-md-8">
@@ -119,7 +119,7 @@ Qui sommes Nous
             <div class="row no-gutters">
                 <div class="col-md-4 p-3">
                     <a target="_blank" href="https://flash-our-true-colors.fr/">
-                        <img src="assets\img\logo\Logo_FOTC.png" height="100" alt="Logo Flash Our True Colors">
+                        <img src="assets\img\logo\Logo-FOTC.png" height="100" alt="Logo Flash Our True Colors">
                     </a>
                 </div>
                 <div class="col-md-8">
@@ -140,7 +140,7 @@ Qui sommes Nous
             <div class="row no-gutters">
                 <div class="col-md-4 p-3">
                     <a target="_blank" href="https://lesbavardes.org/">
-                        <img src="assets\img\logo\Logo_Les_Bavardes.png" height="100" alt="Logo Les Bavardes">
+                        <img src="assets\img\logo\Logo-Les-Bavardes.png" height="100" alt="Logo Les Bavardes">
                     </a>
                 </div>
                 <div class="col-md-8">
@@ -162,7 +162,7 @@ Qui sommes Nous
             <div class="row no-gutters">
                 <div class="col-md-4 p-3">
                     <a target="_blank" href="https://www.facebook.com/similiqueer/">
-                        <img src="assets\img\logo\Logo_simili.png" height="80" alt="Logo Simili queer">
+                        <img src="assets\img\logo\Logo-SimiliQueer.png" height="80" alt="Logo Simili queer">
                     </a>
                 </div>
                 <div class="col-md-8">
@@ -183,7 +183,7 @@ Qui sommes Nous
             <div class="row no-gutters">
                 <div class="col-md-4 p-3">
                     <a target="_blank" href="https://www.sos-homophobie.org/delegation/picardie">
-                        <img src="assets\img\logo\Logo_SOS_homophobie.png" height="80" alt="Logo Sos Homophobie">
+                        <img src="assets\img\logo\Logo-SOS-Homophobie.png" height="80" alt="Logo Sos Homophobie">
                     </a>
                 </div>
                 <div class="col-md-8">

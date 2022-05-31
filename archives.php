@@ -13,7 +13,6 @@ require('layout/header.php');
     </div>
 </div>
 
-
 <!-- ------------------------------------------------------------------------------------------------------------------------------
         Videos
 ------------------------------------------------------------------------------------------------------------------------------ -->
@@ -30,25 +29,19 @@ require('layout/header.php');
 Pride 2021
 ------------------------------------------------------------------------------------------------------------------------------ -->
 <?php
-require('pride2021.php');
+require('components/pride2021.php');
 ?>
-
-
-
 
 <!-- ------------------------------------------------------------------------------------------------------------------------------
 Pride 2019
 ------------------------------------------------------------------------------------------------------------------------------ -->
 <?php
-require('pride2019.php');
+require('components/pride2019.php');
 ?>
 
-<div class="row block-light ">
+<div class="row block-light">
     <div class="col-12 col-sm-12 text-center border-rainbow pb-4 pt-4">
-        <a href="#top">
-            <img src="assets/img/picto/drapeau-philadelphia.ico" alt="pied de page avec le drapeau de philadelphia"
-                 class="img-fluid h-auto" style="width: 120px;">
-        </a>
+        <img src="assets/img/picto/drapeau-philadelphia.ico" alt="pied de page avec le drapeau de philadelphia" class="img-fluid h-auto" style="width: 120px;">
     </div>
 </div>
 

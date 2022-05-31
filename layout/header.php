@@ -32,7 +32,6 @@
   <!-- icone de l'onglet -->
   <link rel="icon" href="assets/img/picto/logo.ico" />
 
-
   <link href="https://fonts.googleapis.com/css2?family=Fredericka+the+Great&display=swap" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css2?family=Thasadith:ital@1&display=swap" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css2?family=Thasadith:wght@400;700&display=swap" rel="stylesheet">
@@ -60,7 +59,6 @@
 
     <div class="row" style="margin-bottom:5rem;">
       <div class="col-12 col-sm-12 col-lg-12">
-
 
         <!-- Marche des Fierté Amiens 2020
 Critère esthétiques
