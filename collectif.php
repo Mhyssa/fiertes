@@ -34,17 +34,7 @@ Qui sommes Nous
     </div>
 </div>
 
-
-<!-- ------------------------------------------------------------------------------------------------------------------------------
-    Partenaires
-            AIDES Divergenre Flash Our True Colors Le Groupe d'Appui et de Solidarité
-            Les Bavardes SOS homophobie Picardie
------------------------------------------------------------------------------------------------------------------------------- -->
-
-
 <div class="row blockBeige">
-    <!--block-light -->
-    <div class="col-lg-12 pb-3 pt-2 mt-2"></div>
     <div class="col-12 col-sm-12 p-4">
         <h2 class="text-center m-4 purple" id="part">Les associations membres du collectif</h2>
     </div>
@@ -52,17 +42,15 @@ Qui sommes Nous
 
 <div class="row justify-content-center blockBeige">
     <div class="col-lg-11 m-auto">
-        <!--block-1 -->
         <div class="card mb-3 mr-2 float-left" style="max-width: 540px; min-height: 210px;">
             <div class="row no-gutters">
                 <div class="col-md-4 p-3">
                     <a target="_blank" href="https://www.aides.org/">
-                        <img src="assets\img\logo\Logo-AIDES.png" height="100" alt="Logo Aides">
+                        <img src="assets\img\logos\Logo-AIDES.png" height="100" alt="Logo Aides">
                     </a>
                 </div>
                 <div class="col-md-8">
                     <div class="card-body">
-
                         <p class="card-text purple">Aides : Créée en 1984, ayant pour but de faire évoluer les
                             réponses sociales, thérapeutiques et politiques apportées
                             aux personnes touchées ou vulnérables au VIH et aux
@@ -78,12 +66,11 @@ Qui sommes Nous
             <div class="row no-gutters">
                 <div class="col-md-4 p-3">
                     <a target="_blank" href="https://www.facebook.com/Divergenre-105224454220663">
-                        <img src="assets\img\logo\Logo-Divergenre.png" height="100" alt="Logo Divergenre">
+                        <img src="assets\img\logos\Logo-Divergenre.png" height="100" alt="Logo Divergenre">
                     </a>
                 </div>
                 <div class="col-md-8">
                     <div class="card-body">
-
                         <p class="card-text purple">Divergenre : Association basée à Amiens en
                             autosupport, créée pour combler le vide intersidéral entre
                             Lille et Paris dans le soutien et l'accompagnement par et
@@ -97,12 +84,11 @@ Qui sommes Nous
             <div class="row no-gutters">
                 <div class="col-md-4 p-3">
                     <a target="_blank" href="https://www.gas-asso.org/">
-                        <img src="assets\img\logo\Logo-GAS.png" height="100" alt="Logo Groupe d’Appui et de Solidarité">
+                        <img src="assets\img\logos\Logo-GAS.png" height="100" alt="Logo Groupe d’Appui et de Solidarité">
                     </a>
                 </div>
                 <div class="col-md-8">
                     <div class="card-body">
-
                         <p class="card-text purple">
                             Groupe d’Appui et de Solidarité : Association d’éducation populaire de lutte contre les
                             inégalités
@@ -114,17 +100,15 @@ Qui sommes Nous
         </div>
     </div>
     <div class="col-lg-11 m-auto">
-        <!--block-2 -->
         <div class="card mb-3 mr-2 float-left" style="max-width: 540px; min-height: 210px;">
             <div class="row no-gutters">
                 <div class="col-md-4 p-3">
                     <a target="_blank" href="https://flash-our-true-colors.fr/">
-                        <img src="assets\img\logo\Logo-FOTC.png" height="100" alt="Logo Flash Our True Colors">
+                        <img src="assets\img\logos\Logo-FOTC.png" height="100" alt="Logo Flash Our True Colors">
                     </a>
                 </div>
                 <div class="col-md-8">
                     <div class="card-body">
-
                         <p class="card-text purple">Flash Our True Colors : Association amiénoise de
                             2011 qui lutte contre les discriminations, surtout celles faites
                             aux personnes LGBTQI+. Notre travail se traduit par des
@@ -140,12 +124,11 @@ Qui sommes Nous
             <div class="row no-gutters">
                 <div class="col-md-4 p-3">
                     <a target="_blank" href="https://lesbavardes.org/">
-                        <img src="assets\img\logo\Logo-Les-Bavardes.png" height="100" alt="Logo Les Bavardes">
+                        <img src="assets\img\logos\Logo-Les-Bavardes.png" height="100" alt="Logo Les Bavardes">
                     </a>
                 </div>
                 <div class="col-md-8">
                     <div class="card-body">
-
                         <p class="card-text purple">
                             Les Bavardes : collectif féministe et lesbien engagé depuis 2017 pour la visibilité et les droits de
                             toutes les
@@ -156,18 +139,16 @@ Qui sommes Nous
                     </div>
                 </div>
             </div>
-
         </div>
         <div class="card mb-3 mr-2 float-left" style="max-width: 540px; min-height: 210px;">
             <div class="row no-gutters">
                 <div class="col-md-4 p-3">
                     <a target="_blank" href="https://www.facebook.com/similiqueer/">
-                        <img src="assets\img\logo\Logo-SimiliQueer.png" height="80" alt="Logo Simili queer">
+                        <img src="assets\img\logos\Logo-SimiliQueer.png" height="80" alt="Logo Simili queer">
                     </a>
                 </div>
                 <div class="col-md-8">
                     <div class="card-body">
-
                         <p class="card-text purple">
                             Simili QUEER : Regroupement collectif à Amiens, se retrouvant dans les
                             valeurs, les idées, les luttes du mouvement et des identités
@@ -183,12 +164,11 @@ Qui sommes Nous
             <div class="row no-gutters">
                 <div class="col-md-4 p-3">
                     <a target="_blank" href="https://www.sos-homophobie.org/delegation/picardie">
-                        <img src="assets\img\logo\Logo-SOS-Homophobie.png" height="80" alt="Logo Sos Homophobie">
+                        <img src="assets\img\logos\Logo-SOS-Homophobie.png" height="80" alt="Logo Sos Homophobie">
                     </a>
                 </div>
                 <div class="col-md-8">
                     <div class="card-body">
-
                         <p class="card-text purple">
                             Association SOS homophobie Picardie :
                             Association de prévention et de lutte contre les
@@ -197,13 +177,11 @@ Qui sommes Nous
                             orientations sexuelles et des identités de genre. Elle milite
                             depuis 25 ans pour la visibilité et l’égalité des droits des
                             personnes LGBTQI+ au niveau local et national.
-
                         </p>
                     </div>
                 </div>
             </div>
         </div>
-
     </div>
 </div>
 

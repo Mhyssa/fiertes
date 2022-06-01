@@ -25,25 +25,25 @@
     </div>
     <div class="col-lg-8 col-sm-12 pb-3">
       <a target="_blank" href="https://www.aides.org/">
-        <img src="assets\img\logo\Logo-AIDES.png" height="80" alt="logo AIDES">
+        <img src="assets\img\logos\Logo-AIDES.png" height="80" alt="logo AIDES">
       </a>
       <a target="_blank" href="https://lesbavardes.org/">
-        <img src="assets\img\logo\Logo-Les-Bavardes.png" height="80" alt="logo Les Bavardes">
+        <img src="assets\img\logos\Logo-Les-Bavardes.png" height="80" alt="logo Les Bavardes">
       </a>
       <a target="_blank" href="https://www.facebook.com/DivergenreAsso/">
-        <img src="assets\img\logo\Logo-Divergenre.png" height="80" alt="logo Divergenre">
+        <img src="assets\img\logos\Logo-Divergenre.png" height="80" alt="logo Divergenre">
       </a>
       <a target="_blank" href="https://flash-our-true-colors.fr/">
-        <img src="assets\img\logo\Logo-FOTC.png" height="80" alt="logo Flash True Colors">
+        <img src="assets\img\logos\Logo-FOTC.png" height="80" alt="logo Flash True Colors">
       </a>
       <a target="_blank" href="https://www.gas-asso.org/">
-        <img src="assets\img\logo\Logo-GAS.png" height="100" alt="logo GAS">
+        <img src="assets\img\logos\Logo-GAS.png" height="100" alt="logo GAS">
       </a>
       <a target="_blank" href="https://www.facebook.com/similiqueer/">
-        <img src="assets\img\logo\Logo-SimiliQueer.png" height="80" alt="logo simili Queer">
+        <img src="assets\img\logos\Logo-SimiliQueer.png" height="80" alt="logo simili Queer">
       </a>
       <a target="_blank" href="https://www.sos-homophobie.org/delegation/picardie">
-        <img src="assets\img\logo\Logo-SOS-Homophobie.png" height="80" alt="logo Sos Homophobie Délégation Picardie">
+        <img src="assets\img\logos\Logo-SOS-Homophobie.png" height="80" alt="logo Sos Homophobie Délégation Picardie">
       </a>
     </div>
 

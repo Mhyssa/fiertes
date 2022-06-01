@@ -47,13 +47,13 @@ body {
 }
 
 h1,
-h2 {
+h2,
+h3 {
     font-family: 'Fredericka the Great', cursive;
 }
 .fontGlobale{
     font-family: 'Fredericka the Great', cursive;
 }
-
 
 /* TEST nav a finir */
 /* .blue{
@@ -68,12 +68,10 @@ color : var( --flag-blue);
 
 /* TEST */
 
-
 ul,
 ol {
     list-style: none;
 }
-
 
 .count {
     display: inline-block;
@@ -203,8 +201,6 @@ button {
     float: right;
 }
 
-
-
 .block {
     /* background-color: var(--fly-grey-medium); */
     background-color: #ec1940;
@@ -222,7 +218,6 @@ nav {
     font-size: 1.4em;
     background-color: #fff;
     /* background-color: #8e0202; */
-
 }
 
 a {
@@ -237,7 +232,6 @@ a {
 a:hover {
     color: black;
 }
-
 
 .card{
     min-height: 565px;

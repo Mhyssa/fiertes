@@ -3,58 +3,43 @@ $Titre = "mention";
 require("layout/header.php");
 ?>
 
-<div class="col-lg-12 pt-5 ">
+<div class="col-lg-12 pt-5">
     <div class="container">
-        <div class="row shadow mb-5 rgpd ">
+        <div class="row shadow mb-5 rgpd">
             <div class="col-12 col-md-12 rainbow mb-5"></div>
-            <div class="col-md-12 text-center">
-            <h1>Mentions légales</h1>
-                <h2>
-                    Responsables de publication :<br>
-                </h2>
+            <div class="col-md-12">
+                <h1 class="text-center">Mentions légales</h1>
+                <h2 class="pt-3 pb-3">Hébergement :</h2>
                 <p>
-                    Marion Joly.<br>
-
-                    Pour joindre la responsable de publication, merci d’envoyer un email à fierte.amiens@gmail.com<br>
-
-                    Le présent site internet www.fiertesamiens.fr (le « Site Internet ») est édité par :<br>
-
-                    Le Collectif Idahot Amiens<br>
-                    Organisme à but non lucratif (association loi 1901, fondations, fonds de dotation)<br>
+                    L’hébergement du site est assuré par :<br>
+                    OVH SAS : SAS au capital de 10 059 500 €<br>
+                    Adresse : 2 rue Kellermann, 59100, Roubaix, France<br>
+                    RCS Lille Métropole : 424 761 419 00045<br>
+                    Code APE : 6202A<br>
+                    N° TVA : FR 22 424 761 419<br>
+                    Dirigeant légal : Octave KLABA<br>
                 </p>
-                <h2>Hébergement : </h2><br>
+                <h2 class="pt-3 pb-3">Propriété Intellectuelle :</h2>
                 <p>
-                    L’hébergement du site est assuré par OVH ayant ses locaux basés à l’adresse suivante :<br>
-
-                    OVH SAS, SAS au capital de 10 059 500 €, élisant domicile 2 rue Kellermann 59100 Roubaix
-                    France, inscrite au RCS Lille Métropole 424 761 419 00045
-                    Code APE 6202A
-                    N° TVA : FR 22 424 761 419, représentée par son dirigeant légal Octave KLABA.<br>
-
-                <h2>  Propriété Intellectuelle : </h2><br>
-
                     Ce site demeure et reste une création de l’esprit protégé par la loi. Tout le contenu du site FiertesAmiens.fr est strictement privé et réservé au titre du droit d’auteur ainsi qu’au titre de la
                     propriété Intellectuelle.<br>
-                    Tous les droits de reproduction du site FiertesAmiens.fr sont donc strictement privés et réservés.<br> Toute
-                    reproduction ou copie de documents, images, textes, illustrations, logos de marque et documents
-                    Iconographiques sont donc strictement interdites et puni par la Loi.<br> Il en est de même pour la base
-                    de données du site. Toute exploitation sans exception des contenues du présent site se suivra donc
-                    d’une procédure en justice. Le tribunal de Lille sera seul compétent pour régler les litiges.<br><br>
-
-
-                <h2> Conception du site internet : </h2><br>
+                    Tous les droits de reproduction du site FiertesAmiens.fr sont donc strictement privés et réservés.<br>
+                    Toute reproduction ou copie de documents, images, textes, illustrations, logos de marque et documents
+                    Iconographiques sont donc strictement interdites et puni par la Loi.<br>
+                    Il en est de même pour la base de données du site. Toute exploitation sans exception des contenues du présent site se suivra donc
+                    d’une procédure en justice. Le tribunal de Lille sera seul compétent pour régler les litiges.
+                </p>
+                <h2 class="pt-3 pb-3">Conception du site internet :</h2>
+                <p>
                     Marion Joly pour la conception, la rédaction, le developpement et le design.<br>
                     Timothee Kunde pour l'aide à la rédaction.<br>
                     Louiza Tasse pour l'affiche et la bannière.<br>
-                    Innocent Binyoma pour la mise à jour.<br>
+                    Innocent Binyoma pour la mise à jour.
                 </p>
             </div>
-
         </div>
     </div>
 </div>
-
-
 
 <?php
 require("layout/footer.php")
