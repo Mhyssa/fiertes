@@ -15,7 +15,7 @@ Responsables de publication :
 <p>
 Marion Joly.
 
-Pour joindre la responsable de publication, merci d’envoyer un email à fierte.amiens@gmail.com
+Pour joindre la responsable de publication, merci d’envoyer un email à contact@fiertesamiens.fr
 
 Le présent site internet fiertesamiens.fr (le « Site Internet ») est édité par :
 
@@ -89,7 +89,7 @@ Organisme à but non lucratif (association loi 1901, fondations, fonds de dotati
                     Pour toutes informations supplémentaires ou demande de modification/suppression de vos données
                     privées, vous
                     pouvez contacter l’équipe de coordination :
-                    – par e-mail : <a href="mailto:fierte.amiens@gmail.com">fierte.amiens@gmail.com</a>
+                    – par e-mail : <a href="mailto:fiertes.amiens@gmail.com">fiertes.amiens@gmail.com</a>
 
                     L‘équipe dispose d’un délai de réponse de 1 mois suivant la date d’envoi de votre demande.
                     Pour en savoir plus sur vos droits, nous vous invitons à consulter le site de la CNIL.

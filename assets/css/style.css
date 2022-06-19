@@ -81,9 +81,23 @@ ol {
     list-style-type: none;
     padding: 1em;
     text-transform: uppercase;
-    background-color: var(--main-bg-color);
-    border: 2px solid #ff1616;
     border-radius: 25px;
+}
+.whiteOnRed {
+    color: white;
+    background-color: #FF0018;
+}
+.blueOnSaffron {
+    color: #0000F9;
+    background-color: #FFA52C;
+}
+.blueOnYellow {
+    color: #0000F9;
+    background-color:  #FFFF41;
+}
+.whiteOnGreen {
+    color: white;
+    background-color: #008018;
 }
 
 .count span {
@@ -131,12 +145,8 @@ color : var( --flag-blue);
 .borderWhite{
     border-bottom: white 4px solid;
 }
-
-.borderOrange{
-    border-bottom: rgb(255, 166, 0) 4px solid;
-}
 .orange {
-    color: rgb(255, 102, 0);
+    color: orange;
 }
 
 .blockOrange {
@@ -144,7 +154,7 @@ color : var( --flag-blue);
     color: white;
 }
 .btnOrange{
-  
+
     background-color:   #ffc65f;
     color: white;
 }

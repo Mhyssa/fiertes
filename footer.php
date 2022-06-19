@@ -1,55 +1,50 @@
 <!-- ------------------------------------------------------------------------------------------------------------------------------
-    DEBUT DU FOOTER
+    Mentions légales --- CGU/Cookies --- ResO SociO Facebook https://fr-fr.facebook.com/festivalidahot/ --- Contact fiertes.amiens.plaidoyer@gmail.com
 ------------------------------------------------------------------------------------------------------------------------------ -->
 
 <footer class="block-light pt-4">
-  <div class="row footer block-light ">
-      <div class="col-12 col-lg-4 col-sm-12 col-md-12 m-auto">
-        <p class="text-center"><a href="https://fr-fr.facebook.com/festivalidahot/" target="_blank"><i class="fab fa-facebook fa-2x mr-2"></i></a>Idahot Amiens</p>
-        <p class="text-center"><a href="mailto:fierte.amiens@gmail.com" class="blockOrange border-rainbow" target="_blank">contact@fiertesamiens.fr</a></p>
-      </div>
-  
-      <div class="col-12 col-lg-8 col-sm-12 col-md-12">
-        <a target="_blank" href="https://www.aides.org/">
-          <img src="assets\img\logo\Logo_AIDES.png" height="80" alt="logo AIDES">
-        </a>
-        <a target="_blank" href="">
-          <img src="assets\img\logo\Logo_Divergenre.png" height="80" alt="logo Divergenre">
-        </a>
-        <a target="_blank" href="https://flash-our-true-colors.fr/">
-          <img src="assets\img\logo\Logo_Flash_Our_True_Colors.png" height="80" alt="logo Flash True Colors">
-        </a>
-        <a target="_blank" href="https://www.gas-asso.org/">
-          <img src="assets\img\logo\Logo_GAS.png" height="80" alt="logo GAS">
-        </a>
-        <a target="_blank" href="https://lesbavardes.org/">
-          <img src="assets\img\logo\Logo_Les_Bavardes.png" height="80" alt="logo Les Bavardes">
-        </a>
-        <a target="_blank" href="https://www.sos-homophobie.org/delegation/picardie">
-          <img src="assets\img\logo\Logo_SOS_homophobie.png" height="80" alt="logo Sos Homophobie Délégation Picardie">
-        </a>
-      </div>
-  </div>
 
-  <div class="row">
-    <div class="col-lg-12 col-md-12 col-12 pt-2 m-auto">
-      <div class="block pt-4 pb-3 m-auto d-flex justify-content-around">
-        <p class=""><a href="mention.php" class="white">Mentions légales </a></p>
+  <div class="row footer  block-light ">
+    <div class="col-lg-4 col-sm-12 ">
+      <p class="text-center"><a href="https://fr-fr.facebook.com/festivalidahot/" target="_blank"><i class="fab fa-facebook fa-2x mr-2"></i></a>Collectif Idahot Amiens</p>
+      <p class="text-center"><i class="fas fa-envelope fa-2x mr-2"></i><a href="mailto:fierte.amiens@gmail.com" class="link" target="_blank">fierte.amiens@gmail.com</p></a>
+    </div>
+    <div class="col-lg-8 col-sm-12">
+      <a target="_blank" href="https://www.aides.org/">
+        <img src="assets\img\logo\Logo_AIDES.png" height="80" alt="logo AIDES">
+      </a>
+      <a target="_blank" href="https://www.gas-asso.org/">
+        <img src="assets\img\logo\Logo_GAS.png" height="100" alt="logo GAS">
+      </a>
+      <a target="_blank" href="https://flash-our-true-colors.fr/">
+        <img src="assets\img\logo\Logo_Flash_Our_True_Colors.png" height="80" alt="logo Flash True Colors">
+      </a>
+
+      <a target="_blank" href="https://lesbavardes.org/">
+        <img src="assets\img\logo\Logo_Les_Bavardes.png" height="80" alt="logo Les Bavardes">
+      </a>
+      <a target="_blank" href="https://www.sos-homophobie.org/delegation/picardie">
+        <img src="assets\img\logo\Logo_SOS_homophobie.png" height="80" alt="logo Sos Homophobie Délégation Picardie">
+      </a>
+    </div>
+
+
+    <div class="col-lg-12 col-md-12 pt-2 m-auto">
+      <div class="col-lg-5 col-md-12 m-auto"></div>
+
+      <div class=" pt-4 pb-3 m-auto d-flex justify-content-around">
+        <p class=""><a href="mention.php" class="">Mentions légales </a></p>
         <p class="">I</p>
-        <p class="white">©2021 Fiertes Amiens. All rights reserved.</p>
+        <p class="">©2021 Fiertes Amiens. All rights reserved.</p>
         <p class="">I</p>
-        <p class=""><a href="politique.php" class="white">Politique de confidentialité </a></p>
+        <p class=""><a href="politique.php" class="">Politique de confidentialité </a></p>
       </div>
     </div>
+
   </div>
 </footer>
-
-<!-- ------------------------------------------------------------------------------------------------------------------------------
-    FIN DU FOOTER
------------------------------------------------------------------------------------------------------------------------------- -->
 </div>
-
-
+</div>
 
 
 <!-- Optional JavaScript -->
@@ -70,18 +65,18 @@
         $(this).ekkoLightbox();
     })
     let check = 0;
-    $( "#visual" ).click(function() { 
+    $( "#visual" ).click(function() {
       console.log(check)
       if (check==0){
         $("#VisualTarget").removeClass( "lireTout" );
-        
+
         check = 1;
       }else{
         $( "#VisualTarget" ).addClass( "lireTout" );
         check = 0;
       }
-      
-     
+
+
     });
 </script>
 
@@ -105,7 +100,7 @@
       "href": "politique.php"
     }
   });
-  
+
 </script>
 
 </body>
