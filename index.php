@@ -3,6 +3,33 @@ $Titre = "index";
 require('layout/header.php');
 ?>
 
+<!-- ------------------------------------------------------------------------------------------------------------------------------
+    Compte à rebourd RENDEZ VOUS DANS + Details de la journée
+------------------------------------------------------------------------------------------------------------------------------ -->
+
+<div class="row py-5">
+    <div class="col-12 col-md-6 text-center">
+        <h2 class="coral mb-4">Début de la marche dans :</h2>
+        <ul>
+            <li class="count whiteOnRed"><span id="days"></span>Jours</li>
+            <li class="count blueOnSaffron"><span id="hours"></span>Heures</li>
+            <li class="count blueOnYellow"><span id="minutes"></span>Minutes</li>
+            <li class="count whiteOnGreen"><span id="seconds"></span>Secondes</li>
+        </ul>
+    </div>
+    <div class="col-12 col-md-6">
+        <h2 class="coral mb-4">
+            Déroulement de la journée du 02 juillet
+        </h2>
+        <ul>
+            <li class="mb-2 thasadith coral"><i class="fas fa-volume-up coral pr-3"></i>10h - Ouverture du village associatif</li>
+            <li class="mb-2 thasadith coral"><i class="fas fa-hiking coral pr-4"></i>13h - Début des prises de paroles puis départ de la déambulation</li>
+            <li class="mb-2 thasadith coral"><i class="fas fa-map-pin coral pr-4"></i>17h - Retour de la déambulation puis concert de Lirose</li>
+            <li class="mb-2 thasadith coral"><i class="fas fa-map-pin coral pr-4"></i>18h - Fin des festivités</li>
+        </ul>
+    </div>
+</div>
+
 <div class="row mt-5">
     <div class="col-sm-12 p-0">
         <img src="assets\img\idahot2022\test.jpg" alt="Festival IDAHOT 2022 lutte contre les discrimination à Amiens" class="img-fluid w-100">
@@ -180,6 +207,8 @@ require('layout/header.php');
         <img src="assets/img/picto/drapeau-philadelphia.ico" alt="pied de page avec le drapeau de philadelphia" class="img-fluid h-auto" style="width: 120px;">
     </div>
 </div>
+
+<script type="text/javascript" src="assets/js/script.js"></script>
 
 <?php
 require('layout/footer.php');
