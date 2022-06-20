@@ -40,9 +40,13 @@ Qui sommes Nous
     </div>
 </div>
 
-<div class="row justify-content-center blockBeige">
-    <div class="col-lg-11 m-auto">
-        <div class="card mb-3 mr-2 float-left" style="max-width: 540px; min-height: 210px;">
+
+
+
+
+<div class="row justify-content-center blockBeige pb-5">
+    <!-- AIDES -->
+        <div class="card float-left" style="max-width: 540px; min-height: 210px;">
             <div class="row no-gutters">
                 <div class="col-md-4 p-3">
                     <a target="_blank" href="https://www.aides.org/">
@@ -62,65 +66,8 @@ Qui sommes Nous
                 </div>
             </div>
         </div>
-        <div class="card mb-3 mr-2 float-left" style="max-width: 540px; min-height: 210px;">
-            <div class="row no-gutters">
-                <div class="col-md-4 p-3">
-                    <a target="_blank" href="https://www.facebook.com/Divergenre-105224454220663">
-                        <img src="assets\img\logos\Logo-Divergenre.png" height="100" alt="Logo Divergenre">
-                    </a>
-                </div>
-                <div class="col-md-8">
-                    <div class="card-body">
-                        <p class="card-text purple">Divergenre : Association basée à Amiens en
-                            autosupport, créée pour combler le vide intersidéral entre
-                            Lille et Paris dans le soutien et l'accompagnement par et
-                            pour les personnes trans et/ou en questionnement, nb,
-                            intersexes.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="card mb-3 float-left" style="max-width: 540px; min-height: 210px;">
-            <div class="row no-gutters">
-                <div class="col-md-4 p-3">
-                    <a target="_blank" href="https://www.gas-asso.org/">
-                        <img src="assets\img\logos\Logo-GAS.png" height="100" alt="Logo Groupe d’Appui et de Solidarité">
-                    </a>
-                </div>
-                <div class="col-md-8">
-                    <div class="card-body">
-                        <p class="card-text purple">
-                            Groupe d’Appui et de Solidarité : Association d’éducation populaire de lutte contre les
-                            inégalités
-                            et les discriminations pour l'inclusion sociale et l'émancipation des personnes vulnérables.
-                        </p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="col-lg-11 m-auto">
-        <div class="card mb-3 mr-2 float-left" style="max-width: 540px; min-height: 210px;">
-            <div class="row no-gutters">
-                <div class="col-md-4 p-3">
-                    <a target="_blank" href="https://flash-our-true-colors.fr/">
-                        <img src="assets\img\logos\Logo-FOTC.png" height="100" alt="Logo Flash Our True Colors">
-                    </a>
-                </div>
-                <div class="col-md-8">
-                    <div class="card-body">
-                        <p class="card-text purple">Flash Our True Colors : Association amiénoise de
-                            2011 qui lutte contre les discriminations, surtout celles faites
-                            aux personnes LGBTQI+. Notre travail se traduit par des
-                            moments d'échanges dans un cadre convivial de non
-                            jugement, mais aussi par des actions de visibilisations et
-                            de sensibilisations aux discriminations.
-                        </p>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="card mb-3 mr-2 float-left" style="max-width: 540px; min-height: 210px;">
+    <!-- BAVARDES -->
+        <div class="card float-left" style="max-width: 540px; min-height: 210px;">
             <div class="row no-gutters">
                 <div class="col-md-4 p-3">
                     <a target="_blank" href="https://lesbavardes.org/">
@@ -140,7 +87,67 @@ Qui sommes Nous
                 </div>
             </div>
         </div>
-        <div class="card mb-3 mr-2 float-left" style="max-width: 540px; min-height: 210px;">
+    <!-- DIVERGENRE  -->
+        <div class="card float-left" style="max-width: 540px; min-height: 210px;">
+            <div class="row no-gutters">
+                <div class="col-md-4 p-3">
+                    <a target="_blank" href="https://www.facebook.com/Divergenre-105224454220663">
+                        <img src="assets\img\logos\Logo-Divergenre.png" height="100" alt="Logo Divergenre">
+                    </a>
+                </div>
+                <div class="col-md-8">
+                    <div class="card-body">
+                        <p class="card-text purple">Divergenre : Association basée à Amiens en
+                            autosupport, créée pour combler le vide intersidéral entre
+                            Lille et Paris dans le soutien et l'accompagnement par et
+                            pour les personnes trans et/ou en questionnement, nb,
+                            intersexes.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    <!-- GAS  -->
+        <div class="card float-left" style="max-width: 540px; min-height: 210px;">
+            <div class="row no-gutters">
+                <div class="col-md-4 p-3">
+                    <a target="_blank" href="https://www.gas-asso.org/">
+                        <img src="assets\img\logos\Logo-GAS.png" height="100" alt="Logo Groupe d’Appui et de Solidarité">
+                    </a>
+                </div>
+                <div class="col-md-8">
+                    <div class="card-body">
+                        <p class="card-text purple">
+                            Groupe d’Appui et de Solidarité : Association d’éducation populaire de lutte contre les
+                            inégalités
+                            et les discriminations pour l'inclusion sociale et l'émancipation des personnes vulnérables.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    <!-- FLASH TRUE COLORS  -->
+        <div class="card float-left" style="max-width: 540px; min-height: 210px;">
+            <div class="row no-gutters">
+                <div class="col-md-4 p-3">
+                    <a target="_blank" href="https://flash-our-true-colors.fr/">
+                        <img src="assets\img\logos\Logo-FOTC.png" height="100" alt="Logo Flash Our True Colors">
+                    </a>
+                </div>
+                <div class="col-md-8">
+                    <div class="card-body">
+                        <p class="card-text purple">Flash Our True Colors : Association amiénoise de
+                            2011 qui lutte contre les discriminations, surtout celles faites
+                            aux personnes LGBTQI+. Notre travail se traduit par des
+                            moments d'échanges dans un cadre convivial de non
+                            jugement, mais aussi par des actions de visibilisations et
+                            de sensibilisations aux discriminations.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    <!-- SIMILI QUEER  -->
+        <div class="card float-left" style="max-width: 540px; min-height: 210px;">
             <div class="row no-gutters">
                 <div class="col-md-4 p-3">
                     <a target="_blank" href="https://www.facebook.com/similiqueer/">
@@ -160,7 +167,8 @@ Qui sommes Nous
                 </div>
             </div>
         </div>
-        <div class="card mb-3 mr-2 float-left" style="max-width: 540px; min-height: 210px;">
+    <!-- SOS HOMOPHOBIE  -->
+        <div class="card float-left" style="max-width: 540px; min-height: 210px;">
             <div class="row no-gutters">
                 <div class="col-md-4 p-3">
                     <a target="_blank" href="https://www.sos-homophobie.org/delegation/picardie">
@@ -182,7 +190,6 @@ Qui sommes Nous
                 </div>
             </div>
         </div>
-    </div>
 </div>
 
 <?php
