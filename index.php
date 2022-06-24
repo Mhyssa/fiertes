@@ -3,9 +3,61 @@ $Titre = "index";
 require('layout/header.php');
 ?>
 
-<div class="row mt-5">
+<!-- ------------------------------------------------------------------------------------------------------------------------------
+    Compte à rebours RENDEZ VOUS DANS + Details de la journée
+------------------------------------------------------------------------------------------------------------------------------ -->
+
+<div class="row block shadow py-5 mt-5">
+    <div class="col-12 col-md-6 text-center">
+        <h2 class="text-white mb-4">Début de la marche dans :</h2>
+        <ul style="font-family:'Fredericka the Great'">
+            <li class="count whiteOnRed"><span id="days"></span>Jours</li>
+            <li class="count blueOnSaffron"><span id="hours"></span>Heures</li>
+            <li class="count blueOnYellow"><span id="minutes"></span>Minutes</li>
+            <li class="count whiteOnGreen"><span id="seconds"></span>Secondes</li>
+        </ul>
+    </div>
+    <div class="col-12 col-md-6">
+        <h2 class="text-white mb-4 text-center">
+            Déroulement de la journée du 02 juillet
+        </h2>
+        <ul>
+            <li class="mb-2 thasadith text-white"><i class="fas fa-unlock text-white pr-3"></i>10h - Ouverture du village associatif</li>
+            <li class="mb-2 thasadith text-white"><i class="fas fa-hiking text-white pr-4"></i>13h - Début des prises de paroles puis départ de la déambulation</li>
+            <li class="mb-2 thasadith text-white"><i class="fas fa-microphone text-white pr-4"></i>17h - Retour de la déambulation puis concert de Lirose</li>
+            <li class="mb-2 thasadith text-white"><i class="fas fa-moon text-white pr-4"></i>18h - Fin des festivités</li>
+        </ul>
+    </div>
+</div>
+
+<div class="row">
     <div class="col-sm-12 p-0">
         <img src="assets\img\idahot2022\test.jpg" alt="Festival IDAHOT 2022 lutte contre les discrimination à Amiens" class="img-fluid w-100">
+    </div>
+</div>
+
+<!-- ------------------------------------------------------------------------------------------------------------------------------
+    Plan de la marche / Parcours
+------------------------------------------------------------------------------------------------------------------------------ -->
+
+<div class="row p-5">
+    <div class="col-12 col-sm-12 col-md-8">
+        <iframe src="https://www.google.com/maps/embed?pb=!1m76!1m12!1m3!1d2570.2734179772724!2d2.2952202015299337!3d49.89366993510547!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m61!3e2!4m5!1s0x47e7843ffa7aa67b%3A0x7c5413872f67d8a1!2sPlace%20L%C3%A9on%20Gontier%2C%2080000%20Amiens!3m2!1d49.8940713!2d2.2930696999999998!4m5!1s0x47e7844004671233%3A0xef487e8aa9c75268!2sRue%20de%20la%202%C3%A8me%20Division%20Blind%C3%A9e%2C%2080000%20Amiens!3m2!1d49.8930687!2d2.2927302!4m5!1s0x47e784471a0dcde1%3A0x845396dbb2291164!2sRue%20des%20Jacobins%2C%2080000%20Amiens!3m2!1d49.891557!2d2.299673!4m5!1s0x47e78447ae59b6e9%3A0x86c5fcc9df2cb0c5!2sRue%20Allart%2C%2080000%20Amiens!3m2!1d49.891287!2d2.301234!4m5!1s0x47e78447ed670add%3A0xfa4dcd9e951ec57d!2sRue%20Victor%20Hugo%2C%2080000%20Amiens!3m2!1d49.892731399999995!2d2.3023314!4m5!1s0x47e78438b109ea4f%3A0x9337ceeb6229aa24!2sRue%20des%20Sergents%2C%2080000%20Amiens!3m2!1d49.894278799999995!2d2.2987523999999997!4m5!1s0x47e78438cc794701%3A0xaadf1c5a3ddc6785!2sRue%20Saint-Martin%20aux%20Waides%2C%2080000%20Amiens!3m2!1d49.8950576!2d2.2985523!4m5!1s0x47e7843fab93ee8d%3A0x169f27f307e5ffd8!2sRue%20au%20Lin%2C%2080000%20Amiens!3m2!1d49.8958455!2d2.2951435!4m5!1s0x47e7843fb354cf45%3A0xef9b6016aa14016b!2sRue%20du%20G%C3%A9n%C3%A9ral%20Leclerc%2C%2080000%20Amiens!3m2!1d49.896173999999995!2d2.294059!4m5!1s0x47e7843ffa7aa67b%3A0x7c5413872f67d8a1!2sPlace%20L%C3%A9on%20Gontier%2C%2080000%20Amiens!3m2!1d49.8940713!2d2.2930696999999998!5e0!3m2!1sfr!2sfr!4v1623684209454!5m2!1sfr!2sfr" width="100%" height="520px" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+    </div>
+    <div class="col-12 col-sm-12 col-md-4 d-flex flex-column justify-content-center">
+        <h2 class="orange text-center mb-5">Itinéraire</h2>
+        <ol>
+            <li class="orange mb-2"><i class="fas fa-map-marker-alt orange"></i> Départ Place Léon Gontier</li>
+            <li class="orange mb-2"><i class="fas fa-map-marker-alt orange"></i> Rue de la 2eme division Blindée</li>
+            <li class="orange mb-2"><i class="fas fa-map-marker-alt orange"></i> Rue des Jacobinsv</li>
+            <li class="orange mb-2"><i class="fas fa-map-marker-alt orange"></i> Rue Allart</li>
+            <li class="orange mb-2"><i class="fas fa-map-marker-alt orange"></i> Rue Victor Hugo</li>
+            <li class="orange mb-2"><i class="fas fa-map-marker-alt orange"></i> Rue des sergents</li>
+            <li class="orange mb-2"><i class="fas fa-map-marker-alt orange"></i> Rue Saint-Martin aux Waides</li>
+            <li class="orange mb-2"><i class="fas fa-map-marker-alt orange"></i> Rue au Lin</li>
+            <li class="orange mb-2"><i class="fas fa-map-marker-alt orange"></i> Rue du Général Leclerc</li>
+            <li class="orange mb-2"><i class="fas fa-map-marker-alt orange"></i> Place Léon Gontier</li>
+        </ol>
     </div>
 </div>
 
@@ -180,6 +232,8 @@ require('layout/header.php');
         <img src="assets/img/picto/drapeau-philadelphia.ico" alt="pied de page avec le drapeau de philadelphia" class="img-fluid h-auto" style="width: 120px;">
     </div>
 </div>
+
+<script type="text/javascript" src="assets/js/script.js"></script>
 
 <?php
 require('layout/footer.php');

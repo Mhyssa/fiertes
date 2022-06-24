@@ -20,8 +20,6 @@
         fierte.amiens@gmail.com
       </p>
 
-
-
     </div>
     <div class="col-lg-8 col-sm-12 pb-3">
       <a target="_blank" href="https://www.aides.org/">
@@ -64,7 +62,6 @@
 </div>
 </div>
 
-
 <!-- Optional JavaScript -->
 <!-- jQuery first, then Popper.js, then Bootstrap JS -->
 <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
@@ -77,7 +74,6 @@
  <script src="https://cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/5.3.0/ekko-lightbox.min.js"></script>
 
 <script>
-
     $(document).on('click', '[data-toggle="lightbox"]', function(event){
         event.preventDefault();
         $(this).ekkoLightbox();
@@ -87,14 +83,11 @@
       console.log(check)
       if (check==0){
         $("#VisualTarget").removeClass( "lireTout" );
-
         check = 1;
       }else{
         $( "#VisualTarget" ).addClass( "lireTout" );
         check = 0;
       }
-
-
     });
 </script>
 
@@ -118,7 +111,6 @@
       "href": "politique.php"
     }
   });
-
 </script>
 
 </body>
