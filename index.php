@@ -26,6 +26,11 @@ require('layout/header.php');
             <li class="mb-2 thasadith text-white"><i class="fas fa-hiking text-white pr-4"></i>13h - Début des prises de paroles puis départ de la déambulation</li>
             <li class="mb-2 thasadith text-white"><i class="fas fa-microphone text-white pr-4"></i>17h - Retour de la déambulation puis concert de Lirose</li>
             <li class="mb-2 thasadith text-white"><i class="fas fa-moon text-white pr-4"></i>18h - Fin des festivités</li>
+            <br><br>
+            <li class="mb-2 thasadith text-white"><i class="fas fa-scroll text-white pr-4"></i>
+            <a href="assets/docs/brochure_finalise.pdf" id="brochure">Guide complet de la marche disponible ici</a>
+            </li>
+        
         </ul>
     </div>
 </div>
