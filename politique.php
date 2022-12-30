@@ -11,8 +11,7 @@ require("layout/header.php");
                 <h1 class="text-center">Politique de confidentialité</h1>
                 <h2 class="text-center pt-4 pb-4">Responsables de publication :</h2>
                 <p>
-                    Marion Joly.<br>
-                    Pour joindre la responsable de publication, merci d’envoyer un email à contact@fiertesamiens.fr<br>
+                    Pour joindre la responsable de publication, merci d’envoyer un email àfierte.amiens@gmail.com<br>
                     Le présent site internet fiertesamiens.fr (le « Site Internet ») est édité par :<br>
                     Collectif Idahot Amiens<br>
                     Organisme à but non lucratif (association loi 1901, fondations, fonds de dotation)<br>
